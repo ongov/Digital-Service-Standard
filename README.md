@@ -448,6 +448,7 @@ government:
 At a minimum:
 
 * use open standards and common platforms
+* favour open tools that are accessible and have a strong developer community supporting them
 * identify common platforms to use
 * understand common user needs with other services and meet those needs
   consistently with the rest of government
