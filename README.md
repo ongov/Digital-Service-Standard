@@ -658,6 +658,7 @@ At a minimum:
 * use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
 * demonstrate how service performance compares to other similar
   government and private sector services
+* share your review findings with executives
 
 ## 14 — Test with the minister
 
