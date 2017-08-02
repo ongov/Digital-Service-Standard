@@ -229,6 +229,7 @@ At a minimum:
 
 * meet with other channel service providers to understand the steps users take to complete their goal and how your
   service fits
+* show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
 * ensure prototypes incorporate the end-to-end user experience
 * show the results of research and usability testing and how these will
   be used to improve the design of the service
