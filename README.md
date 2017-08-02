@@ -277,6 +277,7 @@ At a minimum:
 * make the service accessible, including for users with lower levels of
   digital skills
 * do usability testing and make improvements accordingly
+* informal testing is a highly valuable tool for agile projects - don't let budget and time constraints stop you from testing
 * make design and content decisions based on research, testing and
   analytics
 * make sure people can get through the service from start to finish
