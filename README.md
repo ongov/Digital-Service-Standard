@@ -113,13 +113,13 @@ challenges that more digitally savvy users will struggle to voice. This
 is critical to building tools that work for everyone and avoiding
 inequalities through digital services.
 
-To inform service features, pull together:
+To inform service features:
 
-* **User goals** - written in this format: As a \[user type\], I want
+* Interview users to discover **User goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
-* **User personas** - show user groups based on habits, personality,
+* Interview users to develop **User personas** - show user groups based on habits, personality,
   attitudes and motives
-* **User profiles** - show user groups based on demographics such as
+* Gather data to create **User profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
 ### How to meet this standard
