@@ -358,7 +358,7 @@ At a minimum:
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
 * conduct research and testing to ensure the service is accessible to
-  people of all abilities
+  people of all abilities no matter what channel they use to access the service
 * design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
