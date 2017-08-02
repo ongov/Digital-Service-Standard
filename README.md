@@ -278,6 +278,7 @@ At a minimum:
   digital skills
 * do usability testing at least once before and after the service goes live and make improvements accordingly
 * informal testing is a highly valuable tool for agile projects - don't let budget and time constraints stop you from testing
+* scale your testing to match the importance of the service and volume of users
 * make design and content decisions based on research, testing and
   analytics
 * make sure people can get through the service from start to finish
