@@ -71,7 +71,6 @@ At a minimum:
   improve the service
 * dedicate one user researcher on the project for at least 3 days each
   week
-* separate key roles in the team so nobody is performing multiple roles
 * identify gaps in the team and fill them
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
