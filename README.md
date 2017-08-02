@@ -74,6 +74,7 @@ At a minimum:
 * identify gaps in the team and fill them
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
+* involve the team that will maintain the service early on in the project
 
 ## 2 — Understand users and their needs
 
