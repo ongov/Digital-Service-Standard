@@ -675,10 +675,12 @@ If the service is not for broad public use (i.e. stakeholders) or not a priority
 
 ### How to meet this standard
 
-At a minimum, show the service to the minister(s) responsible for it. If
-it’s a transactional service, have the minister(s) test the end-to-end
+At a minimum: 
+* share your user research with the minister and demonstrate a protoype of the service
+* show the service to the minister(s) responsible for it
+* if it’s a transactional service, have the minister(s) test the end-to-end
 service to ensure that they can get through it the way a constituent
-would have to.
+would have to (during usability testing phase early on in the project)
 
 ---
 
