@@ -17,10 +17,12 @@ We’re in the early days of bringing this standard to life. We encourage
 you to adopt as much of the standard as possible, and to share your
 feedback with us.
 
-![Discovery (June-July) — Conducting user research within the Ontario Digital Service and critical partners](./images/discovery-phase.png)
-![Alpha (July-September) — Publishing a first draft and updating once a month based on user feedback and web analytics](./images/alpha-phase.png)
-![Beta (October-March) — Continuing to update the standard and adding more guides based on user input and analytics](./images/beta-phase.png)
-![Live (March-May) — Standard published with links to communities of practice, still continually updated](./images/live-phase.png)
+| User needs |            |
+| ---------- | ---------- |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July)</h3>Conducting user research within the Ontario Digital Service and critical partners |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-September)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (October-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
 
 ## 1 — Establish the right team
 
