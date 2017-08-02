@@ -137,7 +137,7 @@ In the next stage:
 
 * test the service with real users, and be able to explain:
   * number of test participants and their basic demographic characteristics
-  * how many users involved in testing had accessibility challenges
+  * how many users involved in testing had accessibility challenges or needed assisted digital support
   * how they were recruited
   * how analytics were used in research
   * any new insights and lessons
