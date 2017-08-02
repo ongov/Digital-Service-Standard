@@ -135,8 +135,8 @@ At a minimum:
 
 In the next stage:
 
-* test the service with real users, including:
-  * number of participants and basic demographic characteristics
+* test the service with real users, and be able to explain:
+  * number of test participants and their basic demographic characteristics
   * how many users involved in testing had accessibility challenges
   * how they were recruited
   * how analytics were used in research
