@@ -398,6 +398,7 @@ Agile methods build services that:
 * can change easily if, for example, government policy or technology
   changes
 * can keep improving based on user feedback
+* can be built quickly, with a minimum set of features, and enhanced with more features, after the service goes live
 
 ### How to meet this standard
 
