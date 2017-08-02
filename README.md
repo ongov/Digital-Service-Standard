@@ -654,6 +654,7 @@ At a minimum:
 * define performance metrics for the service up-front, early on in the
   design process
 * regularly review the technology used to provide the service and the processes that support the service
+* base your service review frequency on the volume of users, e.g. 10,000 or less unique users per year = 2 year review cycle. 10,000-100,000 = annual 100,000-1 million = every 6 months
 * use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
 * demonstrate how service performance compares to other similar
   government and private sector services
