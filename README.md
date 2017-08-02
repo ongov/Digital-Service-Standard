@@ -227,7 +227,7 @@ goal.
 
 At a minimum:
 
-* understand the steps users take to complete their goal and how your
+* meet with other channel service providers to understand the steps users take to complete their goal and how your
   service fits
 * ensure prototypes incorporate the end-to-end user experience
 * show the results of research and usability testing and how these will
