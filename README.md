@@ -270,7 +270,7 @@ At a minimum:
 * explain the service and what it does
 * show that the majority of users are succeeding the first time they try
   to use it
-* use research, testing and analytics to make regular improvements to
+* explain the frequency you will use research, testing and analytics to make regular improvements to
   the service
 * demonstrate that all end-to-end user experiences work and test them,
   including for people who need help accessing digital tools
