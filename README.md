@@ -417,6 +417,7 @@ At a minimum:
   user research findings
 * identify any problems found in research and solutions to improve the
   service
+* use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
 ## 9 — Use open standards and common platforms
 
