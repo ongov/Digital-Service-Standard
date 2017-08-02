@@ -304,9 +304,6 @@ Don’t wait until users discover an error in the online service. Monitor
 the service and avoid any downtime in the service. Users expect modern
 digital services to be online 24/7.
 
-Testing the end-to-end service directly with users allows us to find
-problems before they become a much larger issue.
-
 This means more satisfied users that have trust in government services.
 
 ### How to meet this standard
