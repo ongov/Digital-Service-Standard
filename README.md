@@ -653,6 +653,7 @@ At a minimum:
   identify areas for change
 * define performance metrics for the service up-front, early on in the
   design process
+* regularly review the technology used to provide the service and the processes that support the service
 * use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
 * demonstrate how service performance compares to other similar
   government and private sector services
