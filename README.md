@@ -11,6 +11,8 @@ improve it.
 Send thoughts and ideas to
 [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca).
 
+[Open Government Licence – Ontario][https://www.ontario.ca/page/open-government-licence-ontario]
+
 ## Release Stages
 
 We’re in the early days of bringing this standard to life. We encourage
