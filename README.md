@@ -66,7 +66,7 @@ At a minimum:
   technical, user experience and policy skills
 * work collaboratively
 * embed expertise from other business areas and ministries (e.g.
-  finance, legal, policy) to achieve desired outcomes
+  finance, legal, policy, correspondence) to achieve desired outcomes
 * have a manager with the ability to make day-to-day decisions to
   improve the service
 * dedicate one user researcher on the project for at least 3 days each
