@@ -575,6 +575,7 @@ When the service is live:
 
 * plan to move and increase users to the digital service and include
   yearly targets for 5 years
+* measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
 
 ## 12 — Provide support for those who need it
 
@@ -671,6 +672,7 @@ service to ensure that they can get through it the way a constituent
 would have to.
 
 ---
+## Why it matters
 
 This Digital Service Standard was developed for the Ontario government
 to use as we design online information and transactional services for
