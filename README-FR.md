@@ -1,11 +1,13 @@
 # Norme des services numériques
 
-La Norme des services numériques expose 14 points visant à aider le gouvernement à concevoir et offrir des services en ligne d'excellence.
+La Norme des services numériques expose 14 points visant à aider le gouvernement à concevoir et offrir des services en ligne d'excellence
 
 Tous les nouveaux services et renseignements publics, ainsi que ceux faisant l'objet d'une refonte, devront à terme être conformes à la présente norme avant d'être mis en ligne. Mais, avant cette phase, nous souhaitons tester cette norme et recueillir les avis des utilisateurs afin de l'améliorer.
 
 Merci d'envoyer vos idées et réflexions à : 
 [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca).
+
+[Licence du gouvernement ouvert – Ontario](https://www.ontario.ca/fr/page/licence-du-gouvernement-ouvert-ontario)
 
 ## Phases de déploiement
 Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter cette norme autant que possible et à nous faire part de vos retours.
@@ -27,7 +29,7 @@ Un produit désigne tout ce qui est créé pour un groupe spécifique d'utilisat
 
 ### Importance de la question
 
-Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 [1] .
+Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 <sup id="a1">[1](#f1)</sup> .
 
 Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service. Sa structure devra également s'adapter aux besoins du service et à la phase de travail en cours.
 
@@ -501,7 +503,7 @@ L’élaboration de la présente norme fait fond sur des recherches au Canada et
 ### Footnotes
 
 * <a id="f1">1</a> anciennes versions d'un service, créées à des fins de test [↩](#a1)
-* <a id="f2">2</a> [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+* <a id="f2">2</a> [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
    était au départ une approche alternative au développement de logiciels. Ces méthodes sont désormais appliquées à d'autres types de projets et de produits. Leurs principes sont définis dans le
-   [Manifeste pour le développement Agile de logiciels](http://www.agilemanifesto.org/) [↩](#a2)
+   [Manifeste pour le développement Agile de logiciels](http://agilemanifesto.org/iso/fr/manifesto.html) [↩](#a2)
 * <a id="f3">3</a> diagrammes de processus enregistrés à partir du point de vue de vos utilisateurs [↩](#a3)
