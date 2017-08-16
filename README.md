@@ -3,9 +3,7 @@
 The Digital Service Standard sets out 14 points to help government build
 and deliver excellent online services.
 
-All new or redesigned public-facing information and services will
-eventually be required to meet the standard, before going live. Before
-that happens, we want to test the standard, gather user feedback and
+All new and redesigned public-facing information and services will eventually be required to follow the standard, from the very beginning of the project. Before that happens, we want to test the standard, gather user feedback and
 improve it.
 
 Send thoughts and ideas to
