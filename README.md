@@ -7,10 +7,43 @@ All new or redesigned public-facing information and services will
 eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and
 improve it.
 
-Send thoughts and ideas to
-[digital.standard@ontario.ca](mailto:digital.standard@ontario.ca).
+You can share your thoughts and ideas about the standard by: 
 
-[Open Government Licence – Ontario][https://www.ontario.ca/page/open-government-licence-ontario]
+* emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
+* forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
+
+## Email guidelines
+
+* Send plain text formats like text files, Word documents and Google docs
+* Do not send HTML, PDF, printed paper or handwritten notes
+* Tell us what section your suggestions apply to or if they apply to the overall document
+* Include the original text for reference and your proposed changes if you are sending text file or email
+* Use Track Changes or suggest mode if you are sending Word or Google documents
+* Tell us the reason for your suggestion and the benefit it will have
+
+## GitHub guidelines
+
+* Use markdown to format your changes
+* Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
+* Fork off of our develop branch and when you are done make a pull request back to develop
+* Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
+* Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
+
+## How we will evaluate changes to the standard
+
+ The policy team will review all of the changes submitted by email and GitHub and decide which changes to make based on the following criteria:  
+
+1. Will the change support the core goal of helping government build and deliver excellent online services?
+2. Who has used the practice? Is it documented? Where?  For example, agile software development processes are currently a best practice in many digital organizations including Spotify, Google and Amazon.
+3. Is it specific, measurable and realistic?
+4. Does it duplicate anything elsewhere in the standard?
+5. Does it contradict Ontario's laws, policies or other standards?
+6. If a team does not follow this practice, is the service likely to be unusable for some users or unlikely to be built in a timely, affordable manner?
+7. Does it apply to all types of services?
+8. Is it written clearly and understandable for all audiences (including non-technical ones)?
+9. Does the Git commit message describe the reason for the change?
+
+[Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario)
 
 ## Release Stages
 
