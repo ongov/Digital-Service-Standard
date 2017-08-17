@@ -74,7 +74,7 @@ At a minimum:
 * identify gaps in the team and fill them
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
-* involve the team that will maintain the service early on in the project
+* involve maintenance team for the service early on in the project
 
 ## 2 — Understand users and their needs
 
@@ -113,13 +113,13 @@ challenges that more digitally savvy users will struggle to voice. This
 is critical to building tools that work for everyone and avoiding
 inequalities through digital services.
 
-To inform service features:
+To inform service features, interview users and gather data to develop:
 
-* Interview users to discover **User goals** - written in this format: As a \[user type\], I want
+* **user goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
-* Interview users to develop **User personas** - show user groups based on habits, personality,
+*  **user personas** - show user groups based on habits, personality,
   attitudes and motives
-* Gather data to create **User profiles** - show user groups based on demographics such as
+* **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
 ### How to meet this standard
@@ -227,7 +227,7 @@ goal.
 
 At a minimum:
 
-* meet with other channel service providers to understand the steps users take to complete their goal and how your
+* examine similar service providers to understand the steps users take to complete their goal and how your
   service fits
 * show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
 * ensure prototypes incorporate the end-to-end user experience
@@ -277,7 +277,6 @@ At a minimum:
 * make the service accessible, including for users with lower levels of
   digital skills
 * do usability testing at least once before and after the service goes live and make improvements accordingly
-* informal testing is a highly valuable tool for agile projects - don't let budget and time constraints stop you from testing
 * scale your testing to match the importance of the service and volume of users
 * make design and content decisions based on research, testing and
   analytics
@@ -358,7 +357,7 @@ At a minimum:
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
 * conduct research and testing to ensure the service is accessible to
-  people of all abilities no matter what channel they use to access the service
+  people of all abilities no matter how they use to access the service
 * design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
@@ -398,7 +397,7 @@ Agile methods build services that:
 * can change easily if, for example, government policy or technology
   changes
 * can keep improving based on user feedback
-* can be built quickly, with a minimum set of features, and enhanced with more features, after the service goes live
+* can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
 
 ### How to meet this standard
 
@@ -655,11 +654,11 @@ At a minimum:
 * define performance metrics for the service up-front, early on in the
   design process
 * regularly review the technology used to provide the service and the processes that support the service
-* base your service review frequency on the volume of users, e.g. 10,000 or less unique users per year = 2 year review cycle. 10,000-100,000 = annual 100,000-1 million = every 6 months
+* base your service review frequency on the volume of users (e.g. 10,000 or less unique users per year = 2 year review cycle; 10,000-100,000 = annual; 100,000-1 million = every 6 months)
 * use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
 * demonstrate how service performance compares to other similar
   government and private sector services
-* share your review findings with executives
+* share your review findings with leadership
 
 ## 14 — Test with the minister
 
@@ -672,7 +671,7 @@ Ministers are responsible for delivering on the government’s priorities
 for the people of Ontario, so you need to show them the digital service
 before it goes live.
 
-If the service is not for broad public use (i.e. stakeholders) or not a priority (e.g. supports awareness of an initiative, fulfing a government need, but not a user need), be able to demonstrate why minister review is not necessary.
+If the service is not for broad public use or not a priority, be able to demonstrate why minister review is not necessary.
 
 ### How to meet this standard
 
