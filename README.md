@@ -497,7 +497,7 @@ At a minimum:
   * Web publishing - [Ontario.ca](http://www.ontario.ca/)
   * News - [Ontario Newsroom](https://www.ontario.ca/news)
   * Open data -
-    [Open data catalogue](https://www.ontario.ca/search/data-catalogue)
+    [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
 ## 10 — Embed privacy and security by design
 
