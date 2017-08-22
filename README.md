@@ -661,7 +661,7 @@ Respond to user research by:
 
 ## 13 — Measure performance
 
-Continuously capture and monitor performance data to to inform ongoing
+Continuously capture and monitor performance data to inform ongoing
 service improvements.
 
 ### Why it matters
