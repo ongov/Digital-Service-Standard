@@ -23,6 +23,7 @@ You can share your thoughts and ideas about the standard by: 
 
 ## GitHub guidelines
 
+**IMPORTANT:** Please note that the `develop` branch is only a work in progress draft and has not been officially published yet. You can find the approved and official Standard in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
 * Use markdown to format your changes
 * Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
 * Fork off of our develop branch and when you are done make a pull request back to develop
