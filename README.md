@@ -23,6 +23,7 @@ You can share your thoughts and ideas about the standard by: 
 
 ## GitHub guidelines
 
+**NOTE:** The `develop` branch is a working draft. The official standard is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
 * Use markdown to format your changes
 * Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
 * Fork off of our develop branch and when you are done make a pull request back to develop
@@ -661,7 +662,7 @@ Respond to user research by:
 
 ## 13 — Measure performance
 
-Continuously capture and monitor performance data to to inform ongoing
+Continuously capture and monitor performance data to inform ongoing
 service improvements.
 
 ### Why it matters
