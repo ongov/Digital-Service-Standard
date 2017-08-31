@@ -1,22 +1,57 @@
-# Norme des services numériques
+# Normes des services numériques
 
-La Norme des services numériques expose 14 points visant à aider le gouvernement à concevoir et offrir des services en ligne d'excellence
+Les Normes des services numériques exposent 14 points visant à aider le gouvernement à concevoir et à offrir des services en ligne d'excellence
 
-Tous les nouveaux services et renseignements publics, ainsi que ceux faisant l'objet d'une refonte, devront à terme être conformes à la présente norme avant d'être mis en ligne. Mais, avant cette phase, nous souhaitons tester cette norme et recueillir les avis des utilisateurs afin de l'améliorer.
+Tous les services et renseignements nouveaux ou révisés devront éventuellement respecter ces normes avant que commence tout travail. Nous voulons d’abord tester les normes, obtenir une rétroaction et les améliorer.
+Vous pouvez nous faire part de vos observations et idées :
 
-Merci d'envoyer vos idées et réflexions à : 
-[digital.standard@ontario.ca](mailto:digital.standard@ontario.ca).
+* par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
+* sur notre [dépôt GitHub](https://github.com/ontario-digital/Digital-Service-Standard)
+
+## Lignes directrices pour les courriels
+
+* Courriellez des formats texte en clair, par exemple des fichiers textes, des documents Word et Google
+* N’envoyez pas de HTML, de PDF, de sorties imprimées, ni de notes manuscrites
+* Indiquez la section à laquelle vos suggestions s’appliquent ou indiquez si elles s’appliquent à l’ensemble du document
+* Joignez le texte original à titre de référence ainsi que les modifications que vous proposez si vous nous envoyez un fichier texte ou un courriel
+* Utilisez le fonction Track Changes (Suivi des modifications) ou le mode suggestion si vous envoyez des documents Word ou Google
+* Dites-nous la raison de votre suggestion et l’avantage qu’elle présentera
+
+## Lignes directrices pour GitHub
+
+**Nota :** Le `develop` branch (embranchement développer) est une ébauche de travail. Les normes officielles se trouvent dans le `master` branc (’embranchement maître) et sur Ontario.ca.
+
+* Utilisez Markdown pour formater vos modifications
+* N’utilisez pas HTML sauf si les modifications que vous voulez faire ne peuvent pas être faites avec Markdown (par exemple, les rubriques dans un tableau)
+* Sortez de notre embranchement développer et lorsque vous avez terminé, faites une demande de retour (pull request) pour retourner à l’embranchement développer
+* Baptisez votre embranchement en lui donnant votre prénom ou votre nom d’utilisateur, le type de modification (correction d’une faute de frappe ou de grammaire ou élément à ajouter ou à effacer), le tout suivi de la description de vos modifications nom/correction/mes-modifications OU nom/élément/mes-modifications
+* Prenez un engagement (commit) par modification et expliquez la raison de votre modification dans votre message d’engagement (n’indiquez pas ce que vous avez modifié, mais pourquoi)
+
+## Comment allons-nous évaluer les modifications aux normes
+
+L’équipe des politiques examinera toutes les modifications suggérées par courriel ou sur GitHub et décidera des modifications à effectuer en fonction des critères suivants :
+
+1.  La modification soutient-elle l’objectif principal d’aider le gouvernement à établir et à offrir d’excellents services en ligne?
+2.  Qui a utilisé cette pratique? Est-elle documentée? Où?
+ Par exemple, les processus agiles de développement de logiciels sont à l’heure actuelle une pratique exemplaire dans de nombreuses organisations numériques, dont Spotify, Google et Amazon.
+3.  Le résultat escompté est-il précis, mesurable et réaliste?
+4.  Est-ce que cela entraînerait un dédoublement d’un autre élément des normes?
+5.  Est-ce en contradiction avec les lois, politiques ou autres normes de l’Ontario?
+6.  Si une équipe ne suit pas cette pratique, est-ce que le service risque de devenir non utilisable pour certains utilisateurs ou a-t-il peu de chances d’être établi en temps opportun et à coût abordable?
+7.  Est-ce que cela s’applique à tous les types de services?
+8.  Est-ce écrit de manière claire et compréhensible pour tous les destinataires (y compris ceux qui ne sont pas férus sur le plan technique)?
+9.  Est-ce que le message d’engagement de Git décrit la raison de la modification?
 
 [Licence du gouvernement ouvert – Ontario](https://www.ontario.ca/fr/page/licence-du-gouvernement-ouvert-ontario)
 
 ## Phases de déploiement
 Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter cette norme autant que possible et à nous faire part de vos retours.
 
-| Besoins des usagers |            |
+| Besoins des utilisateurs |            |
 | ---------- | ---------- |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet)</h3>Mener une recherche auprès des usagers des Services numériques de l'Ontario et des partenaires cruciaux |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet-septembre)</h3>Publier une première ébauche et la mettre à jour une fois par mois selon les rétroactions des usagers et les analytiques du Web |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (octobre-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des usagers et les analytiques |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet)</h3>Mener une recherche auprès des utilisateurs des Services numériques de l'Ontario et des partenaires cruciaux |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet-septembre)</h3>Publier une première ébauche et la mettre à jour une fois par mois selon les rétroactions des utilisateurs et les analytiques du Web |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (octobre-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des utilisateurs et les analytiques |
 | <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne (mars-mai)</h3>Publication des normes avec des liens vers les communautés de pratique, maintien des mises à jour continuelles |
 
 ## 1 — Former une équipe adaptée
@@ -45,13 +80,13 @@ Au minimum :
 
 * constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
 * travaillez en collaboration;
-* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, une expertise financière, juridique ou en matière de politique) pour atteindre l'objectif souhaité;
+* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
 * employez un responsable autorisé à prendre des décisions au quotidien dans le but d'améliorer le service;
 * chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
-* partagez les missions principales dans l'équipe de façon à ce que personne n'assume plusieurs responsabilités;
 * identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
 * procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
-* continuez à améliorer le service, même une fois celui-ci déployé.
+* continuez à améliorer le service, même une fois celui-ci déployé;
+* faites participer l’équipe de maintenance du service aux premières étapes du projet.
 
 ## 2 — Comprendre les utilisateurs et leurs besoins
 
@@ -75,7 +110,7 @@ Il est utile de définir le profil d'un utilisateur moyen, mais aussi celui des 
 
 Servez-vous de leurs besoins comme d'un guide qui vous aidera à faire ressortir les problèmes que les utilisateurs plus à l'aise avec la technologie auront du mal à formuler. C'est une étape essentielle pour concevoir des outils qui fonctionnent pour tous, et ainsi éviter d'engendrer des inégalités dans les services numériques.
 
-Pour définir les caractéristiques du service, identifiez :
+Pour définir les caractéristiques du service, rencontrez les utilisateurs et rassemblez des données pour préparer :
 
 * les **objectifs des utilisateurs** - rédigés au format suivant : En tant que \[type d'utilisateur\], je veux
   \[objectif\] afin de \[raison\]
@@ -94,12 +129,12 @@ Au minimum :
 
 À l'étape suivante :
 
-* testez le service avec de vrais utilisateurs en tenant compte :
-  * du nombre de participants et de leurs caractéristiques démographiques générales;
-  * de la proportion d'utilisateurs participants ayant des difficultés en termes d'accessibilité;
-  * de la façon dont ils ont été recrutés;
-  * de la façon dont les données analytiques ont été utilisées lors de vos recherches;
-  * de toute nouvelle idée ou leçon apprise.
+* testez le service avec de vrais utilisateurs et soyez capable d’expliquer :
+  * le nombre de participants et de leurs caractéristiques démographiques générales;
+  * le nombre d'utilisateurs participants ayant des difficultés en termes d'accessibilité ou qui ont eu besoin d’aide numérique;
+  * la façon dont ils ont été recrutés;
+  * la façon dont les données analytiques ont été utilisées lors de vos recherches;
+  * toute nouvelle idée ou leçon apprise.
 * expliquez les changements émanant de ces recherches auprès des utilisateurs;
 * évoquez les besoins des utilisateurs les plus difficiles à satisfaire;
 * parlez des difficultés de conception que posent les besoins des utilisateurs.
@@ -160,7 +195,8 @@ Comprenez le cheminement global des utilisateurs pour atteindre leur objectif, y
 
 Au minimum :
 
-* comprenez les étapes par lesquelles les utilisateurs doivent passer pour atteindre leur objectif et quelle est la place de votre service;
+* examinez d’autres avenues afin de comprendre les étapes par lesquelles les utilisateurs doivent passer pour atteindre leur objectif et quelle est la place de votre service;
+* montrez le cheminement de tous les points dans l’expérience que retire l’utilisateur du service, à partir du moment où il en entend parler jusqu’à ce qu’il ait terminé sa transaction et reçu le produit (si cela s’applique);
 * assurez-vous que les prototypes intègrent l'expérience utilisateur de bout en bout;
 * montrez les résultats de vos recherches et de vos tests utilisateurs, ainsi que la façon dont ils seront utilisés dans le but d'améliorer le service;
 * mettez en place un plan de recherche utilisateur qui couvre l'ensemble des étapes de la conception du service jusqu'à son déploiement, et qui inclut les prochaines étapes de développement;
@@ -188,9 +224,11 @@ Au minimum :
 
 * expliquez le service et ce qu'il fait;
 * montrez que la majorité des utilisateurs parvient à l'utiliser du premier coup;
-* ayez recours aux recherches, aux tests et aux données analytiques pour améliorer régulièrement le service;
+* expliquez la fréquence à laquelle vous utiliserez les résultats des recherches et des tests ainsi que les données analytiques afin d’améliorer régulièrement le service;
 * démontrez que vous testez l'ensemble des expériences utilisateurs de bout en bout et qu'elles fonctionnent, y compris pour ceux ayant besoin d'aide pour accéder aux outils numériques;
 * rendez les services accessibles, y compris aux utilisateurs dont les compétences numériques sont peu développées;
+* faites des tests de convivialité au moins une fois avant et après la mise en ligne du service et procédez aux améliorations nécessaires;
+* établissez l’envergure de vos tests en fonction de l’importance du service et du nombre d’utilisateurs;
 * effectuez des tests utilisateurs et introduisez les améliorations nécessaires;
 * basez vos décisions en matière de conception et de contenu sur vos recherches, tests et données analytiques;
 * assurez-vous que les utilisateurs peuvent naviguer dans le service du début à la fin, sans aide;
@@ -206,8 +244,6 @@ Assurez-vous de le tester avec les navigateurs et appareils utilisés par votre 
 ### Importance de la question
 
 N'attendez pas que les utilisateurs découvrent une erreur dans les services en ligne. Mettez en place des contrôles et faites en sorte d'éviter les périodes d'inaccessibilité. Les utilisateurs s'attendent à ce que les services numériques modernes soient disponibles 24 heures sur 24 et sept jours sur sept.
-
-Faire tester le service de bout en bout directement par des utilisateurs permet de déceler les problèmes avant qu'ils ne prennent trop d'ampleur.
 
 Les utilisateurs sont donc plus satisfaits et ont davantage confiance dans les services fournis par le gouvernement.
 
@@ -244,7 +280,7 @@ Au minimum :
 
 * respectez les
   [instructions visant à rendre l'information accessible](https://www.ontario.ca/fr/page/comment-rendre-linformation-accessible) publiées par la Direction générale de l'accessibilité pour l'Ontario;
-* effectuez des recherches et des tests pour vous assurer que le service est accessible à tous les utilisateurs, quelles que soient leurs capacités;
+* effectuez des recherches et des tests pour vous assurer que le service est accessible à tous les utilisateurs, quelles que soient leurs capacités et la manière dont ils ont accédé au service;
 * concevez un modèle d'aide à l'utilisation des services numériques pour répondre aux besoins des utilisateurs;
 * ayez recours aux recherches, aux tests et aux données analytiques pour améliorer le service, y compris le modèle d'aide à l'utilisation des services numériques;
 * expliquez l'ensemble des expériences utilisateurs de bout en bout, et montrez comment elles fonctionnent et ont été testées;
@@ -264,12 +300,13 @@ Les méthodes axées sur l’utilisateur (étude des utilisateurs, essais d’er
 
 ### Importance de la question
 
-Les méthodes agiles créent des services qui sont en mesure :
+Les méthodes agiles créent des services qui peuvent :
 
-* d’aboutir rapidement à un prototype (présenté aux utilisateurs afin de mettre en place une rétroaction régulière);
-* de satisfaire les besoins des utilisateurs;
-* d’évoluer facilement en cas, par exemple, de modifications dans les technologies ou dans les politiques gouvernementales;
-* de s’améliorer en continu en fonction de la rétroaction des utilisateurs.
+* aboutir rapidement à un prototype (présenté aux utilisateurs afin de mettre en place une rétroaction régulière);
+* satisfaire les besoins des utilisateurs;
+* évoluer facilement en cas, par exemple, de modifications dans les technologies ou dans les politiques gouvernementales;
+* s’améliorer en continu en fonction de la rétroaction des utilisateurs;
+* être rapidement créés avec un ensemble minimal de caractéristiques et enrichis de caractéristiques supplémentaires après leur mise en ligne.
 
 ### Respect de la présente norme
 
@@ -281,7 +318,9 @@ Au minimum :
 * montrez que votre service est géré de façon agile, en s’appuyant sur des objectifs clairs et mesurables;
 * examinez les options de conception pour votre prototype et expliquez pourquoi certaines sont écartées;
 * expliquez comment la conception du service a évolué au fil du temps à la lumière des résultats obtenus par l’étude des utilisateurs;
-* identifiez tous les problèmes rencontrés au cours des recherches et les solutions pour améliorer le service.
+* identifiez tous les problèmes rencontrés au cours des recherches et les solutions pour améliorer le service;
+* dotez-vous d’un plan de vérification de la qualité et de correction qui soutient des modifications fréquentes du service;
+* utilisez une approche par étapes pour tester les modifications apportées à une partie du service, lorsque des modifications basées sur les caractéristiques ne sont pas réalisables.
 
 ## 9 — Utiliser des normes ouvertes et des plateformes communes
 
@@ -305,6 +344,7 @@ L’utilisation de normes ouvertes et de plateformes gouvernementales communes p
 Au minimum :
 
 * utilisez des normes ouvertes et des plateformes communes;
+* accordez la préférence à des outils ouverts qui sont accessibles et sont soutenus par une forte communauté de développeurs; 
 * déterminez les plateformes communes à utiliser;
 * comprenez les besoins que les utilisateurs ont couramment avec les autres services et satisfaites ces besoins de façon cohérente par rapport aux autres entités du gouvernement;
 * montrez ce que le service offre aux utilisateurs et sous quel format (par exemple, un permis de conduire);
@@ -349,7 +389,7 @@ Décrivez également :
 * la méthode de gestion des risques et de la sécurité;
 * les menaces pour la sécurité et la protection de la vie privée;
 * vos interactions avec les équipes administratives et les équipes chargées des risques en matière d’information (par exemple, Services de sécurité et Information, protection de la vie privée et Archives publiques);
-* les règlements relatifs à la sécurité et à la protection de la vie privée qui vous concernent et la façon dont ils seront respectés sans que la prestation ne soit exposée à un risque;
+* les règlements relatifs à la sécurité et à la protection de la vie privée qui vous concernent et la façon dont ils seront respectés sans que la prestation soit exposée à un risque;
 * toutes les questions déjà en cours qui vous concernent, notamment la protection ou le partage des données;
 * les politiques qui vous concernent en matière de protection de la vie privée, et leur justification;
 * les processus de mises à jour des serveurs/logiciels;
@@ -392,7 +432,7 @@ Le fait d’encourager les personnes à utiliser le service numérique permettra
 
 ### Respect de la présente norme
 
-Dans les premières étapes de d’élaboration :
+Dans les premières étapes de l’élaboration :
 
 * planifiez l’accroissement du nombre d’utilisateurs du service numérique;
 * comprenez les autres canaux par lesquels le service est assuré;
@@ -472,7 +512,11 @@ Au minimum :
 * analysez le rendement et identifiez le plus tôt possible les données exploitables;
 * utilisez des données qualitatives et quantitatives en vue de comprendre les besoins des utilisateurs et de repérer des domaines où des modifications pourraient être apportées;
 * définissez des mesures du rendement dès le début du service, en amont dans le processus de conception;
-* montrez à quel niveau le service se situe par rapport aux autres services similaires du gouvernement et du secteur privé.
+* réexaminez régulièrement la technologie servant à fournir le service et les processus le soutenant;
+* établissez la fréquence de vos réexamens du service selon le nombre d’utilisateurs (p. ex. 10 000 utilisateurs uniques ou moins par an = cycle de réexamen de 2 ans; 10 000-100 000 = annuel; 100 000-1 million = aux 6 mois);
+* utilisez les données pour déterminer le coût par utilisation de chaque avenue, en tenant compte aussi du coût de création et de maintenance continue;
+* montrez à quel niveau le service se situe par rapport aux autres services similaires du gouvernement et du secteur privé;
+* communiquez les conclusions de vos réexamens à vos supérieurs.
 
 ## 14 — Mettre à l’essai en présence du ministre/de la ministre
 
@@ -484,7 +528,12 @@ Les ministres sont responsables du respect des priorités du gouvernement à l�
 
 ### Respect de la présente norme
 
-Au minimum, montrez le service au ministre/à la ministre/aux ministres qui en est/sont responsable(s). S’il s’agit d’un service transactionnel, faites tester le service de bout en bout par le ministre/la ministre/les ministres afin de s’assurer qu’il/elle/ils peut/peuvent l’utiliser comme l’aurait fait un électeur/une électrice.
+Au minimum :
+
+* communiquez au ministre les résultats de votre recherche sur les utilisateurs et faites une démonstration d’un prototype du service;
+* montrez le service au ou aux ministres qui en sont responsables;
+* s’il s’agit d’un service transactionnel, faites tester le service de bout en bout par le ou les ministres responsables afin de s’assurer qu’ils peuvent l’utiliser comme le ferait un électeur (pendant la phase de vérification de la convivialité au début du projet).
+
 
 ---
 ## Importance de la question
