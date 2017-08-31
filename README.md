@@ -226,12 +226,13 @@ Ontario.ca is the government's flagship website. At a minimum:
 ### Laws and rules to follow
 
 * Accessibility -
-  [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
 * French language -
   [*French Language Services Act*](https://www.ontario.ca/laws/statute/90f32),
-  [*Government services in French*](https://www.ontario.ca/page/government-services-french)
+  [Government services in French](https://www.ontario.ca/page/government-services-french)
 * Open data -
-  [*Open Data Directive*](https://www.ontario.ca/page/ontarios-open-data-directive)
+  [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
+* Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
 ## 4 — Address the whole experience from start to finish
 
@@ -707,7 +708,7 @@ before it goes live.
 ### How to meet this standard
 
 At a minimum: 
-* share your user research with the minister and demonstrate a protoype of the service
+* share your user research with the minister and demonstrate a prototype of the service
 * show the service to the minister(s) responsible for it
 * if it’s a transactional service, have the minister(s) test the end-to-end
 service to ensure that they can get through it the way a constituent
