@@ -172,12 +172,14 @@ Ontario.ca est le site Internet phare du gouvernement. Au minimum :
 ### Lois et règlements à respecter
 
 * Accessibilité -
-  [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario, Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
+  [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*, Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
 * Français  -
   [*Loi sur les services en français*](https://www.ontario.ca/fr/lois/loi/90f32),
-  [*Services gouvernementaux en français*](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
+  [Services gouvernementaux en français](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
 * Données ouvertes -
-  [*Directive sur les données ouvertes de l’Ontario*](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
+  [*irective sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
+  * Médias sociaux -
+  [Lignes directrices relatives aux médias sociaux pour la fonction publique de l'Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
 
 ## 4 — Prendre en charge l'expérience dans sa globalité
 
