@@ -4,12 +4,45 @@ The Digital Service Standard sets out 14 points to help government build
 and deliver excellent online services.
 
 All new or redesigned public-facing information and services will
-eventually be required to meet the standard, before going live. Before
-that happens, we want to test the standard, gather user feedback and
+eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and
 improve it.
 
-Send thoughts and ideas to
-[digital.standard@ontario.ca](mailto:digital.standard@ontario.ca).
+You can share your thoughts and ideas about the standard by: 
+
+* emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
+* forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
+
+## Email guidelines
+
+* Send plain text formats like text files, Word documents and Google docs
+* Do not send HTML, PDF, printed paper or handwritten notes
+* Tell us what section your suggestions apply to or if they apply to the overall document
+* Include the original text for reference and your proposed changes if you are sending text file or email
+* Use Track Changes or suggest mode if you are sending Word or Google documents
+* Tell us the reason for your suggestion and the benefit it will have
+
+## GitHub guidelines
+
+**NOTE:** The `develop` branch is a working draft. The official standard is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
+* Use markdown to format your changes
+* Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
+* Fork off of our develop branch and when you are done make a pull request back to develop
+* Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
+* Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
+
+## How we will evaluate changes to the standard
+
+ The policy team will review all of the changes submitted by email and GitHub and decide which changes to make based on the following criteria:  
+
+1. Will the change support the core goal of helping government build and deliver excellent online services?
+2. Who has used the practice? Is it documented? Where?  For example, agile software development processes are currently a best practice in many digital organizations including Spotify, Google and Amazon.
+3. Is it specific, measurable and realistic?
+4. Does it duplicate anything elsewhere in the standard?
+5. Does it contradict Ontario's laws, policies or other standards?
+6. If a team does not follow this practice, is the service likely to be unusable for some users or unlikely to be built in a timely, affordable manner?
+7. Does it apply to all types of services?
+8. Is it written clearly and understandable for all audiences (including non-technical ones)?
+9. Does the Git commit message describe the reason for the change?
 
 [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario)
 
@@ -66,15 +99,15 @@ At a minimum:
   technical, user experience and policy skills
 * work collaboratively
 * embed expertise from other business areas and ministries (e.g.
-  finance, legal, policy) to achieve desired outcomes
+  finance, legal, policy, correspondence) to achieve desired outcomes
 * have a manager with the ability to make day-to-day decisions to
   improve the service
 * dedicate one user researcher on the project for at least 3 days each
   week
-* separate key roles in the team so nobody is performing multiple roles
 * identify gaps in the team and fill them
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
+* involve the maintenance team for the service early on in the project
 
 ## 2 — Understand users and their needs
 
@@ -113,13 +146,13 @@ challenges that more digitally savvy users will struggle to voice. This
 is critical to building tools that work for everyone and avoiding
 inequalities through digital services.
 
-To inform service features, pull together:
+To inform service features, interview users and gather data to develop:
 
-* **User goals** - written in this format: As a \[user type\], I want
+* **user goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
-* **User personas** - show user groups based on habits, personality,
+* **user personas** - show user groups based on habits, personality,
   attitudes and motives
-* **User profiles** - show user groups based on demographics such as
+* **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
 ### How to meet this standard
@@ -135,9 +168,9 @@ At a minimum:
 
 In the next stage:
 
-* test the service with real users, including:
-  * number of participants and basic demographic characteristics
-  * how many users involved in testing had accessibility challenges
+* test the service with real users, and be able to explain:
+  * number of test participants and their basic demographic characteristics
+  * how many users involved in testing had accessibility challenges or needed assisted digital support
   * how they were recruited
   * how analytics were used in research
   * any new insights and lessons
@@ -227,8 +260,9 @@ goal.
 
 At a minimum:
 
-* understand the steps users take to complete their goal and how your
+* examine other channels to understand the steps users take to complete their goal and how your
   service fits
+* show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
 * ensure prototypes incorporate the end-to-end user experience
 * show the results of research and usability testing and how these will
   be used to improve the design of the service
@@ -269,13 +303,14 @@ At a minimum:
 * explain the service and what it does
 * show that the majority of users are succeeding the first time they try
   to use it
-* use research, testing and analytics to make regular improvements to
+* explain the frequency you will use research, testing and analytics to make regular improvements to
   the service
 * demonstrate that all end-to-end user experiences work and test them,
   including for people who need help accessing digital tools
 * make the service accessible, including for users with lower levels of
   digital skills
-* do usability testing and make improvements accordingly
+* do usability testing at least once before and after the service goes live and make improvements accordingly
+* scale your testing to match the importance of the service and volume of users
 * make design and content decisions based on research, testing and
   analytics
 * make sure people can get through the service from start to finish
@@ -300,9 +335,6 @@ daily living (e.g., a screen reader or hearing aid).
 Don’t wait until users discover an error in the online service. Monitor
 the service and avoid any downtime in the service. Users expect modern
 digital services to be online 24/7.
-
-Testing the end-to-end service directly with users allows us to find
-problems before they become a much larger issue.
 
 This means more satisfied users that have trust in government services.
 
@@ -358,7 +390,7 @@ At a minimum:
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
 * conduct research and testing to ensure the service is accessible to
-  people of all abilities
+  people of all abilities no matter how they access the service
 * design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
@@ -398,6 +430,7 @@ Agile methods build services that:
 * can change easily if, for example, government policy or technology
   changes
 * can keep improving based on user feedback
+* can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
 
 ### How to meet this standard
 
@@ -416,6 +449,8 @@ At a minimum:
   user research findings
 * identify any problems found in research and solutions to improve the
   service
+* have a quality assurance testing and rollback plan that supports frequent iterations to the service
+* use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
 ## 9 — Use open standards and common platforms
 
@@ -445,6 +480,7 @@ government:
 At a minimum:
 
 * use open standards and common platforms
+* favour open tools that are accessible and have a strong developer community supporting them
 * identify common platforms to use
 * understand common user needs with other services and meet those needs
   consistently with the rest of government
@@ -462,7 +498,7 @@ At a minimum:
   * Web publishing - [Ontario.ca](http://www.ontario.ca/)
   * News - [Ontario Newsroom](https://www.ontario.ca/news)
   * Open data -
-    [Open data catalogue](https://www.ontario.ca/search/data-catalogue)
+    [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
 ## 10 — Embed privacy and security by design
 
@@ -626,7 +662,7 @@ Respond to user research by:
 
 ## 13 — Measure performance
 
-Continuously capture and monitor performance data to to inform ongoing
+Continuously capture and monitor performance data to inform ongoing
 service improvements.
 
 ### Why it matters
@@ -650,8 +686,12 @@ At a minimum:
   identify areas for change
 * define performance metrics for the service up-front, early on in the
   design process
+* regularly review the technology used to provide the service and the processes that support the service
+* base your service review frequency on the volume of users (e.g. 10,000 or less unique users per year = 2 year review cycle; 10,000-100,000 = annual; 100,000-1 million = every 6 months)
+* use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
 * demonstrate how service performance compares to other similar
   government and private sector services
+* share your review findings with leadership
 
 ## 14 — Test with the minister
 
@@ -666,10 +706,12 @@ before it goes live.
 
 ### How to meet this standard
 
-At a minimum, show the service to the minister(s) responsible for it. If
-it’s a transactional service, have the minister(s) test the end-to-end
+At a minimum: 
+* share your user research with the minister and demonstrate a protoype of the service
+* show the service to the minister(s) responsible for it
+* if it’s a transactional service, have the minister(s) test the end-to-end
 service to ensure that they can get through it the way a constituent
-would have to.
+would have to (during usability testing phase early on in the project)
 
 ---
 ## Why it matters

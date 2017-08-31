@@ -319,7 +319,7 @@ Au minimum :
   * Publication en ligne - [Ontario.ca](https://www.ontario.ca/fr/page/gouvernement-de-lontario)
   * Nouvelles - [Salle de presse de l’Ontario](https://news.ontario.ca/newsroom/fr)
   * Données ouvertes -
-    [Catalogue de données ouvertes](https://www.ontario.ca/fr/recherche/donnees-publiques)
+    [Catalogue de données](https://www.ontario.ca/fr/recherche/donnees-publiques)
 
 ## 10 — Intégrer la sécurité et la protection de la vie privée au niveau de la conception
 
