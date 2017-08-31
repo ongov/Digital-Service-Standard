@@ -232,7 +232,7 @@ Ontario.ca is the government's flagship website. At a minimum:
   [Government services in French](https://www.ontario.ca/page/government-services-french)
 * Open data -
   [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-  * Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
+* Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
 ## 4 — Address the whole experience from start to finish
 
