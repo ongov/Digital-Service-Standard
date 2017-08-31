@@ -705,8 +705,6 @@ Ministers are responsible for delivering on the government’s priorities
 for the people of Ontario, so you need to show them the digital service
 before it goes live.
 
-If the service is not for broad public use or not a priority, be able to demonstrate why minister review is not necessary.
-
 ### How to meet this standard
 
 At a minimum: 
