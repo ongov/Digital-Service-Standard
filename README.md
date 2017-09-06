@@ -199,6 +199,10 @@ Users should know when they are on an official government website.
 Using standard platforms and designs is a cost-effective way of
 providing public services and makes the most of public resources.
 
+Services delivered online, over the phone or in person should provide a 
+consistent experience for the public. From branding to tone of voice and 
+error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
+
 ### How to meet this standard
 
 Ontario.ca is the government's flagship website. At a minimum:
