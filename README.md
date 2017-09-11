@@ -306,7 +306,7 @@ lead to user frustration and a loss of confidence in government.
 
 At a minimum:
 
-* explain the service and what it does
+* explain the service including who it is for, how it works and how to use it
 * show that the majority of users are succeeding the first time they try
   to use it
 * explain the frequency you will use research, testing and analytics to make regular improvements to
