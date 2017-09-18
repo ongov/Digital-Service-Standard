@@ -12,10 +12,7 @@ You can share your thoughts and ideas about the standard by: 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
 
-The Ontario Government provide goods and services that benefit citizens and works to solve collective problems. This 
-is done by making and enforcing laws, collecting taxes and creating rules, regulations and licenses.
-When any of these activities are provided through the Internet, they are considered digital services. This includes 
-online information about government activities as well as transactions to apply for licenses and follow rules and regulations.
+The Ontario Government provides services that benefit citizens and solves collective problems by administering rules, regulations and licenses. When provided through the Internet, they are digital services. Under the standard, providing information about the government online is also considered a digital service.
 
 ## Email guidelines
 
