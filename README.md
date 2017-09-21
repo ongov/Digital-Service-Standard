@@ -12,7 +12,6 @@ You can share your thoughts and ideas about the standard by: 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
 
-
 ## Email guidelines
 
 * Send plain text formats like text files, Word documents and Google docs
