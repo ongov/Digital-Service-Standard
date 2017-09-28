@@ -268,7 +268,7 @@ At a minimum:
 * examine other channels to understand the steps users take to complete their goal and how your
   service fits
 * show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
-* demonstrate that there is a plan for seamless error recovery at all steps in the service (i.e. if they get stuck during a digital service, users shouldn't have to start over when they phone for help)
+* demonstrate that there is a plan for error recovery at all steps in the service (i.e. if they get stuck during a digital service, what's the plan for a user when they phone for help?)
 * ensure prototypes incorporate the end-to-end user experience
 * show the results of research and usability testing and how these will
   be used to improve the design of the service
