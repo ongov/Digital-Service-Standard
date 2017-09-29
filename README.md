@@ -199,6 +199,10 @@ Users should know when they are on an official government website.
 Using standard platforms and designs is a cost-effective way of
 providing public services and makes the most of public resources.
 
+Services delivered online, over the phone or in person should provide a 
+consistent experience for the public. From branding to tone of voice and 
+error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
+
 ### How to meet this standard
 
 Ontario.ca is the government's flagship website. At a minimum:
@@ -264,6 +268,7 @@ At a minimum:
 * examine other channels to understand the steps users take to complete their goal and how your
   service fits
 * show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
+* demonstrate that there is a plan for error recovery at all steps in the service (i.e. if they get stuck during a digital service, what's the plan for a user when they phone for help?)
 * ensure prototypes incorporate the end-to-end user experience
 * show the results of research and usability testing and how these will
   be used to improve the design of the service
@@ -301,7 +306,8 @@ lead to user frustration and a loss of confidence in government.
 
 At a minimum:
 
-* explain the service and what it does
+* explain the service including who it is for, how it works and how to use it
+* include contact information where users can learn more about the service and get help using it
 * show that the majority of users are succeeding the first time they try
   to use it
 * explain the frequency you will use research, testing and analytics to make regular improvements to
