@@ -154,6 +154,8 @@ Les utilisateurs doivent être en mesure de déterminer lorsqu'ils sont sur un s
 
 Utiliser des plateformes et modèles standardisés permet à la fois de rentabiliser la prestation des services publics et d'utiliser au mieux les ressources publiques.
 
+Il faut fournir au public les services en ligne, au téléphone ou en personne de manière constante et cohérente. L’image de marque, le ton de voix et la manière de traiter les erreurs, tout cela doit toujours rassurer l’utilisateur qu’il sera capable de terminer la transaction désirée et qu’il peut se fier à notre capacité de l’aider à réussir sa transaction.
+
 ### Respect de la présente norme
 
 Ontario.ca est le site Internet phare du gouvernement. Au minimum :
@@ -199,6 +201,7 @@ Au minimum :
 
 * examinez d’autres avenues afin de comprendre les étapes par lesquelles les utilisateurs doivent passer pour atteindre leur objectif et quelle est la place de votre service;
 * montrez le cheminement de tous les points dans l’expérience que retire l’utilisateur du service, à partir du moment où il en entend parler jusqu’à ce qu’il ait terminé sa transaction et reçu le produit (si cela s’applique);
+* démontrez qu’il y a un plan pour corriger les erreurs à toutes les étapes du service (i. e. si un utilisateur se trouve bloqué à une étape du service numérique, quel est le plan pour cet utilisateur lorsqu’il téléphone pour recevoir de l’aide?);
 * assurez-vous que les prototypes intègrent l'expérience utilisateur de bout en bout;
 * montrez les résultats de vos recherches et de vos tests utilisateurs, ainsi que la façon dont ils seront utilisés dans le but d'améliorer le service;
 * mettez en place un plan de recherche utilisateur qui couvre l'ensemble des étapes de la conception du service jusqu'à son déploiement, et qui inclut les prochaines étapes de développement;
@@ -224,7 +227,8 @@ Cela entraîne non seulement des coûts supplémentaires, mais peut aussi occasi
 
 Au minimum :
 
-* expliquez le service et ce qu'il fait;
+* expliquez ce qu’est le service, y compris à qui il est destiné, comment il fonctionne et comment l’utiliser;
+* indiquez où l’utilisateur peut s’adresser afin d’en savoir plus sur le service ou d’obtenir de l’aide pour s’en servir;
 * montrez que la majorité des utilisateurs parvient à l'utiliser du premier coup;
 * expliquez la fréquence à laquelle vous utiliserez les résultats des recherches et des tests ainsi que les données analytiques afin d’améliorer régulièrement le service;
 * démontrez que vous testez l'ensemble des expériences utilisateurs de bout en bout et qu'elles fonctionnent, y compris pour ceux ayant besoin d'aide pour accéder aux outils numériques;
