@@ -228,6 +228,7 @@ Ontario.ca is the government's flagship website. At a minimum:
 * register the domain name through
   [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca),
   if needed
+* ensure content archived for research purposes is clearly labeled as archival and points users to the most recent version
 
 ### Laws and rules to follow
 
