@@ -12,7 +12,9 @@ You can share your thoughts and ideas about the standard by: 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
 
-## Email guidelines
+## Contributing to the standard
+
+### By email
 
 * Send plain text formats like text files, Word documents and Google docs
 * Do not send HTML, PDF, printed paper or handwritten notes
@@ -21,7 +23,7 @@ You can share your thoughts and ideas about the standard by: 
 * Use Track Changes or suggest mode if you are sending Word or Google documents
 * Tell us the reason for your suggestion and the benefit it will have
 
-## GitHub guidelines
+### On GitHub
 
 **NOTE:** The `develop` branch is a working draft. The official standard is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
 * Use markdown to format your changes
@@ -30,7 +32,7 @@ You can share your thoughts and ideas about the standard by: 
 * Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
 * Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
 
-## How we will evaluate changes to the standard
+### How we will evaluate contributions to the standard
 
  The policy team will review all of the changes submitted by email and GitHub and decide which changes to make based on the following criteria:  
 
