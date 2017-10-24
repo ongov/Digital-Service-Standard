@@ -119,8 +119,8 @@ for the design of the service.
 
 Understanding the people who use a service and what they want is
 critical to building a service that works for them. For example, users
-of a driver's licence renewal service include any Ontarian with a
-driver’s licence.
+of a driver's license renewal service include any Ontarian with a
+driver’s license.
 
 It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
