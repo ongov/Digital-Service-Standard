@@ -240,7 +240,7 @@ Ontario.ca is the government's flagship website. At a minimum:
   [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
 * Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
-## 4 — Address the whole experience from start to finish
+## 4 — Design the service from start to finish
 
 Understand what users are trying to achieve and the steps required to
 complete that task. Every encounter should move the user closer towards
@@ -285,7 +285,7 @@ At a minimum:
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
 
-## 5 — Make sure people succeed the first time
+## 5 — Ensure users succeed the first time
 
 Using a government service should be an intuitive and stress-free
 experience. Good service should be so simple that users can succeed on
@@ -412,7 +412,7 @@ At a minimum:
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
-## 8 — Use agile and user-centred methods
+## 8 — Be agile and user-centred
 
 Design and build the service using an agile and user-centred approach.
 Agile is an approach to building services that breaks the work into
@@ -577,7 +577,7 @@ When the service is live, describe:
 [l4]: https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/
 [l5]: http://fightspam.gc.ca/eic/site/030.nsf/eng/home
 
-## 11 — Encourage everyone to use the digital service
+## 11 — Encourage people to use digital services
 
 Encourage people to choose the digital service through every interaction
 they have with government.
@@ -622,7 +622,7 @@ When the service is live:
   yearly targets for 5 years
 * measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
 
-## 12 — Provide support for those who need it
+## 12 — Support those who need it
 
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
