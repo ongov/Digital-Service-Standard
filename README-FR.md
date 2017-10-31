@@ -8,7 +8,9 @@ Vous pouvez nous faire part de vos observations et idées :
 * par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * sur notre [dépôt GitHub](https://github.com/ontario-digital/Digital-Service-Standard)
 
-## Lignes directrices pour les courriels
+## Contributions aux normes
+
+### Par courriel
 
 * Courriellez des formats texte en clair, par exemple des fichiers textes, des documents Word et Google
 * N’envoyez pas de HTML, de PDF, de sorties imprimées, ni de notes manuscrites
@@ -17,7 +19,7 @@ Vous pouvez nous faire part de vos observations et idées :
 * Utilisez le fonction Track Changes (Suivi des modifications) ou le mode suggestion si vous envoyez des documents Word ou Google
 * Dites-nous la raison de votre suggestion et l’avantage qu’elle présentera
 
-## Lignes directrices pour GitHub
+### Sur GitHub
 
 **Nota :** Le `develop` branch (embranchement développer) est une ébauche de travail. Les normes officielles se trouvent dans le `master` branc (’embranchement maître) et sur Ontario.ca.
 
@@ -27,7 +29,7 @@ Vous pouvez nous faire part de vos observations et idées :
 * Baptisez votre embranchement en lui donnant votre prénom ou votre nom d’utilisateur, le type de modification (correction d’une faute de frappe ou de grammaire ou élément à ajouter ou à effacer), le tout suivi de la description de vos modifications nom/correction/mes-modifications OU nom/élément/mes-modifications
 * Prenez un engagement (commit) par modification et expliquez la raison de votre modification dans votre message d’engagement (n’indiquez pas ce que vous avez modifié, mais pourquoi)
 
-## Comment allons-nous évaluer les modifications aux normes
+## Comment nous évaluons les contributions aux normes
 
 L’équipe des politiques examinera toutes les modifications suggérées par courriel ou sur GitHub et décidera des modifications à effectuer en fonction des critères suivants :
 
@@ -50,8 +52,8 @@ Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter 
 | Besoins des utilisateurs |            |
 | ---------- | ---------- |
 | <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet)</h3>Mener une recherche auprès des utilisateurs des Services numériques de l'Ontario et des partenaires cruciaux |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet-septembre)</h3>Publier une première ébauche et la mettre à jour une fois par mois selon les rétroactions des utilisateurs et les analytiques du Web |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (octobre-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des utilisateurs et les analytiques |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet-décembre)</h3>Publier une première ébauche et la mettre à jour une fois par mois selon les rétroactions des utilisateurs et les analytiques du Web |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (janvier-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des utilisateurs et les analytiques |
 | <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne (mars-mai)</h3>Publication des normes avec des liens vers les communautés de pratique, maintien des mises à jour continuelles |
 
 ## 1 — Former une équipe adaptée
@@ -183,7 +185,7 @@ Ontario.ca est le site Internet phare du gouvernement. Au minimum :
 * Médias sociaux -
   [Lignes directrices relatives aux médias sociaux pour la fonction publique de l'Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
 
-## 4 — Prendre en charge l'expérience dans sa globalité
+## 4 — Conception du service du début à la fin
 
 Comprenez le but des utilisateurs et les étapes qu'ils devront suivre pour accomplir cette tâche. Chaque contact avec le service devra les rapprocher de leur objectif. Si possible, chaque étape devra pouvoir être complétée en ligne.
 
@@ -211,7 +213,7 @@ Au minimum :
 * utilisez des données analytiques dans le cadre de votre plan de recherche utilisateur;
 * montrez tout problème trouvé grâce à vos tests et les solutions que vous proposez.
 
-## 5 — Veiller à ce que les utilisateurs atteignent leur but du premier coup
+## 5 — Réussite assurée dès le premier essai des utilisateurs
 
 Utiliser un service gouvernemental devrait être intuitif et aisé. Un service bien conçu doit être tellement simple que les utilisateurs atteignent leur objectif du premier coup, sans avoir besoin d'aide.
 
@@ -296,7 +298,7 @@ Au minimum :
 
 * [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11), [Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
 
-## 8 — Utiliser des méthodes agiles et axées sur l’utilisateur
+## 8 — Souplesse et orientation sur l’utilisateur
 
 Concevez et créez le service en utilisant une approche agile et axée sur l’utilisateur. Agile est une façon de créer des services en divisant l’ensemble du travail en blocs de plus petite taille appelés des itérations. Créez une fonctionnalité du service à la fois jusqu’à ce que tout le service soit terminé.
 
@@ -424,7 +426,7 @@ Une fois que le service est opérationnel, décrivez :
 [l4]: https://www.priv.gc.ca/fr/sujets-lies-a-la-protection-de-la-vie-privee/lois-sur-la-protection-des-renseignements-personnels-au-canada/la-loi-sur-la-protection-des-renseignements-personnels-et-les-documents-electroniques-lprpde/r_o_p/
 [l5]: http://fightspam.gc.ca/eic/site/030.nsf/fra/accueil
 
-## 11 — Encourager tout le monde à utiliser le service numérique
+## 11 — Utilisation des services numériques encouragée
 
 Encouragez les personnes à choisir le service numérique à chacune de leurs interactions avec le gouvernement.
 
@@ -459,7 +461,7 @@ Une fois que le service est opérationnel :
 * planifiez le transfert et l’accroissement du nombre des utilisateurs vers le service numérique et fixez des objectifs annuels sur 5 ans;
 * mesurez l’incidence prévue sur les autres points de service (par téléphone, en personne) et la façon dont elle pourrait influencer l’attribution des financements et des ressources.
 
-## 12 — Soutenir les personnes qui en ont besoin
+## 12 — Soutien aux personnes qui en ont besoin
 
 Mettez en place dans tous les canaux des outils visant à soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services numériques.
 
