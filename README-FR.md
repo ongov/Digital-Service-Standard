@@ -167,7 +167,7 @@ Ontario.ca est le site Internet phare du gouvernement. Au minimum :
 * transférez le contenu prioritaire et le plus demandé sur Ontario.ca;
 * utilisez Ontario.ca comme voie d'accès pour toutes les applications transactionnelles sur les autres plateformes (telles que le RAFEO
 * expliquez comment le service a utilisé les normes de conception du site Ontario.ca;
-* appliquez les normes de contenu du site Ontario.ca afin de conserver le ton du contenu gouvernemental;
+* appliquez les [normes de contenu du site Ontario.ca](https://www.ontario.ca/fr/page/ontarioca-guide-redaction) afin de conserver le ton du contenu gouvernemental;
 * affichez votre contenu principal sur Ontario.ca, pour qu'il soit plus facile à trouver, à comprendre et à utiliser;
 * collaborez avec l'équipe des Services numériques de l'Ontario;
 * démontrez que le service est adaptatif et qu'il fournit le même contenu et les mêmes fonctionnalités sur tous les appareils, y compris sur les appareils mobiles;
@@ -544,6 +544,10 @@ Au minimum :
 
 
 ---
+## Ressources
+
+[Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
+
 ## Importance de la question
 
 La présente Norme des services numériques a été élaborée pour que le gouvernement de l’Ontario l’utilise au moment de concevoir des services d’information et des services transactionnels en ligne destinés à la population ontarienne.
