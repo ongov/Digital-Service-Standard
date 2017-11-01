@@ -218,7 +218,7 @@ Ontario.ca is the government's flagship website. At a minimum:
 * use Ontario.ca as the front door for all transactional applications on
   other platforms (such as OSAP)
 * demonstrate how the service has used the Ontario.ca design standards
-* apply Ontario.ca content standards to maintain the tone and voice of
+* apply [Ontario.ca content standards](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the tone and voice of
   government content
 * show core content on Ontario.ca that’s easy to find, understand and
   use
@@ -723,6 +723,9 @@ service to ensure that they can get through it the way a constituent
 would have to (during usability testing phase early on in the project)
 
 ---
+## Resources
+[Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+
 ## Why it matters
 
 This Digital Service Standard was developed for the Ontario government
