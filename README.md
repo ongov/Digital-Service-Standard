@@ -411,6 +411,7 @@ At a minimum:
 ### Laws and rules to follow
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Web Content Accessibility Guidelines (WCAG) 2.0*](https://www.w3.org/WAI/intro/wcag)
 
 ## 8 — Be agile and user-centred
 
