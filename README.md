@@ -1,11 +1,8 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone in government build
-and deliver excellent online services.
+The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-All new or redesigned public-facing information and services will
-eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and
-improve it.
+All new or redesigned public-facing information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
 You can share your thoughts and ideas about the standard by: 
 
