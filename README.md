@@ -1,6 +1,6 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help government build
+The Digital Service Standard sets out 14 points to help anyone in government build
 and deliver excellent online services.
 
 All new or redesigned public-facing information and services will
@@ -523,6 +523,7 @@ Users won’t use a service unless they have a guarantee:
 * it’s secure
 * it's confidential
 * they can access their information in the service when they need to
+* that their privacy is protected while they use the service, and afterwards
 
 ### How to meet this standard
 
@@ -531,6 +532,7 @@ In the early stages of development, explain:
 * what data is being collected (name, address, postal code, etc.)
 * how the data is being transmitted
 * where and how the data is being stored
+* how the data will be used
 * security threats, including potential pathways for hackers, and tested
   ways of reducing them
 * how you plan to keep up-to-date about threats and how to deal with
