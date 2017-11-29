@@ -1,6 +1,6 @@
 # Normes des services numériques
 
-Les Normes des services numériques exposent 14 points visant à aider le gouvernement à concevoir et à offrir des services en ligne d'excellence
+Les normes en matière de services numériques comportent 14 points qui aideront tout le monde à développer et offrir d’excellents services gouvernementaux.
 
 Tous les services et renseignements nouveaux ou révisés devront éventuellement respecter ces normes avant que commence tout travail. Nous voulons d’abord tester les normes, obtenir une rétroaction et les améliorer.
 Vous pouvez nous faire part de vos observations et idées :
@@ -379,7 +379,8 @@ Pour que les utilisateurs utilisent un service, il est nécessaire de garantir l
 
 * sécurité du service;
 * confidentialité du service;
-* possibilité d’accéder à ses renseignements au sein du service lorsqu'on en a besoin.
+* possibilité d’accéder à ses renseignements au sein du service lorsqu'on en a besoin;
+* que leur vie privée sera respectée pendant et après l’usage de ce service. 
 
 ### Respect de la présente norme
 
@@ -388,6 +389,7 @@ Dans les premières étapes d’élaboration, expliquez :
 * les types de données recueillies (nom, adresse, code postal, etc.);
 * le mode de transmission des données;
 * le lieu et le mode de stockage des données;
+* de quelle façon les données seront utilisées;
 * les menaces pour la sécurité, notamment les éventuelles voies d’accès que les pirates informatiques peuvent emprunter, ainsi que les méthodes éprouvées de réduction de ces menaces;
 * la façon dont vous prévoyez de rester à jour concernant les menaces et la façon de les traiter;
 * toutes les menaces de fraude existantes et les systèmes de contrôle en cours de prototypage.
