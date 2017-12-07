@@ -11,8 +11,8 @@ Vous pouvez nous faire part de vos observations et idées :
 ---
 ## Ressources
 
-[Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
-[Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
+* [Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
+* [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
 
 ---
 

@@ -11,8 +11,8 @@ You can share your thoughts and ideas about the standard by: 
 
 ---
 ## Resources
-[Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
-[Service design playbook](https://www.ontario.ca/page/service-design-playbook)
+* [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+* [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
 
 ---
 
