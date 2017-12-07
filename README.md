@@ -9,6 +9,13 @@ You can share your thoughts and ideas about the standard by: 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
 
+---
+## Resources
+* [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+* [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
+
+---
+
 ## Contributing to the standard
 
 ### By email
@@ -722,8 +729,6 @@ service to ensure that they can get through it the way a constituent
 would have to (during usability testing phase early on in the project)
 
 ---
-## Resources
-[Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
 
 ## Why it matters
 
