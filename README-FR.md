@@ -8,6 +8,14 @@ Vous pouvez nous faire part de vos observations et idées :
 * par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * sur notre [dépôt GitHub](https://github.com/ontario-digital/Digital-Service-Standard)
 
+---
+## Ressources
+
+[Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
+[Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
+
+---
+
 ## Contributions aux normes
 
 ### Par courriel
@@ -546,9 +554,6 @@ Au minimum :
 
 
 ---
-## Ressources
-
-[Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
 
 ## Importance de la question
 
