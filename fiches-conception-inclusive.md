@@ -176,7 +176,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   assurez-vous que le contenu est commandé logiquement sans <abbr title="Cascading style sheet">CSS</abbr> (testez avec une extension [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) ou [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) ou un lecteur d'écran comme [NVDA](https://www.nvaccess.org/download/) ou en [voiceover](https://help.apple.com/voiceover/info/guide/10.12/))
 *   testez si le site est utilisable avec un zoom de 200 %
 *   indiquez les modifications de langue et de langue de la page à l'aide de l'attribut <abbr title="Hypertext markup language">HTML</abbr> lang
-*   évitez d'utiliser des éléments de sélection, also known as drop-down lists ([Alice Bartlett explains why select elements are hard to use](https://www.youtube.com/watch?v=CUkMCQR4TpY))
+*   évitez d'utiliser des éléments de sélection
 *   utilisez un titre unique pour chaque page
 *   assurez-vous que les identifiants utilisés en <abbr title="Hypertext markup language">HTML</abbr> sont uniques
 
