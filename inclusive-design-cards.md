@@ -3,8 +3,8 @@
 Use these cards early in the design process to help you sketch, plan, prototype and design content, interactions and processes.
 
 * [Accessible HTML](https://www.ontario.ca/page/inclusive-design-cards)
-* [Accessible Word]()
-* [Accessible PDF]()
+* [Accessible Word](https://github.com/ongov/Digital-Service-Standard/blob/master/Inclusive%20Design%20Cards%201.0.0.docx)
+* [Accessible PDF](https://github.com/ongov/Digital-Service-Standard/blob/master/Inclusive%20Design%20Cards%201.0.0.pdf)
 
 ---
 
