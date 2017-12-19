@@ -3,8 +3,8 @@
 L’utilisation de ces fiches au début du processus de conception vous aidera à esquisser, à planifier et à créer les prototypes et le contenu conceptuel, les interactions et les processus.
 
 * [HTML accessible](https://www.ontario.ca/fr/page/fiches-pour-la-conception-inclusive)
-* [Word accessible]()
-* [PDF accessible]()
+* [Word accessible](https://github.com/ongov/Digital-Service-Standard/blob/master/Fiches%20Conception%20Inclusive%201.0.0.docx)
+* [PDF accessible](https://github.com/ongov/Digital-Service-Standard/blob/master/Fiches%20Conception%20Inclusive%201.0.0.pdf)
 
 ---
 
