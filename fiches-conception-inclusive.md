@@ -191,7 +191,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   informez la personne des marches ou obstacles devant elle
 *   donnez des directives qui ne reposent pas sur la vue, <abbr title="par exemple">p. ex.</abbr> à gauche ou à droite, et indiquez la distance
 
-### Vous aiderez les personnes qui ont les problèmes suivants
+### Vous aiderez les personnes qui
 
 *   éblouissement élevé à l’écran
 *   faible éclairage
@@ -244,7 +244,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   ne pressez pas les personnes qui ont besoin de plus de temps
 *   offrez des services de prise de notes ou d'écriture si nécessaire
 
-### Voici les situations où vous pouvez aider
+### Vous aiderez les personnes qui
 
 *   stress
 *   épuisement
@@ -258,6 +258,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   autisme
 *   trisomie
 *   crises causées par une lumière clignotante, vacillante ou stroboscopique (épilepsie de sensibilité à la lumière)
+*   nausée ou vertige causé par les troubles de l’oreille interne (vestibulaire)
 
 > Créées conjointement par les Services numériques de l'Ontario et le Centre d'excellence en accessibilité à l'information et à la technologie de l'information pour la fonction publique de l’Ontario.
 
