@@ -1,6 +1,6 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
+The Digital Service Standard sets out 14 points to help anyone design, build and deliver excellent government services. From the policy design to the technical architecture, the principles in this standard will guide everyone to create a user-centric product through agile methodology.
 
 All new or redesigned public-facing information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
@@ -58,57 +58,7 @@ feedback with us.
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
 
-## 1. Establish the right team
-
-Put a sustained multidisciplinary team in place that can design, build
-and continuously improve the digital service, led by a skilled product
-manager who is empowered to make decisions. [The Service Design Playbook has a quick guide on various common team roles.](https://www.ontario.ca/page/service-design-playbook#section-6)
-
-A product is anything created for a defined group of users. In this
-standard, product refers to any online information or transactional
-service used by the people of Ontario.
-
-Product managers set the strategy for and define features of a service.
-They are responsible for the service on an ongoing basis, until it is
-decommissioned. It’s not the same role as a project manager.
-
-### Why it matters
-
-It’s important to have a strong multidisciplinary team in place, led by
-one person who is accountable and has the authority to make decisions
-based on the outcomes of research, testing and prototypes<sup id="a1">[1](#f1)</sup>.
-
-The team’s skills and focus need to evolve as the service is designed
-and developed. The team also needs to adapt its structure based on the
-needs of the service and the phase of work.
-
-To be successful, build a team with:
-
-* a broad mix of skills and roles from the start
-* quick decision-making processes and the ability to change and adapt as
-  the service evolves
-* the resources and ability to deliver the product
-
-### How to meet this standard
-
-At a minimum:
-
-* build a multidisciplinary team with expertise in agile digital service
-  delivery<sup id="a2">[2](#f2)</sup>,
-  technical, user experience and policy skills
-* work collaboratively
-* embed expertise from other business areas and ministries (e.g.
-  finance, legal, policy, correspondence) to achieve desired outcomes
-* have a manager with the ability to make day-to-day decisions to
-  improve the service
-* dedicate one user researcher on the project for at least 3 days each
-  week
-* identify gaps in the team and fill them
-* transfer knowledge and skills to others
-* continue to improve the service after it’s gone live
-* involve the maintenance team for the service early on in the project
-
-## 2. Understand users and their needs
+## 1. Understand users and their needs
 
 Start with users to define the problem. Do research to develop a deep
 understanding of who the users are, how they behave and what that means
@@ -185,6 +135,56 @@ In the live stage:
   researched
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
+  
+  ## 2. Establish the right team
+
+Put a sustained multidisciplinary team in place that can design, build
+and continuously improve the digital service, led by a skilled product
+manager who is empowered to make decisions. [The Service Design Playbook has a quick guide on various common team roles.](https://www.ontario.ca/page/service-design-playbook#section-6)
+
+A product is anything created for a defined group of users. In this
+standard, product refers to any online information or transactional
+service used by the people of Ontario.
+
+Product managers set the strategy for and define features of a service.
+They are responsible for the service on an ongoing basis, until it is
+decommissioned. It’s not the same role as a project manager.
+
+### Why it matters
+
+It’s important to have a strong multidisciplinary team in place, led by
+one person who is accountable and has the authority to make decisions
+based on the outcomes of research, testing and prototypes<sup id="a1">[1](#f1)</sup>.
+
+The team’s skills and focus need to evolve as the service is designed
+and developed. The team also needs to adapt its structure based on the
+needs of the service and the phase of work.
+
+To be successful, build a team with:
+
+* a broad mix of skills and roles from the start
+* quick decision-making processes and the ability to change and adapt as
+  the service evolves
+* the resources and ability to deliver the product
+
+### How to meet this standard
+
+At a minimum:
+
+* build a multidisciplinary team with expertise in agile digital service
+  delivery<sup id="a2">[2](#f2)</sup>,
+  technical, user experience and policy skills
+* work collaboratively
+* embed expertise from other business areas and ministries (e.g.
+  finance, legal, policy, correspondence) to achieve desired outcomes
+* have a manager with the ability to make day-to-day decisions to
+  improve the service
+* dedicate one user researcher on the project for at least 3 days each
+  week
+* identify gaps in the team and fill them
+* transfer knowledge and skills to others
+* continue to improve the service after it’s gone live
+* involve the maintenance team for the service early on in the project
 
 ## 3. Be consistent
 
@@ -710,7 +710,7 @@ minister before the service goes live.
 
 Ministers are responsible for delivering on the government’s priorities
 for the people of Ontario, so you need to show them the digital service
-before it goes live.
+before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
 
 ### How to meet this standard
 
@@ -737,8 +737,8 @@ Ontario government deliver consistently good services online.
 
 The standard will help us:
 
-* define what good digital service looks like in Ontario;
-* identify the steps we need to take to get there.
+* define what good digital service looks like in Ontario
+* identify the steps we need to take to get there
 
 We looked near and far to develop this standard. It’s built on the
 aspirations and experiences of teams across the Ontario Public Service,
