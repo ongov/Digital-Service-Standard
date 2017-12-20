@@ -7,7 +7,7 @@ All new or redesigned public-facing information and services will eventually be 
 You can share your thoughts and ideas about the standard by: 
 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
+* forking our [GitHub repository](https://github.com/ONgov/Digital-Service-Standard)
 
 ---
 ## Resources
@@ -65,19 +65,19 @@ feedback with us.
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
 
-## 1 — Establish the right team
+## 1. Establish the right team
 
-Put in place a sustainable multidisciplinary team that can design, build
+Put a sustained multidisciplinary team in place that can design, build
 and continuously improve the digital service, led by a skilled product
-manager who is empowered to make decisions.
-
-Product managers set the strategy for and define features of a service.
-They are responsible for the service on an ongoing basis, until it is
-decommissioned. It’s not the same role as a project manager.
+manager who is empowered to make decisions. [The Service Design Playbook has a quick guide on various common team roles.](https://www.ontario.ca/page/service-design-playbook#section-6)
 
 A product is anything created for a defined group of users. In this
 standard, product refers to any online information or transactional
 service used by the people of Ontario.
+
+Product managers set the strategy for and define features of a service.
+They are responsible for the service on an ongoing basis, until it is
+decommissioned. It’s not the same role as a project manager.
 
 ### Why it matters
 
@@ -115,7 +115,7 @@ At a minimum:
 * continue to improve the service after it’s gone live
 * involve the maintenance team for the service early on in the project
 
-## 2 — Understand users and their needs
+## 2. Understand users and their needs
 
 Start with users to define the problem. Do research to develop a deep
 understanding of who the users are, how they behave and what that means
@@ -193,7 +193,7 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
 
-## 3 — Be consistent
+## 3. Be consistent
 
 When the public interacts with the Ontario government, their experience
 should feel cohesive, positive and consistent.
@@ -244,7 +244,7 @@ Ontario.ca is the government's flagship website. At a minimum:
   [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
 * Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
-## 4 — Design the service from start to finish
+## 4. Design the service from start to finish
 
 Understand what users are trying to achieve and the steps required to
 complete that task. Every encounter should move the user closer towards
@@ -289,7 +289,7 @@ At a minimum:
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
 
-## 5 — Ensure users succeed the first time
+## 5. Ensure users succeed the first time
 
 Using a government service should be an intuitive and stress-free
 experience. Good service should be so simple that users can succeed on
@@ -333,7 +333,7 @@ At a minimum:
   didn’t complete the task they set out to do online (e.g. renew a
   driver’s licence)
 
-## 6 — Test the end-to-end service
+## 6. Test the end-to-end service
 
 Continuously test the end-to-end service to ensure that it remains
 available to users and free of errors.
@@ -378,7 +378,7 @@ At a minimum:
   documentation up-to-date
 * have a plan for data storage and recovery
 
-## 7 — Make it accessible
+## 7. Make it accessible
 
 Accessibility is not only required by law, it’s also good design. Ensure
 the service is accessible to all users regardless of their individual
@@ -417,7 +417,7 @@ At a minimum:
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 * [*Web Content Accessibility Guidelines (WCAG) 2.0*](https://www.w3.org/WAI/intro/wcag)
 
-## 8 — Be agile and user-centred
+## 8. Be agile and user-centred
 
 Design and build the service using an agile and user-centred approach.
 Agile is an approach to building services that breaks the work into
@@ -466,7 +466,7 @@ At a minimum:
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
-## 9 — Use open standards and common platforms
+## 9. Use open standards and common platforms
 
 Use open standards, open source software and common government platforms
 where available.
@@ -514,7 +514,7 @@ At a minimum:
   * Open data -
     [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
-## 10 — Embed privacy and security by design
+## 10. Embed privacy and security by design
 
 Identify the data the service will use, store or create. Put appropriate
 legal, privacy and security measures in place so that users feel
@@ -584,7 +584,7 @@ When the service is live, describe:
 [l4]: https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/
 [l5]: http://fightspam.gc.ca/eic/site/030.nsf/eng/home
 
-## 11 — Encourage people to use digital services
+## 11. Encourage people to use digital services
 
 Encourage people to choose the digital service through every interaction
 they have with government.
@@ -629,7 +629,7 @@ When the service is live:
   yearly targets for 5 years
 * measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
 
-## 12 — Support those who need it
+## 12. Support those who need it
 
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
@@ -676,7 +676,7 @@ Respond to user research by:
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
-## 13 — Measure performance
+## 13. Measure performance
 
 Continuously capture and monitor performance data to inform ongoing
 service improvements.
@@ -709,7 +709,7 @@ At a minimum:
   government and private sector services
 * share your review findings with leadership
 
-## 14 — Test with the minister
+## 14. Test with the minister
 
 Test or demo the service from beginning to end with the responsible
 minister before the service goes live.
