@@ -724,6 +724,7 @@ would have to (during usability testing phase early on in the project)
 ---
 ## Resources
 [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+
 [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
 * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
 * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
