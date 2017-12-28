@@ -136,7 +136,7 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
   
-  ## 2. Establish the right team
+## 2. Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
 and continuously improve the digital service, led by a skilled product
