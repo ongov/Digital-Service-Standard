@@ -13,6 +13,7 @@ Vous pouvez nous faire part de vos observations et idées :
 
 * [Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
 * [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
+* [Trousse d’information sur la conception inclusive](https://www.ontario.ca/fr/page/conception-inclusive)
 * [Le blogue des Services numériques de l’Ontario](https://medium.com/ontariodigital) (en anglais seulement)
   * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3) (en anglais seulement)
   * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93) (en anglais seulement)
