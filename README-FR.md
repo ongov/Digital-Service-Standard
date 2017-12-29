@@ -6,7 +6,7 @@ Tous les services et renseignements nouveaux ou révisés devront éventuellemen
 Vous pouvez nous faire part de vos observations et idées :
 
 * par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* sur notre [dépôt GitHub](https://github.com/ontario-digital/Digital-Service-Standard)
+* sur notre [dépôt GitHub](https://github.com/ONgov/Digital-Service-Standard)
 
 ---
 ## Ressources
