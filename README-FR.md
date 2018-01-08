@@ -6,13 +6,20 @@ Tous les services et renseignements nouveaux ou révisés devront éventuellemen
 Vous pouvez nous faire part de vos observations et idées :
 
 * par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* sur notre [dépôt GitHub](https://github.com/ontario-digital/Digital-Service-Standard)
+* sur notre [dépôt GitHub](https://github.com/ONgov/Digital-Service-Standard)
 
 ---
 ## Ressources
 
 * [Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
 * [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
+* [Trousse d’information sur la conception inclusive](https://www.ontario.ca/fr/page/conception-inclusive)
+* [Le blogue des Services numériques de l’Ontario](https://medium.com/ontariodigital) (en anglais seulement)
+  * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3) (en anglais seulement)
+  * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93) (en anglais seulement)
+  * [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e) (en anglais seulement)
+  * [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c) (en anglais seulement)
+  * [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3) (en anglais seulement)
 
 ---
 
@@ -64,41 +71,7 @@ Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter 
 | <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (janvier-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des utilisateurs et les analytiques |
 | <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne (mars-mai)</h3>Publication des normes avec des liens vers les communautés de pratique, maintien des mises à jour continuelles |
 
-## 1 — Former une équipe adaptée
-
-Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services numériques. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
-
-Les chefs de produit établissent la stratégie applicable au service et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu'à sa désactivation. Ce poste est différent de celui de chef de projet.
-
-Un produit désigne tout ce qui est créé pour un groupe spécifique d'utilisateurs. Dans la présente norme, le terme «?produit?» fait référence à toute information en ligne ou à tout service transactionnel utilisé par les habitants de l'Ontario.
-
-### Importance de la question
-
-Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 <sup id="a1">[1](#f1)</sup> .
-
-Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service. Sa structure devra également s'adapter aux besoins du service et à la phase de travail en cours.
-
-Pour assurer une réussite optimale, constituez une équipe dotée :
-
-* d’un large éventail de compétences et de rôles, et ce, dès le départ;
-* de processus de prise de décision rapides et d’une bonne capacité à s'adapter à l'évolution du service;
-* des ressources et de la capacité à livrer le produit.
-
-### Respect de la présente norme
-
-Au minimum :
-
-* constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
-* travaillez en collaboration;
-* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
-* employez un responsable autorisé à prendre des décisions au quotidien dans le but d'améliorer le service;
-* chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
-* identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
-* procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
-* continuez à améliorer le service, même une fois celui-ci déployé;
-* faites participer l’équipe de maintenance du service aux premières étapes du projet.
-
-## 2 — Comprendre les utilisateurs et leurs besoins
+## 1. Comprendre les utilisateurs et leurs besoins
 
 Définissez le problème en commençant par les utilisateurs. Effectuez des recherches de façon à comprendre réellement qui ils sont, comment ils se comportent et ce que cela implique pour la conception du service.
 
@@ -155,7 +128,41 @@ Durant la phase de déploiement :
 * montrez que des améliorations ont été apportées à ce niveau et comment elles ont été testées et conçues;
 * évoquez la façon dont les résultats de vos recherches seront utilisés pour améliorer constamment le service (par exemple, les participants, la fréquence, la localisation, l'heure).
 
-## 3 — Faire preuve de constance
+## 2. Former une équipe adaptée
+
+Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services numériques. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
+
+Les chefs de produit établissent la stratégie applicable au service et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu'à sa désactivation. Ce poste est différent de celui de chef de projet.
+
+Un produit désigne tout ce qui est créé pour un groupe spécifique d'utilisateurs. Dans la présente norme, le terme «?produit?» fait référence à toute information en ligne ou à tout service transactionnel utilisé par les habitants de l'Ontario.
+
+### Importance de la question
+
+Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 <sup id="a1">[1](#f1)</sup> .
+
+Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service. Sa structure devra également s'adapter aux besoins du service et à la phase de travail en cours.
+
+Pour assurer une réussite optimale, constituez une équipe dotée :
+
+* d’un large éventail de compétences et de rôles, et ce, dès le départ;
+* de processus de prise de décision rapides et d’une bonne capacité à s'adapter à l'évolution du service;
+* des ressources et de la capacité à livrer le produit.
+
+### Respect de la présente norme
+
+Au minimum :
+
+* constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
+* travaillez en collaboration;
+* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
+* employez un responsable autorisé à prendre des décisions au quotidien dans le but d'améliorer le service;
+* chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
+* identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
+* procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
+* continuez à améliorer le service, même une fois celui-ci déployé;
+* faites participer l’équipe de maintenance du service aux premières étapes du projet.
+
+## 3. Faire preuve de constance
 
 Le public doit retirer de toute interaction avec le gouvernement de l'Ontario une expérience cohérente, positive et constante.
 
@@ -193,7 +200,7 @@ Ontario.ca est le site Internet phare du gouvernement. Au minimum :
 * Médias sociaux -
   [Lignes directrices relatives aux médias sociaux pour la fonction publique de l'Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
 
-## 4 — Conception du service du début à la fin
+## 4. Conception du service du début à la fin
 
 Comprenez le but des utilisateurs et les étapes qu'ils devront suivre pour accomplir cette tâche. Chaque contact avec le service devra les rapprocher de leur objectif. Si possible, chaque étape devra pouvoir être complétée en ligne.
 
@@ -221,7 +228,7 @@ Au minimum :
 * utilisez des données analytiques dans le cadre de votre plan de recherche utilisateur;
 * montrez tout problème trouvé grâce à vos tests et les solutions que vous proposez.
 
-## 5 — Réussite assurée dès le premier essai des utilisateurs
+## 5. Réussite assurée dès le premier essai des utilisateurs
 
 Utiliser un service gouvernemental devrait être intuitif et aisé. Un service bien conçu doit être tellement simple que les utilisateurs atteignent leur objectif du premier coup, sans avoir besoin d'aide.
 
@@ -251,7 +258,7 @@ Au minimum :
 * testez le nom du service et vérifiez que les utilisateurs le comprennent;
 * utilisez des données analytiques et vos recherches utilisateurs pour réduire le nombre de personnes qui n'accomplissent pas la tâche qu'elles souhaitaient effectuer en ligne (par exemple, renouveler leur permis de conduire).
 
-## 6 — Tester le service de bout en bout
+## 6. Tester le service de bout en bout
 
 Testez le service de bout en bout de façon continue, afin de vérifier qu'aucune erreur ne survient et qu'il reste disponible.
 
@@ -280,7 +287,7 @@ Au minimum :
 * documentez les méthodes utilisées pour créer et maintenir le service, et tenez la documentation à jour;
 * mettez en place un plan pour le stockage et la récupération des données.
 
-## 7 — Rendre le service accessible
+## 7. Rendre le service accessible
 
 L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil ou leur environnement.
 
@@ -306,7 +313,7 @@ Au minimum :
 
 * [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11), [Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
 
-## 8 — Souplesse et orientation sur l’utilisateur
+## 8. Souplesse et orientation sur l’utilisateur
 
 Concevez et créez le service en utilisant une approche agile et axée sur l’utilisateur. Agile est une façon de créer des services en divisant l’ensemble du travail en blocs de plus petite taille appelés des itérations. Créez une fonctionnalité du service à la fois jusqu’à ce que tout le service soit terminé.
 
@@ -338,7 +345,7 @@ Au minimum :
 * dotez-vous d’un plan de vérification de la qualité et de correction qui soutient des modifications fréquentes du service;
 * utilisez une approche par étapes pour tester les modifications apportées à une partie du service, lorsque des modifications basées sur les caractéristiques ne sont pas réalisables.
 
-## 9 — Utiliser des normes ouvertes et des plateformes communes
+## 9. Utiliser des normes ouvertes et des plateformes communes
 
 Utilisez des normes ouvertes, des logiciels ouverts et des plateformes gouvernementales communes, le cas échéant.
 
@@ -377,7 +384,7 @@ Au minimum :
   * Données ouvertes -
     [Catalogue de données](https://www.ontario.ca/fr/recherche/donnees-publiques)
 
-## 10 — Intégrer la sécurité et la protection de la vie privée au niveau de la conception
+## 10. Intégrer la sécurité et la protection de la vie privée au niveau de la conception
 
 Identifiez les données que le service utilisera, stockera ou créera. Adoptez des mesures appropriées en matière juridique, de sécurité et de protection de la vie privée de façon à ce que les utilisateurs soient certains que leurs renseignements personnels seront conservés en toute sécurité et que la protection de leur vie privée sera assurée.
 
@@ -436,7 +443,7 @@ Une fois que le service est opérationnel, décrivez :
 [l4]: https://www.priv.gc.ca/fr/sujets-lies-a-la-protection-de-la-vie-privee/lois-sur-la-protection-des-renseignements-personnels-au-canada/la-loi-sur-la-protection-des-renseignements-personnels-et-les-documents-electroniques-lprpde/r_o_p/
 [l5]: http://fightspam.gc.ca/eic/site/030.nsf/fra/accueil
 
-## 11 — Utilisation des services numériques encouragée
+## 11. Utilisation des services numériques encouragée
 
 Encouragez les personnes à choisir le service numérique à chacune de leurs interactions avec le gouvernement.
 
@@ -471,7 +478,7 @@ Une fois que le service est opérationnel :
 * planifiez le transfert et l’accroissement du nombre des utilisateurs vers le service numérique et fixez des objectifs annuels sur 5 ans;
 * mesurez l’incidence prévue sur les autres points de service (par téléphone, en personne) et la façon dont elle pourrait influencer l’attribution des financements et des ressources.
 
-## 12 — Soutien aux personnes qui en ont besoin
+## 12. Soutien aux personnes qui en ont besoin
 
 Mettez en place dans tous les canaux des outils visant à soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services numériques.
 
@@ -538,7 +545,7 @@ Au minimum :
 
 ## 14 — Mettre à l’essai en présence du ministre/de la ministre
 
-Testez le service ou effectuez-en une démonstration du début à la fin en présence du ministre responsable/de la ministre responsable avant que le service ne soit rendu opérationnel.
+Testez le service ou effectuez-en une démonstration du début à la fin en présence du ministre responsable/de la ministre responsable avant que le service ne soit rendu opérationnel. Lorsque les ministres comprennent ce qu’est le produit, qu’ils en ont l’expérience et le sentent axé sur l’utilisateur, ils peuvent avoir confiance qu’il servira bien le public.
 
 ### Importance de la question
 
