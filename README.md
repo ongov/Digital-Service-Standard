@@ -428,6 +428,7 @@ At a minimum:
    * [*Information and Communications Standards*](https://www.ontario.ca/laws/regulation/110191#BK8)
    * [*Customer Service Standards*](https://www.ontario.ca/laws/regulation/110191#BK148)
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [*Web Content Accessibility Guidelines (WCAG) 2.0*](https://www.w3.org/WAI/intro/wcag)
 
 ## 8. Be agile and user-centred
 
