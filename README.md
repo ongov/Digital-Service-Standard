@@ -387,7 +387,7 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Ensure
+Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
 abilities, device or environment.
 
@@ -418,11 +418,16 @@ At a minimum:
   were tested
 * make sure the assisted digital support will be sustainably funded and
   free to use
+* provide an accessible method for all users to provide feedback on the service or request additional support at any time
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
-* [*Web Content Accessibility Guidelines (WCAG) 2.0*](https://www.w3.org/WAI/intro/wcag)
+* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
+** [*Integrated Accessibility Standards Regulation*](https://www.ontario.ca/laws/regulation/110191)
+*** [*Information and Communications Standards*](https://www.ontario.ca/laws/regulation/110191#BK8)
+*** [*Customer Service Standards*](https://www.ontario.ca/laws/regulation/110191#BK148)
+* [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 
 ## 8. Be agile and user-centred
 
