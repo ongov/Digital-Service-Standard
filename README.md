@@ -409,9 +409,14 @@ At a minimum:
 
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
+* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
+* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
+* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
+* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
+* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
+* design an assisted digital support model to meet user needs
 * conduct research and testing to ensure the service is accessible to
   people of all abilities no matter how they access the service
-* design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
 * explain all end-to-end user experiences, show they work and how they
