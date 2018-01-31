@@ -289,7 +289,7 @@ Au minimum :
 
 ## 7. Rendre le service accessible
 
-L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil ou leur environnement.
+L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil ou leur environnement.
 
 ### Importance de la question
 
@@ -303,15 +303,28 @@ Au minimum :
 
 * respectez les
   [instructions visant à rendre l'information accessible](https://www.ontario.ca/fr/page/comment-rendre-linformation-accessible) publiées par la Direction générale de l'accessibilité pour l'Ontario;
-* effectuez des recherches et des tests pour vous assurer que le service est accessible à tous les utilisateurs, quelles que soient leurs capacités et la manière dont ils ont accédé au service;
+*	formaliser une approche intégrant des outils de test automatisés au processus de développement et de maintien des technologies de l'information et de la communication (TIC) du gouvernement;
+*	former le personnel développeur sur la navigation par clavier seulement et veiller à la mise à l’essai régulière des nouvelles fonctions;
+*	faire en sorte qu’il soit facile pour les personnes handicapées de joindre l’équipe responsable de l’accessibilité en cas de problème
+*	s’assurer, lorsque des plateformes technologiques sont prises en considération, qu’il existe une transparence au sujet des problèmes connus liés aux Règles pour l'accessibilité des contenus Web (WCAG 2.0) AA et que l’on s’efforce de mettre en oeuvre les Règles d'accessibilité pour les outils d'édition (ATAG) 2.0 - parties A et B;
+*	contribuer à l’élaboration de pratiques exemplaires et publier les approches utilisées par la province pour mettre en oeuvre *la Loi de 2005 sur l'accessibilité pour les personnes handicapées de l'Ontario*;
 * concevez un modèle d'aide à l'utilisation des services numériques pour répondre aux besoins des utilisateurs;
+* effectuez des recherches et des tests pour vous assurer que le service est accessible à tous les utilisateurs, quelles que soient leurs capacités et la manière dont ils ont accédé au service;
 * ayez recours aux recherches, aux tests et aux données analytiques pour améliorer le service, y compris le modèle d'aide à l'utilisation des services numériques;
 * expliquez l'ensemble des expériences utilisateurs de bout en bout, et montrez comment elles fonctionnent et ont été testées;
-* assurez-vous que l'aide à l'utilisation des services numériques est financée de façon durable et reste gratuite.
+* assurez-vous que l'aide à l'utilisation des services numériques est financée de façon durable et reste gratuite;
+*	fournir une méthode accessible permettant à tous les utilisateurs de faire des commentaires sur le service ou de demander du soutien supplémentaire à tout moment;
+*	démontrer de quelle manière votre personnel connaîtra les obstacles à l’accessibilité et sera formé pour aider les utilisateurs handicapés à faire ce qu’ils veulent faire et à accéder à l’information.
+
 
 ### Lois et règlements à respecter
 
-* [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11), [Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
+* [*Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11)
+  * [*Normes d'accessibilité intégrées*](https://www.ontario.ca/fr/lois/reglement/110191)
+   * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+   * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
+* [*Code des droits de la personne*](https://www.ontario.ca/fr/lois/loi/90h19)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag) (en anglais seulement)
 
 ## 8. Souplesse et orientation sur l’utilisateur
 
