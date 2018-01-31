@@ -387,7 +387,7 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Ensure
+Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
 abilities, device or environment.
 
@@ -409,20 +409,31 @@ At a minimum:
 
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
+* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
+* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
+* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
+* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
+* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
+* design an assisted digital support model to meet user needs
 * conduct research and testing to ensure the service is accessible to
   people of all abilities no matter how they access the service
-* design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
 * explain all end-to-end user experiences, show they work and how they
   were tested
 * make sure the assisted digital support will be sustainably funded and
   free to use
+* provide an accessible method for all users to provide feedback on the service or request additional support at any time
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
-* [*Web Content Accessibility Guidelines (WCAG) 2.0*](https://www.w3.org/WAI/intro/wcag)
+* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
+  * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
+  * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+  * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+* [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
 ## 8. Be agile and user-centred
 
