@@ -1,6 +1,6 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone design, build and deliver excellent government services.
+The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
 All new or redesigned public-facing information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
@@ -8,6 +8,20 @@ You can share your thoughts and ideas about the standard by: 
 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
 * forking our [GitHub repository](https://github.com/ONgov/Digital-Service-Standard)
+
+---
+## Resources
+* [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+* [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
+* [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
+* [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
+  * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
+  * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
+  * [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e)
+  * [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c)
+  * [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3)
+
+---
 
 ## Contributing to the standard
 
@@ -54,9 +68,9 @@ feedback with us.
 | User needs |            |
 | ---------- | ---------- |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July)</h3>Conducting user research within the Ontario Digital Service and critical partners |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-December)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-February)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (March-June)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (July-September)</h3>Standard published with links to communities of practice, still continually updated |
 
 ## 1. Understand users and their needs
 
@@ -373,7 +387,7 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Ensure
+Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
 abilities, device or environment.
 
@@ -395,19 +409,31 @@ At a minimum:
 
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
+* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
+* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
+* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
+* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
+* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
+* design an assisted digital support model to meet user needs
 * conduct research and testing to ensure the service is accessible to
   people of all abilities no matter how they access the service
-* design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
 * explain all end-to-end user experiences, show they work and how they
   were tested
 * make sure the assisted digital support will be sustainably funded and
   free to use
+* provide an accessible method for all users to provide feedback on the service or request additional support at any time
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
+  * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
+  * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+  * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+* [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
 ## 8. Be agile and user-centred
 
@@ -722,16 +748,6 @@ service to ensure that they can get through it the way a constituent
 would have to (during usability testing phase early on in the project)
 
 ---
-## Resources
-[Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
-
-[Ontario Digital's Medium blog](https://medium.com/ontariodigital)
-* [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
-* [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
-* [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e)
-* [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c)
-* [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3)
-
 
 ## Why it matters
 
