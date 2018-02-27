@@ -1,8 +1,8 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
+The Digital Service Standard sets out 14 points to help anyone build and deliver excellent digital government services.
 
-All new or redesigned public-facing information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
+All new or redesigned digital information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
 You can share your thoughts and ideas about the standard by: 
 
@@ -89,7 +89,9 @@ It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
-Get to know your users and their needs from their point of view – beyond
+It's also important to include people with disabilities into user consideration early. As the number of potential users increases, so does the importance of making a service accessible.
+
+Get to know your users and their needs from their point of view — beyond
 the lens of the project.
 
 Taking the time to understand the people who use your service will help:
@@ -114,7 +116,7 @@ To inform service features, interview users and gather data to develop:
 * **user goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
 * **user personas** - show user groups based on habits, personality,
-  attitudes and motives
+  attitudes, abilities and motives
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
@@ -191,8 +193,7 @@ At a minimum:
 * work collaboratively
 * embed expertise from other business areas and ministries (e.g.
   finance, legal, policy, correspondence) to achieve desired outcomes
-* have a manager with the ability to make day-to-day decisions to
-  improve the service
+* have a manager with the ability to make day-to-day decisions on behalf of users
 * dedicate one user researcher on the project for at least 3 days each
   week
 * identify gaps in the team and fill them
@@ -383,13 +384,13 @@ At a minimum:
   and tools
 * document how the service was built and how to maintain it and keep the
   documentation up-to-date
-* have a plan for data storage and recovery
+* have a plan for data storage and recovery in case of data loss
 
 ## 7. Make it accessible
 
 Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
-abilities, device or environment.
+abilities, device, environment or quality of access.
 
 ### Why it matters
 
@@ -443,7 +444,7 @@ smaller chunks known as iterations. Build one feature of the service at
 a time until the entire service is complete.
 
 It is a much lower risk approach than traditional build-it-all-at-once
-approach known as waterfall because frequent iterations expose any flaws
+approach (known as waterfall) because frequent iterations expose any flaws
 in the original plan much faster (e.g. not getting approvals, not enough
 resources, not the right people on the team, etc.)
 
@@ -489,9 +490,9 @@ At a minimum:
 Use open standards, open source software and common government platforms
 where available.
 
-Open standards and open source software are published publicly, freely
+Open standards are are created through collaboration and consensus. They aim for data operability between various products and services. Open source software is published publicly, freely
 available for use by anyone, and are developed and maintained using a
-collaborative approach.
+collaborative approach. There are many well-established open source tools and products that are considered industry standards.
 
 ### Why it matters
 
@@ -614,14 +615,14 @@ Encouraging people to use digital service will:
 * save money by reducing the number of people using non-digital
   channels, such as call centres
 * help users to develop their digital skills
-* give better support to those who can’t use digital services on their
+* allow non-digital resources to give more attention to those who can’t use digital services on their
   own
 
 ### How to meet this standard
 
 In the early stages of development:
 
-* plan to increase how many people use the digital service
+* set high targets for how many people use the digital service
 * understand other channels that the service is delivered through
 * describe the data collected on other channels and how usage data is
   collected for each
