@@ -1,8 +1,8 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone build and deliver excellent digital government services.
+The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-All new or redesigned digital information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
+All new or redesigned information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
 You can share your thoughts and ideas about the standard by: 
 
@@ -67,10 +67,10 @@ feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research within the Ontario Digital Service and critical partners |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Standard published with links to communities of practice, still continually updated |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Developing a minimum viable service |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
 
 ## 1. Understand users and their needs
 
@@ -487,12 +487,11 @@ At a minimum:
 
 ## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms
-where available.
+Use open standards, open source software and common government platforms where available. 
 
-Open standards are are created through collaboration and consensus. They aim for data operability between various products and services. Open source software is published publicly, freely
-available for use by anyone, and are developed and maintained using a
-collaborative approach. There are many well-established open source tools and products that are considered industry standards.
+Open standards are are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
+
+Open source software is published publicly, freely available for use by anyone, and are developed and maintained using a collaborative approach between users, organizations, and large companies. There are many well-established open source tools and products that are considered industry standards.
 
 ### Why it matters
 
