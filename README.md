@@ -489,7 +489,7 @@ At a minimum:
 
 Use open standards, open source software and common government platforms where available. 
 
-Open standards are are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
+Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
 
 Open source software is published publicly, freely available for use by anyone, and are developed and maintained using a collaborative approach between users, organizations, and large companies. There are many well-established open source tools and products that are considered industry standards.
 
