@@ -1,16 +1,27 @@
 # Digital Service Standard
 
-The Digital Service Standard sets out 14 points to help government build
-and deliver excellent online services.
+The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-All new or redesigned public-facing information and services will
-eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and
-improve it.
+All new or redesigned information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
 You can share your thoughts and ideas about the standard by: 
 
 * emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* forking our [GitHub repository](https://github.com/ontario-digital/Digital-Service-Standard)
+* forking our [GitHub repository](https://github.com/ONgov/Digital-Service-Standard)
+
+---
+## Resources
+* [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
+* [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
+* [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
+* [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
+  * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
+  * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
+  * [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e)
+  * [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c)
+  * [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3)
+
+---
 
 ## Contributing to the standard
 
@@ -56,62 +67,12 @@ feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July)</h3>Conducting user research within the Ontario Digital Service and critical partners |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-December)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Developing a minimum viable service |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
 
-## 1 — Establish the right team
-
-Put in place a sustainable multidisciplinary team that can design, build
-and continuously improve the digital service, led by a skilled product
-manager who is empowered to make decisions.
-
-Product managers set the strategy for and define features of a service.
-They are responsible for the service on an ongoing basis, until it is
-decommissioned. It’s not the same role as a project manager.
-
-A product is anything created for a defined group of users. In this
-standard, product refers to any online information or transactional
-service used by the people of Ontario.
-
-### Why it matters
-
-It’s important to have a strong multidisciplinary team in place, led by
-one person who is accountable and has the authority to make decisions
-based on the outcomes of research, testing and prototypes<sup id="a1">[1](#f1)</sup>.
-
-The team’s skills and focus need to evolve as the service is designed
-and developed. The team also needs to adapt its structure based on the
-needs of the service and the phase of work.
-
-To be successful, build a team with:
-
-* a broad mix of skills and roles from the start
-* quick decision-making processes and the ability to change and adapt as
-  the service evolves
-* the resources and ability to deliver the product
-
-### How to meet this standard
-
-At a minimum:
-
-* build a multidisciplinary team with expertise in agile digital service
-  delivery<sup id="a2">[2](#f2)</sup>,
-  technical, user experience and policy skills
-* work collaboratively
-* embed expertise from other business areas and ministries (e.g.
-  finance, legal, policy, correspondence) to achieve desired outcomes
-* have a manager with the ability to make day-to-day decisions to
-  improve the service
-* dedicate one user researcher on the project for at least 3 days each
-  week
-* identify gaps in the team and fill them
-* transfer knowledge and skills to others
-* continue to improve the service after it’s gone live
-* involve the maintenance team for the service early on in the project
-
-## 2 — Understand users and their needs
+## 1. Understand users and their needs
 
 Start with users to define the problem. Do research to develop a deep
 understanding of who the users are, how they behave and what that means
@@ -128,7 +89,9 @@ It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
-Get to know your users and their needs from their point of view – beyond
+It's also important to include people with disabilities into user consideration early. As the number of potential users increases, so does the importance of making a service accessible.
+
+Get to know your users and their needs from their point of view — beyond
 the lens of the project.
 
 Taking the time to understand the people who use your service will help:
@@ -153,7 +116,7 @@ To inform service features, interview users and gather data to develop:
 * **user goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
 * **user personas** - show user groups based on habits, personality,
-  attitudes and motives
+  attitudes, abilities and motives
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
@@ -188,8 +151,57 @@ In the live stage:
   researched
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
+  
+## 2. Establish the right team
 
-## 3 — Be consistent
+Put a sustained multidisciplinary team in place that can design, build
+and continuously improve the digital service, led by a skilled product
+manager who is empowered to make decisions. [The Service Design Playbook has a quick guide on various common team roles.](https://www.ontario.ca/page/service-design-playbook#section-6)
+
+A product is anything created for a defined group of users. In this
+standard, product refers to any online information or transactional
+service used by the people of Ontario.
+
+Product managers set the strategy for and define features of a service.
+They are responsible for the service on an ongoing basis, until it is
+decommissioned. It’s not the same role as a project manager.
+
+### Why it matters
+
+It’s important to have a strong multidisciplinary team in place, led by
+one person who is accountable and has the authority to make decisions
+based on the outcomes of research, testing and prototypes<sup id="a1">[1](#f1)</sup>.
+
+The team’s skills and focus need to evolve as the service is designed
+and developed. The team also needs to adapt its structure based on the
+needs of the service and the phase of work.
+
+To be successful, build a team with:
+
+* a broad mix of skills and roles from the start
+* quick decision-making processes and the ability to change and adapt as
+  the service evolves
+* the resources and ability to deliver the product
+
+### How to meet this standard
+
+At a minimum:
+
+* build a multidisciplinary team with expertise in agile digital service
+  delivery<sup id="a2">[2](#f2)</sup>,
+  technical, user experience and policy skills
+* work collaboratively
+* embed expertise from other business areas and ministries (e.g.
+  finance, legal, policy, correspondence) to achieve desired outcomes
+* have a manager with the ability to make day-to-day decisions on behalf of users
+* dedicate one user researcher on the project for at least 3 days each
+  week
+* identify gaps in the team and fill them
+* transfer knowledge and skills to others
+* continue to improve the service after it’s gone live
+* involve the maintenance team for the service early on in the project
+
+## 3. Be consistent
 
 When the public interacts with the Ontario government, their experience
 should feel cohesive, positive and consistent.
@@ -240,7 +252,7 @@ Ontario.ca is the government's flagship website. At a minimum:
   [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
 * Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
-## 4 — Design the service from start to finish
+## 4. Design the service from start to finish
 
 Understand what users are trying to achieve and the steps required to
 complete that task. Every encounter should move the user closer towards
@@ -285,7 +297,7 @@ At a minimum:
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
 
-## 5 — Ensure users succeed the first time
+## 5. Ensure users succeed the first time
 
 Using a government service should be an intuitive and stress-free
 experience. Good service should be so simple that users can succeed on
@@ -329,7 +341,7 @@ At a minimum:
   didn’t complete the task they set out to do online (e.g. renew a
   driver’s licence)
 
-## 6 — Test the end-to-end service
+## 6. Test the end-to-end service
 
 Continuously test the end-to-end service to ensure that it remains
 available to users and free of errors.
@@ -372,13 +384,13 @@ At a minimum:
   and tools
 * document how the service was built and how to maintain it and keep the
   documentation up-to-date
-* have a plan for data storage and recovery
+* have a plan for data storage and recovery in case of data loss
 
-## 7 — Make it accessible
+## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Ensure
+Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
-abilities, device or environment.
+abilities, device, environment or quality of access.
 
 ### Why it matters
 
@@ -398,21 +410,33 @@ At a minimum:
 
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
+* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
+* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
+* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
+* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
+* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
+* design an assisted digital support model to meet user needs
 * conduct research and testing to ensure the service is accessible to
   people of all abilities no matter how they access the service
-* design an assisted digital support model to meet user needs
 * use research, testing and analytics to improve the service, including
   the assisted digital support model
 * explain all end-to-end user experiences, show they work and how they
   were tested
 * make sure the assisted digital support will be sustainably funded and
   free to use
+* provide an accessible method for all users to provide feedback on the service or request additional support at any time
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
+  * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
+  * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+  * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+* [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
-## 8 — Be agile and user-centred
+## 8. Be agile and user-centred
 
 Design and build the service using an agile and user-centred approach.
 Agile is an approach to building services that breaks the work into
@@ -420,7 +444,7 @@ smaller chunks known as iterations. Build one feature of the service at
 a time until the entire service is complete.
 
 It is a much lower risk approach than traditional build-it-all-at-once
-approach known as waterfall because frequent iterations expose any flaws
+approach (known as waterfall) because frequent iterations expose any flaws
 in the original plan much faster (e.g. not getting approvals, not enough
 resources, not the right people on the team, etc.)
 
@@ -461,14 +485,13 @@ At a minimum:
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
-## 9 — Use open standards and common platforms
+## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms
-where available.
+Use open standards, open source software and common government platforms where available. 
 
-Open standards and open source software are published publicly, freely
-available for use by anyone, and are developed and maintained using a
-collaborative approach.
+Open standards are are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
+
+Open source software is published publicly, freely available for use by anyone, and are developed and maintained using a collaborative approach between users, organizations, and large companies. There are many well-established open source tools and products that are considered industry standards.
 
 ### Why it matters
 
@@ -509,7 +532,7 @@ At a minimum:
   * Open data -
     [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
-## 10 — Embed privacy and security by design
+## 10. Embed privacy and security by design
 
 Identify the data the service will use, store or create. Put appropriate
 legal, privacy and security measures in place so that users feel
@@ -523,6 +546,7 @@ Users won’t use a service unless they have a guarantee:
 * it’s secure
 * it's confidential
 * they can access their information in the service when they need to
+* that their privacy is protected while they use the service, and afterwards
 
 ### How to meet this standard
 
@@ -531,6 +555,7 @@ In the early stages of development, explain:
 * what data is being collected (name, address, postal code, etc.)
 * how the data is being transmitted
 * where and how the data is being stored
+* how the data will be used
 * security threats, including potential pathways for hackers, and tested
   ways of reducing them
 * how you plan to keep up-to-date about threats and how to deal with
@@ -577,7 +602,7 @@ When the service is live, describe:
 [l4]: https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/
 [l5]: http://fightspam.gc.ca/eic/site/030.nsf/eng/home
 
-## 11 — Encourage people to use digital services
+## 11. Encourage people to use digital services
 
 Encourage people to choose the digital service through every interaction
 they have with government.
@@ -589,14 +614,14 @@ Encouraging people to use digital service will:
 * save money by reducing the number of people using non-digital
   channels, such as call centres
 * help users to develop their digital skills
-* give better support to those who can’t use digital services on their
+* allow non-digital resources to give more attention to those who can’t use digital services on their
   own
 
 ### How to meet this standard
 
 In the early stages of development:
 
-* plan to increase how many people use the digital service
+* set high targets for how many people use the digital service
 * understand other channels that the service is delivered through
 * describe the data collected on other channels and how usage data is
   collected for each
@@ -622,7 +647,7 @@ When the service is live:
   yearly targets for 5 years
 * measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
 
-## 12 — Support those who need it
+## 12. Support those who need it
 
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
@@ -669,7 +694,7 @@ Respond to user research by:
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
-## 13 — Measure performance
+## 13. Measure performance
 
 Continuously capture and monitor performance data to inform ongoing
 service improvements.
@@ -702,7 +727,7 @@ At a minimum:
   government and private sector services
 * share your review findings with leadership
 
-## 14 — Test with the minister
+## 14. Test with the minister
 
 Test or demo the service from beginning to end with the responsible
 minister before the service goes live.
@@ -711,7 +736,7 @@ minister before the service goes live.
 
 Ministers are responsible for delivering on the government’s priorities
 for the people of Ontario, so you need to show them the digital service
-before it goes live.
+before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
 
 ### How to meet this standard
 
@@ -723,8 +748,6 @@ service to ensure that they can get through it the way a constituent
 would have to (during usability testing phase early on in the project)
 
 ---
-## Resources
-[Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
 
 ## Why it matters
 
@@ -738,8 +761,8 @@ Ontario government deliver consistently good services online.
 
 The standard will help us:
 
-* define what good digital service looks like in Ontario;
-* identify the steps we need to take to get there.
+* define what good digital service looks like in Ontario
+* identify the steps we need to take to get there
 
 We looked near and far to develop this standard. It’s built on the
 aspirations and experiences of teams across the Ontario Public Service,
