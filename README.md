@@ -2,7 +2,7 @@
 
 The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-All new or redesigned public-facing information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
+All new or redesigned information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
 
 You can share your thoughts and ideas about the standard by: 
 
@@ -67,10 +67,10 @@ feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July)</h3>Conducting user research within the Ontario Digital Service and critical partners |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July-December)</h3>Publishing a first draft and updating once a month based on user feedback and web analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (January-March)</h3>Continuing to update the standard and adding more guides based on user input and analytics |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live (March-May)</h3>Standard published with links to communities of practice, still continually updated |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Developing a minimum viable service |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
 
 ## 1. Understand users and their needs
 
@@ -89,7 +89,9 @@ It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
-Get to know your users and their needs from their point of view – beyond
+It's also important to include people with disabilities into user consideration early. As the number of potential users increases, so does the importance of making a service accessible.
+
+Get to know your users and their needs from their point of view — beyond
 the lens of the project.
 
 Taking the time to understand the people who use your service will help:
@@ -114,7 +116,7 @@ To inform service features, interview users and gather data to develop:
 * **user goals** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
 * **user personas** - show user groups based on habits, personality,
-  attitudes and motives
+  attitudes, abilities and motives
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
@@ -191,8 +193,7 @@ At a minimum:
 * work collaboratively
 * embed expertise from other business areas and ministries (e.g.
   finance, legal, policy, correspondence) to achieve desired outcomes
-* have a manager with the ability to make day-to-day decisions to
-  improve the service
+* have a manager with the ability to make day-to-day decisions on behalf of users
 * dedicate one user researcher on the project for at least 3 days each
   week
 * identify gaps in the team and fill them
@@ -383,13 +384,13 @@ At a minimum:
   and tools
 * document how the service was built and how to maintain it and keep the
   documentation up-to-date
-* have a plan for data storage and recovery
+* have a plan for data storage and recovery in case of data loss
 
 ## 7. Make it accessible
 
 Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
 the service is accessible to all users regardless of their individual
-abilities, device or environment.
+abilities, device, environment or quality of access.
 
 ### Why it matters
 
@@ -443,7 +444,7 @@ smaller chunks known as iterations. Build one feature of the service at
 a time until the entire service is complete.
 
 It is a much lower risk approach than traditional build-it-all-at-once
-approach known as waterfall because frequent iterations expose any flaws
+approach (known as waterfall) because frequent iterations expose any flaws
 in the original plan much faster (e.g. not getting approvals, not enough
 resources, not the right people on the team, etc.)
 
@@ -486,12 +487,11 @@ At a minimum:
 
 ## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms
-where available.
+Use open standards, open source software and common government platforms where available. 
 
-Open standards and open source software are published publicly, freely
-available for use by anyone, and are developed and maintained using a
-collaborative approach.
+Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
+
+Open source software is published publicly, freely available for use by anyone, and are developed and maintained using a collaborative approach between users, organizations, and large companies. There are many well-established open source tools and products that are considered industry standards.
 
 ### Why it matters
 
@@ -614,14 +614,14 @@ Encouraging people to use digital service will:
 * save money by reducing the number of people using non-digital
   channels, such as call centres
 * help users to develop their digital skills
-* give better support to those who can’t use digital services on their
+* allow non-digital resources to give more attention to those who can’t use digital services on their
   own
 
 ### How to meet this standard
 
 In the early stages of development:
 
-* plan to increase how many people use the digital service
+* set high targets for how many people use the digital service
 * understand other channels that the service is delivered through
 * describe the data collected on other channels and how usage data is
   collected for each
