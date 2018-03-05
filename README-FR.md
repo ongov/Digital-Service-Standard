@@ -66,10 +66,10 @@ Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter 
 
 | Besoins des utilisateurs |            |
 | ---------- | ---------- |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet)</h3>Mener une recherche auprès des utilisateurs des Services numériques de l'Ontario et des partenaires cruciaux |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet-décembre)</h3>Publier une première ébauche et la mettre à jour une fois par mois selon les rétroactions des utilisateurs et les analytiques du Web |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (janvier-mars)</h3>Poursuivre la mise à jour des normes et ajouter un plus grand nombre de guides en se fondant sur les rétroactions des utilisateurs et les analytiques |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne (mars-mai)</h3>Publication des normes avec des liens vers les communautés de pratique, maintien des mises à jour continuelles |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet 2017)</h3>Mener des recherches sur les utilisateurs pour bien comprendre leurs besoins |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet 2017-février 2018)</h3>Vérifier nos hypothèses auprès des utilisateurs |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (à partir de mars 2018)</h3>Créer un service viable minimum |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne</h3>Continuer à améliorer selon les rétroactions des utilisateurs |
 
 ## 1. Comprendre les utilisateurs et leurs besoins
 
@@ -80,6 +80,8 @@ Définissez le problème en commençant par les utilisateurs. Effectuez des rech
 Comprendre les personnes qui utilisent un service et leurs attentes est essentiel si l'on veut que celui-ci réponde à leurs besoins. Par exemple, les utilisateurs d'un service de renouvellement de permis de conduire sont l'ensemble des habitants de l'Ontario qui possèdent un permis de conduire.
 
 Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
+
+Lors de l’évaluation des besoins des utilisateurs, il importe aussi de tenir compte tôt des personnes handicapées. Lorsque le nombre d’utilisateurs éventuels augmentera, l’accessibilité des services deviendra encore plus importante.
 
 Apprenez à connaître vos utilisateurs et leurs besoins, adoptez leur propre point de vue, en laissant la perspective du projet de côté.
 
@@ -97,7 +99,7 @@ Pour définir les caractéristiques du service, rencontrez les utilisateurs et r
 
 * les **objectifs des utilisateurs** - rédigés au format suivant : En tant que \[type d'utilisateur\], je veux
   \[objectif\] afin de \[raison\]
-* des **personas** - des groupes d'utilisateurs constitués en fonction de leurs habitudes, de leur personnalité et de leurs motivations.
+* des **personas** - des groupes d'utilisateurs constitués en fonction de leurs habitudes, de leur personnalité, de leurs possibilités et de leurs motivations.
 * des **profils utilisateurs** - des groupes d'utilisateurs constitués selon des données démographiques, comme l'âge, le genre, la localisation, le revenu et la taille de la famille
 
 ### Respect de la présente norme
@@ -155,7 +157,7 @@ Au minimum :
 * constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
 * travaillez en collaboration;
 * intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
-* employez un responsable autorisé à prendre des décisions au quotidien dans le but d'améliorer le service;
+* employez un responsable autorisé à prendre des décisions au quotidien pour le compte des utilisateurs;
 * chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
 * identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
 * procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
@@ -285,11 +287,11 @@ Au minimum :
 * mettez en place un plan de gestion des erreurs (bogues, interruptions) et prévenez les utilisateurs;
 * respectez les meilleures pratiques de codage recommandées pour vos technologies et outils;
 * documentez les méthodes utilisées pour créer et maintenir le service, et tenez la documentation à jour;
-* mettez en place un plan pour le stockage et la récupération des données.
+* mettez en place un plan pour le stockage et la récupération des données en cas de perte de données.
 
 ## 7. Rendre le service accessible
 
-L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil ou leur environnement.
+L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil, leur environnement ou leur qualité de l’accès.
 
 ### Importance de la question
 
@@ -362,7 +364,9 @@ Au minimum :
 
 Utilisez des normes ouvertes, des logiciels ouverts et des plateformes gouvernementales communes, le cas échéant.
 
-Les normes ouvertes et les logiciels ouverts sont publics, disponibles gratuitement pour tout le monde et leurs élaboration et mise à jour se font de façon collaborative.
+Les normes ouvertes sont créées au moyen de la collaboration et de consensus par une communauté active d’experts, incluant un bon nombre de grandes entreprises du domaine de la technologie. Elles visent l’interopérabilité des données entre divers produits et services, ainsi que la sécurité et la fiabilité.
+
+Les logiciels libres sont du domaine public et gratuits pour tous les utilisateurs. Ils sont développés et entretenus en collaboration par les utilisateurs, les organisations et les grandes entreprises. De nombreux outils et produits à accès libre bien établis sont considérés comme des normes de l’industrie.
 
 ### Importance de la question
 
@@ -466,13 +470,13 @@ Le fait d’encourager les personnes à utiliser le service numérique permettra
 
 * d’économiser de l’argent en réduisant le nombre de personnes qui empruntent des canaux non numériques, notamment les centres d’appels;
 * d’aider les utilisateurs à acquérir des compétences numériques;
-* de mieux soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services numériques.
+* permettez aux ressources non numériques d’accorder plus d’attention aux utilisateurs qui ne peuvent utiliser par eux-mêmes les services numériques.
 
 ### Respect de la présente norme
 
 Dans les premières étapes de l’élaboration :
 
-* planifiez l’accroissement du nombre d’utilisateurs du service numérique;
+* fixez des objectifs élevés concernant le nombre d’utilisateurs du service numérique;
 * comprenez les autres canaux par lesquels le service est assuré;
 * décrivez les données recueillies sur les autres canaux et leur mode de collecte sur chacun d’eux;
 * identifiez les organismes et les groupes qui aident les utilisateurs à se servir des services numériques et non numériques déjà en place;
