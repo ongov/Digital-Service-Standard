@@ -200,6 +200,7 @@ At a minimum:
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
 * involve the maintenance team for the service early on in the project
+* understand the level of [accessibility expertise](https://ontario.ca/page/evaluating-web-accessibility-capacity) on the team
 
 ## 3. Be consistent
 
@@ -293,6 +294,7 @@ At a minimum:
   applied
 * do user research from the start with people who have accessibility
   needs
+* use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design content, interactions and processes
 * test with users who need help to access digital tools
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
