@@ -388,9 +388,14 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
-the service is accessible to all users regardless of their individual
-abilities, device, environment or quality of access.
+Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
+
+The Accessibility for Ontarians with Disabilities Act defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level A and AA success criteria. 
+
+Web accessibility can be tested by: 
+* manually checking a website against the WCAG success criteria, and 
+* using an automated accessibility checker such as [WAVE](https://wave.webaim.org/) or the [aXe extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) for Chrome.
+
 
 ### Why it matters
 
@@ -398,41 +403,31 @@ All users should be able to complete the service the first time they
 try, as quickly and easily as possible.
 
 This includes users with disabilities or those who need help accessing
-digital tools. Assisted digital support means providing support to those
-who can’t use digital services on their own, and may include options to
-help people navigate an online service, such as offering assistance by
-phone and in person.
+digital tools.
 
 If users find it difficult to complete the task the first time, they may
 avoid using the service or contact your organization to get help.
+
+### How to meet this standard
 
 At a minimum:
 
 * meet the Accessibility Directorate of Ontario’s
   [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
-* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
-* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
-* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
-* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
-* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
-* design an assisted digital support model to meet user needs
+* ensure that the service is usable by people with disabilities by testing it using a screen reader and by zooming in to 400% or using a screen magnifier
+* integrate automated testing tools into the process of developing and maintaining government digital services
+* make it easy for people with disabilities to get alternate formats if they need them and contact the service team to share any problems they encounter using the service
 * conduct research and testing to ensure the service is accessible to
   people of all abilities no matter how they access the service
-* use research, testing and analytics to improve the service, including
-  the assisted digital support model
-* explain all end-to-end user experiences, show they work and how they
-  were tested
-* make sure the assisted digital support will be sustainably funded and
-  free to use
-* provide an accessible method for all users to provide feedback on the service or request additional support at any time
-* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
+* ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement ATAG 2.0 - Part A & B
 
 ### Laws and rules to follow
 
 * [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
-  * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
-  * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+    * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
 * [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
@@ -652,6 +647,11 @@ When the service is live:
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
 
+Assisted digital support means providing support to those
+who can’t use digital services on their own, and may include options to
+help people navigate an online service, such as offering assistance by
+phone and in person.
+
 ## Why it matters
 
 Not everyone will have the same access, comfort and skill level to use
@@ -660,6 +660,12 @@ support, make that support available, and raise awareness of that
 support.
 
 ### How to meet this standard
+
+* design an assisted digital support model to meet user needs
+* use research, testing and analytics to improve the service, including
+  the assisted digital support model
+* make sure the assisted digital support will be sustainably funded and
+  free to use
 
 Do user research as early as possible to:
 
