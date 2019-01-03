@@ -661,12 +661,6 @@ support.
 
 ### How to meet this standard
 
-* design an assisted digital support model to meet user needs
-* use research, testing and analytics to improve the service, including
-  the assisted digital support model
-* make sure the assisted digital support will be sustainably funded and
-  free to use
-
 Do user research as early as possible to:
 
 * understand users’ digital skill, confidence and access
@@ -676,13 +670,11 @@ Do user research as early as possible to:
 
 In later stages of development, make sure assisted digital support is:
 
-* sustainable
+* sustainable and free to use
 * well understood and documented
 * supported by appropriate recruitment and research methods
-* selected and explained through stories, personas and profiles of
-  people who need it
 
-Conduct research with users who:
+Conduct research and testing with users who:
 
 * already use the service or would use it
 * have the lowest level of digital skills, confidence and access
@@ -693,6 +685,7 @@ Respond to user research by:
 
 * learning from it and supporting testing to improve assisted digital
   support
+* designing an assisted digital support model to meet user needs
 * committing one person to do ongoing user research into assisted
   digital support needs
 
