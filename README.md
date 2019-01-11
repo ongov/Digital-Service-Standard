@@ -89,7 +89,7 @@ It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
-It's also important to include people with disabilities into user consideration early. As the number of potential users increases, so does the importance of making a service accessible.
+It's especially important to include people with disabilities early.
 
 Get to know your users and their needs from their point of view — beyond
 the lens of the project.
@@ -392,11 +392,6 @@ Accessibility is not only required by law, it’s also good design. Creating ful
 
 The Accessibility for Ontarians with Disabilities Act defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level A and AA success criteria. 
 
-Web accessibility can be tested by: 
-* manually checking a website against the WCAG success criteria, and 
-* using an automated accessibility checker such as [WAVE](https://wave.webaim.org/) or the [aXe extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) for Chrome.
-
-
 ### Why it matters
 
 All users should be able to complete the service the first time they
@@ -412,13 +407,11 @@ avoid using the service or contact your organization to get help.
 
 At a minimum:
 
-* meet the Accessibility Directorate of Ontario’s
-  [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
-* ensure that the service is usable by people with disabilities by testing it using a screen reader and by zooming in to 400% or using a screen magnifier
-* integrate automated testing tools into the process of developing and maintaining government digital services
+* have a plan to ensure that the service meets the WCAG success criteria at launch and on an ongoing basis
+* integrate automated testing tools into the process of developing and maintaining the service
+* ensure that the service is usable by people with disabilities by testing it manually, with an automated checker, using a screen reader and by zooming in to 400% or using a screen magnifier
 * make it easy for people with disabilities to get alternate formats if they need them and contact the service team to share any problems they encounter using the service
-* conduct research and testing to ensure the service is accessible to
-  people of all abilities no matter how they access the service
+* include people with different abilities using different devices in your user research and testing
 * demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
 * ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement ATAG 2.0 - Part A & B
 
@@ -428,7 +421,8 @@ At a minimum:
   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
     * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
     * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
-* [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
 ## 8. Be agile and user-centred
