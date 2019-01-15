@@ -388,7 +388,7 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
+Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
 
 The Accessibility for Ontarians with Disabilities Act defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level A and AA success criteria. 
 
@@ -413,17 +413,16 @@ At a minimum:
 * make it easy for people with disabilities to get alternate formats if they need them and contact the service team to share any problems they encounter using the service
 * include people with different abilities using different devices in your user research and testing
 * demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
-* ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement ATAG 2.0 - Part A & B
+* ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
 
 ### Laws and rules to follow
 
 * [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
-    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
     * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
 
 ## 8. Be agile and user-centred
 
@@ -642,14 +641,14 @@ Put tools in place across all channels to support people who cannot use
 digital services on their own.
 
 Assisted digital support means providing support to those
-who can’t use digital services on their own, and may include options to
+who can’t use digital services on their own. This may include options to
 help people navigate an online service, such as offering assistance by
-phone and in person.
+phone, chat and/or in person.
 
 ## Why it matters
 
 Not everyone will have the same access, comfort and skill level to use
-digital service by default. Understand how and where users require
+digital services. Understand how and where users require
 support, make that support available, and raise awareness of that
 support.
 
@@ -672,7 +671,7 @@ Conduct research and testing with users who:
 
 * already use the service or would use it
 * have the lowest level of digital skills, confidence and access
-* currently seek assisted digital support from others (like friends and
+* currently seek assisted digital support from others (for example, friends and
   family, colleagues, companies or charities)
 
 Respond to user research by:
@@ -680,7 +679,7 @@ Respond to user research by:
 * learning from it and supporting testing to improve assisted digital
   support
 * designing an assisted digital support model to meet user needs
-* committing one person to do ongoing user research into assisted
+* committing to participating in ongoing user research to discover 
   digital support needs
 
 ### Laws and rules to follow
