@@ -390,7 +390,7 @@ At a minimum:
 
 Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
 
-The Accessibility for Ontarians with Disabilities Act defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria. 
+The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria. 
 
 ### Why it matters
 
