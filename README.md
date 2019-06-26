@@ -293,6 +293,7 @@ At a minimum:
   applied
 * do user research from the start with people who have accessibility
   needs
+* use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design
 * test with users who need help to access digital tools
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
