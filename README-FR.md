@@ -226,6 +226,7 @@ Au minimum :
 * mettez en place un plan de recherche utilisateur qui couvre l'ensemble des étapes de la conception du service jusqu'à son déploiement, et qui inclut les prochaines étapes de développement;
 * expliquez la fréquence des recherches et des tests, et la façon dont les résultats seront exploités;
 * effectuez des recherches utilisateurs dès le début avec des personnes rencontrant des problèmes d'accessibilité;
+* utilisez des [fiches pour la conception inclusive](https://www.ontario.ca/fr/page/fiches-pour-la-conception-inclusive) vous aidera à esquisser, à planifier et à créer les prototypes;
 * réalisez des tests avec des utilisateurs ayant besoin d'aide pour accéder aux outils numériques;
 * utilisez des données analytiques dans le cadre de votre plan de recherche utilisateur;
 * montrez tout problème trouvé grâce à vos tests et les solutions que vous proposez.
