@@ -81,7 +81,7 @@ Comprendre les personnes qui utilisent un service et leurs attentes est essentie
 
 Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
 
-Lors de l’évaluation des besoins des utilisateurs, il importe aussi de tenir compte tôt des personnes handicapées. Lorsque le nombre d’utilisateurs éventuels augmentera, l’accessibilité des services deviendra encore plus importante.
+Il est particulièrement important de tenir compte des personnes handicapées dès le début.
 
 Apprenez à connaître vos utilisateurs et leurs besoins, adoptez leur propre point de vue, en laissant la perspective du projet de côté.
 
@@ -226,6 +226,7 @@ Au minimum :
 * mettez en place un plan de recherche utilisateur qui couvre l'ensemble des étapes de la conception du service jusqu'à son déploiement, et qui inclut les prochaines étapes de développement;
 * expliquez la fréquence des recherches et des tests, et la façon dont les résultats seront exploités;
 * effectuez des recherches utilisateurs dès le début avec des personnes rencontrant des problèmes d'accessibilité;
+* utilisez des [fiches pour la conception inclusive](https://www.ontario.ca/fr/page/fiches-pour-la-conception-inclusive) vous aidera à esquisser, à planifier et à créer les prototypes;
 * réalisez des tests avec des utilisateurs ayant besoin d'aide pour accéder aux outils numériques;
 * utilisez des données analytiques dans le cadre de votre plan de recherche utilisateur;
 * montrez tout problème trouvé grâce à vos tests et les solutions que vous proposez.
@@ -291,42 +292,36 @@ Au minimum :
 
 ## 7. Rendre le service accessible
 
-L'accessibilité est non seulement obligatoire, mais elle constitue également un bon modèle de conception. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil, leur environnement ou leur qualité de l’accès.
+Une conception accessible, c’est une bonne conception et c’est bon pour les affaires. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil, leur environnement ou leur qualité de l’accès.
+
+La *Loi sur l’accessibilité pour les personnes handicapées de l’Ontario* définit un site Web gouvernemental accessible comme un site qui remplit les critères de succès de toutes les [Règles pour l’accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) (Niveau AA).
 
 ### Importance de la question
 
 Tous les utilisateurs doivent pouvoir atteindre leur objectif dès leur première utilisation du service, aussi rapidement et facilement que possible.
 
-Ceci est également valable pour les utilisateurs atteints d’une déficience ou ceux ayant besoin d'aide pour accéder aux outils numériques. L'aide à l'utilisation des services numériques consiste à fournir une assistance aux personnes qui ne peuvent pas utiliser les services numériques par elles-mêmes. Elle comprend, entre autres, des options pour les aider à naviguer dans un service en ligne, par téléphone ou en personne.
+Ceci est également valable pour les utilisateurs atteints d’une déficience ou ceux ayant besoin d'aide pour accéder aux outils numériques.
 
 Si les utilisateurs ont des difficultés à atteindre leur objectif du premier coup, ils pourraient ensuite éviter d'utiliser le service ou contacter votre organisation pour obtenir de l'aide.
 
 Au minimum :
 
-* respectez les
-  [instructions visant à rendre l'information accessible](https://www.ontario.ca/fr/page/comment-rendre-linformation-accessible) publiées par la Direction générale de l'accessibilité pour l'Ontario;
-*	formaliser une approche intégrant des outils de test automatisés au processus de développement et de maintien des technologies de l'information et de la communication (TIC) du gouvernement;
-*	former le personnel développeur sur la navigation par clavier seulement et veiller à la mise à l’essai régulière des nouvelles fonctions;
-*	faire en sorte qu’il soit facile pour les personnes handicapées de joindre l’équipe responsable de l’accessibilité en cas de problème
-*	s’assurer, lorsque des plateformes technologiques sont prises en considération, qu’il existe une transparence au sujet des problèmes connus liés aux Règles pour l'accessibilité des contenus Web (WCAG 2.0) AA et que l’on s’efforce de mettre en oeuvre les Règles d'accessibilité pour les outils d'édition (ATAG) 2.0 - parties A et B;
-*	contribuer à l’élaboration de pratiques exemplaires et publier les approches utilisées par la province pour mettre en oeuvre *la Loi de 2005 sur l'accessibilité pour les personnes handicapées de l'Ontario*;
-* concevez un modèle d'aide à l'utilisation des services numériques pour répondre aux besoins des utilisateurs;
-* effectuez des recherches et des tests pour vous assurer que le service est accessible à tous les utilisateurs, quelles que soient leurs capacités et la manière dont ils ont accédé au service;
-* ayez recours aux recherches, aux tests et aux données analytiques pour améliorer le service, y compris le modèle d'aide à l'utilisation des services numériques;
-* expliquez l'ensemble des expériences utilisateurs de bout en bout, et montrez comment elles fonctionnent et ont été testées;
-* assurez-vous que l'aide à l'utilisation des services numériques est financée de façon durable et reste gratuite;
-*	fournir une méthode accessible permettant à tous les utilisateurs de faire des commentaires sur le service ou de demander du soutien supplémentaire à tout moment;
-*	démontrer de quelle manière votre personnel connaîtra les obstacles à l’accessibilité et sera formé pour aider les utilisateurs handicapés à faire ce qu’ils veulent faire et à accéder à l’information.
-
+* ayez un plan pour vous assurer que le service remplit les critères de succès des Règles WCAG au lancement et sur une base continue;
+* intégrez des outils d’essai automatisés dans le processus de développement et de maintenance du service;
+* assurez-vous que les personnes handicapées soient en mesure d’utiliser le service en faisant des essais manuels avec un vérificateur automatisé, un lecteur d’écran et un zoomant avant jusqu'à 400 % ou une loupe d’écran;
+* permettez aux personnes handicapées d’obtenir facilement des documents en média substitut si elles en ont besoin et communiquez avec l’équipe du service pour faire part de tout problème qu’elles rencontrent en utilisant le service;
+* incluez des personnes ayant des capacités diverses en utilisant des appareils différents dans vos recherches et essais d’utilisateur;
+*	démontrer de quelle manière votre personnel connaîtra les obstacles à l’accessibilité et sera formé pour aider les utilisateurs handicapés à faire ce qu’ils veulent faire et à accéder à l’information;
+* veillez à ce que, lorsque de nouvelles plateformes technologiques sont envisagées, vous vous informiez des problèmes de conformité aux Règles WCAG 2.0 AA et des efforts déployés pour mettre en œuvre les Règles pour l’accessibilité des outils de création 2.0 (ATAG), parties A et B.
 
 ### Lois et règlements à respecter
 
 * [*Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11)
   * [*Normes d'accessibilité intégrées*](https://www.ontario.ca/fr/lois/reglement/110191)
-   * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
-   * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
+    * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+    * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
 * [*Code des droits de la personne*](https://www.ontario.ca/fr/lois/loi/90h19)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag) (en anglais seulement)
+* [*Loi sur les personnes handicapées de l'Ontario*](https://www.ontario.ca/fr/lois/loi/01o32)
 
 ## 8. Souplesse et orientation sur l’utilisateur
 
@@ -499,9 +494,11 @@ Une fois que le service est opérationnel :
 
 Mettez en place dans tous les canaux des outils visant à soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services numériques.
 
+L'aide à l'utilisation des services numériques consiste à fournir une assistance aux personnes qui ne peuvent pas utiliser les services numériques par elles-mêmes. Cela peut comprendre des solutions pour aider les gens à naviguer dans un service en ligne, comme offrir de l’aide par téléphone, par clavardage ou en personne.
+
 ## Importance de la question
 
-Tout le monde ne disposera pas automatiquement du même niveau d’accès, de confort et de compétences pour utiliser le service numérique. Comprenez à quels niveaux les utilisateurs ont besoin de soutien, mettez ce soutien à disposition et sensibilisez à l’existence de ce soutien.
+Tout le monde n’aura pas le même accès, la même aisance et le même niveau de compétence pour utiliser les services numériques. Comprenez à quels niveaux les utilisateurs ont besoin de soutien, mettez ce soutien à disposition et sensibilisez à l’existence de ce soutien.
 
 ### Respect de la présente norme
 
@@ -513,21 +510,22 @@ Effectuez le plus tôt possible une étude des utilisateurs afin de :
 
 Dans les étapes ultérieures d’élaboration, assurez-vous que l’aide numérique :
 
-* est pérenne;
+* soit offerte de façon durable et reste gratuite;
 * est compréhensible et bien documentée;
 * repose sur des méthodes de recrutement et de recherche appropriées;
 * est constituée et expliquée à travers le prisme d’histoires, de personnages et de profils qui correspondent aux personnes qui en ont besoin.
 
-Menez des recherches sur les utilisateurs qui :
+Effectuez des recherches et des essais avec les utilisateurs qui :
 
 * utilisent déjà ou utiliseront le service;
 * disposent du niveau le plus bas d’accès, de confiance et de compétences numériques;
-* font actuellement appel à d’autres personnes pour obtenir de l’aide numérique (amis, famille, collègues, entreprises ou organismes de bienfaisance).
+* recherchent actuellement un soutien numérique assisté auprès d’autres personnes (par exemple, des amis et des membres de leur famille, des collègues, des entreprises ou des organismes de bienfaisance).
 
 Réagissez en fonction de l’étude des utilisateurs en :
 
 * tirant les enseignements issus de l’étude et en soutenant les essais visant à améliorer l’aide numérique;
-* chargeant une personne d’étudier en continu les besoins des utilisateurs en matière d’aide numérique.
+* concevant un modèle d’aide numérique pour répondre aux besoins des utilisateurs;
+* vous engageant à participer à des recherches continues sur les utilisateurs afin de découvrir leurs besoins en matière d’aide numérique.
 
 ### Lois et règlements à respecter
 
