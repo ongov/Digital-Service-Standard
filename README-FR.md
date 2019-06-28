@@ -318,10 +318,10 @@ Au minimum :
 
 * [*Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11)
   * [*Normes d'accessibilité intégrées*](https://www.ontario.ca/fr/lois/reglement/110191)
-   * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
-   * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
+    * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+    * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
 * [*Code des droits de la personne*](https://www.ontario.ca/fr/lois/loi/90h19)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag) (en anglais seulement)
+* [*Loi sur les personnes handicapées de l'Ontario*](https://www.ontario.ca/fr/lois/loi/01o32)
 
 ## 8. Souplesse et orientation sur l’utilisateur
 
