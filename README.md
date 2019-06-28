@@ -89,7 +89,7 @@ It’s easy to make assumptions about users or be influenced by personal
 experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
-It's also important to include people with disabilities into user consideration early. As the number of potential users increases, so does the importance of making a service accessible.
+It's especially important to include people with disabilities early.
 
 Get to know your users and their needs from their point of view — beyond
 the lens of the project.
@@ -293,6 +293,7 @@ At a minimum:
   applied
 * do user research from the start with people who have accessibility
   needs
+* use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design
 * test with users who need help to access digital tools
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
@@ -388,9 +389,9 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessibility is not only required by law, it’s also good design. Creating fully accessible digital products and services improves the experience for everybody. Ensure
-the service is accessible to all users regardless of their individual
-abilities, device, environment or quality of access.
+Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
+
+The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria. 
 
 ### Why it matters
 
@@ -398,43 +399,31 @@ All users should be able to complete the service the first time they
 try, as quickly and easily as possible.
 
 This includes users with disabilities or those who need help accessing
-digital tools. Assisted digital support means providing support to those
-who can’t use digital services on their own, and may include options to
-help people navigate an online service, such as offering assistance by
-phone and in person.
+digital tools.
 
 If users find it difficult to complete the task the first time, they may
 avoid using the service or contact your organization to get help.
 
+### How to meet this standard
+
 At a minimum:
 
-* meet the Accessibility Directorate of Ontario’s
-  [instructions for how to make information accessible](https://www.ontario.ca/page/how-make-information-accessible)
-* formalize an approach to integrating automated testing tools into the process of developing and maintaining government ICT.
-* train development staff on use of keyboard only navigation and ensure that new features are regularly tested.
-* make it easy for People with Disabilities to reach out to the accessibility team to address the problem.
-* ensure when technology platforms are considered that there is transparency about known WCAG 2.0 AA issues and efforts to implement ATAG 2.0 - Part A & B.
-* contribute to the development of best practices and publish approaches the province has used to implement the AODA.
-* design an assisted digital support model to meet user needs
-* conduct research and testing to ensure the service is accessible to
-  people of all abilities no matter how they access the service
-* use research, testing and analytics to improve the service, including
-  the assisted digital support model
-* explain all end-to-end user experiences, show they work and how they
-  were tested
-* make sure the assisted digital support will be sustainably funded and
-  free to use
-* provide an accessible method for all users to provide feedback on the service or request additional support at any time
-* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information.
+* have a plan to ensure that the service meets the WCAG success criteria at launch and on an ongoing basis
+* integrate automated testing tools into the process of developing and maintaining the service
+* ensure that the service is usable by people with disabilities by testing it manually, with an automated checker, using a screen reader and by zooming in to 400% or using a screen magnifier
+* make it easy for people with disabilities to get alternate formats if they need them and contact the service team to share any problems they encounter using the service
+* include people with different abilities using different devices in your user research and testing
+* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
+* ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
 
 ### Laws and rules to follow
 
 * [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
-  * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
-  * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
-* [Ontario *Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag)
+    * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+* [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
+* [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
 
 ## 8. Be agile and user-centred
 
@@ -652,10 +641,15 @@ When the service is live:
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
 
+Assisted digital support means providing support to those
+who can’t use digital services on their own. This may include options to
+help people navigate an online service, such as offering assistance by
+phone, chat and/or in person.
+
 ## Why it matters
 
 Not everyone will have the same access, comfort and skill level to use
-digital service by default. Understand how and where users require
+digital services. Understand how and where users require
 support, make that support available, and raise awareness of that
 support.
 
@@ -670,24 +664,23 @@ Do user research as early as possible to:
 
 In later stages of development, make sure assisted digital support is:
 
-* sustainable
+* sustainable and free to use
 * well understood and documented
 * supported by appropriate recruitment and research methods
-* selected and explained through stories, personas and profiles of
-  people who need it
 
-Conduct research with users who:
+Conduct research and testing with users who:
 
 * already use the service or would use it
 * have the lowest level of digital skills, confidence and access
-* currently seek assisted digital support from others (like friends and
+* currently seek assisted digital support from others (for example, friends and
   family, colleagues, companies or charities)
 
 Respond to user research by:
 
 * learning from it and supporting testing to improve assisted digital
   support
-* committing one person to do ongoing user research into assisted
+* designing an assisted digital support model to meet user needs
+* committing to participating in ongoing user research to discover 
   digital support needs
 
 ### Laws and rules to follow
