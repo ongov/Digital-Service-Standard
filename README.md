@@ -65,7 +65,7 @@ We’re in the early days of bringing this standard to life. We encourage
 you to adopt as much of the standard as possible, and to share your
 feedback with us.
 
-| User needs |            |
+| User needs |Release stages           |
 | ---------- | ---------- |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
