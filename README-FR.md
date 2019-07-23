@@ -4,9 +4,6 @@ Les normes en matière de services numériques comportent 14 points qui aideront
 
 [Guides et ressources, études de cas, et règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario)
 
-Tous les services et renseignements nouveaux ou révisés devront éventuellement respecter ces normes avant que commence tout travail. Nous voulons d’abord tester les normes, obtenir une rétroaction et les améliorer.
-
-
 ---
 
 ## Phases de déploiement
