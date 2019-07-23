@@ -2,64 +2,12 @@
 
 Les normes en matière de services numériques comportent 14 points qui aideront tout le monde à développer et offrir d’excellents services gouvernementaux.
 
+[Guides et ressources, études de cas, et règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario)
+
 Tous les services et renseignements nouveaux ou révisés devront éventuellement respecter ces normes avant que commence tout travail. Nous voulons d’abord tester les normes, obtenir une rétroaction et les améliorer.
-Vous pouvez nous faire part de vos observations et idées :
 
-* par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* sur notre [dépôt GitHub](https://github.com/ONgov/Digital-Service-Standard)
 
 ---
-## Ressources
-
-* [Ontario.ca : guide de rédaction](https://www.ontario.ca/fr/page/ontarioca-guide-redaction)
-* [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)
-* [Trousse d’information sur la conception inclusive](https://www.ontario.ca/fr/page/conception-inclusive)
-* [Le blogue des Services numériques de l’Ontario](https://medium.com/ontariodigital) (en anglais seulement)
-  * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3) (en anglais seulement)
-  * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93) (en anglais seulement)
-  * [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e) (en anglais seulement)
-  * [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c) (en anglais seulement)
-  * [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3) (en anglais seulement)
-
----
-
-## Contributions aux normes
-
-### Par courriel
-
-* Courriellez des formats texte en clair, par exemple des fichiers textes, des documents Word et Google
-* N’envoyez pas de HTML, de PDF, de sorties imprimées, ni de notes manuscrites
-* Indiquez la section à laquelle vos suggestions s’appliquent ou indiquez si elles s’appliquent à l’ensemble du document
-* Joignez le texte original à titre de référence ainsi que les modifications que vous proposez si vous nous envoyez un fichier texte ou un courriel
-* Utilisez le fonction Track Changes (Suivi des modifications) ou le mode suggestion si vous envoyez des documents Word ou Google
-* Dites-nous la raison de votre suggestion et l’avantage qu’elle présentera
-
-### Sur GitHub
-
-**Nota :** Le `develop` branch (embranchement développer) est une ébauche de travail. Les normes officielles se trouvent dans le `master` branc (’embranchement maître) et sur Ontario.ca.
-
-* Utilisez Markdown pour formater vos modifications
-* N’utilisez pas HTML sauf si les modifications que vous voulez faire ne peuvent pas être faites avec Markdown (par exemple, les rubriques dans un tableau)
-* Sortez de notre embranchement développer et lorsque vous avez terminé, faites une demande de retour (pull request) pour retourner à l’embranchement développer
-* Baptisez votre embranchement en lui donnant votre prénom ou votre nom d’utilisateur, le type de modification (correction d’une faute de frappe ou de grammaire ou élément à ajouter ou à effacer), le tout suivi de la description de vos modifications nom/correction/mes-modifications OU nom/élément/mes-modifications
-* Prenez un engagement (commit) par modification et expliquez la raison de votre modification dans votre message d’engagement (n’indiquez pas ce que vous avez modifié, mais pourquoi)
-
-## Comment nous évaluons les contributions aux normes
-
-L’équipe des politiques examinera toutes les modifications suggérées par courriel ou sur GitHub et décidera des modifications à effectuer en fonction des critères suivants :
-
-1.  La modification soutient-elle l’objectif principal d’aider le gouvernement à établir et à offrir d’excellents services en ligne?
-2.  Qui a utilisé cette pratique? Est-elle documentée? Où?
- Par exemple, les processus agiles de développement de logiciels sont à l’heure actuelle une pratique exemplaire dans de nombreuses organisations numériques, dont Spotify, Google et Amazon.
-3.  Le résultat escompté est-il précis, mesurable et réaliste?
-4.  Est-ce que cela entraînerait un dédoublement d’un autre élément des normes?
-5.  Est-ce en contradiction avec les lois, politiques ou autres normes de l’Ontario?
-6.  Si une équipe ne suit pas cette pratique, est-ce que le service risque de devenir non utilisable pour certains utilisateurs ou a-t-il peu de chances d’être établi en temps opportun et à coût abordable?
-7.  Est-ce que cela s’applique à tous les types de services?
-8.  Est-ce écrit de manière claire et compréhensible pour tous les destinataires (y compris ceux qui ne sont pas férus sur le plan technique)?
-9.  Est-ce que le message d’engagement de Git décrit la raison de la modification?
-
-[Licence du gouvernement ouvert – Ontario](https://www.ontario.ca/fr/page/licence-du-gouvernement-ouvert-ontario)
 
 ## Phases de déploiement
 Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter cette norme autant que possible et à nous faire part de vos retours.
@@ -589,6 +537,34 @@ La norme nous permettra de :
 * déterminer les mesures que nous devons prendre pour y parvenir.
 
 L’élaboration de la présente norme fait fond sur des recherches au Canada et à l’étranger. Elle repose sur les aspirations et les expériences d’équipes de toute la fonction publique de l’Ontario, ainsi que d’autres territoires de compétence, en particulier avec les services Gov.UK, USDS et 18F.
+
+## Contributions aux normes
+
+Vous pouvez nous faire part de vos observations et idées :
+
+* par courriel à [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
+* sur notre [dépôt GitHub](https://github.com/ONgov/Digital-Service-Standard)
+
+### Par courriel
+
+* Courriellez des formats texte en clair, par exemple des fichiers textes, des documents Word et Google
+* N’envoyez pas de HTML, de PDF, de sorties imprimées, ni de notes manuscrites
+* Indiquez la section à laquelle vos suggestions s’appliquent ou indiquez si elles s’appliquent à l’ensemble du document
+* Joignez le texte original à titre de référence ainsi que les modifications que vous proposez si vous nous envoyez un fichier texte ou un courriel
+* Utilisez le fonction Track Changes (Suivi des modifications) ou le mode suggestion si vous envoyez des documents Word ou Google
+* Dites-nous la raison de votre suggestion et l’avantage qu’elle présentera
+
+### Sur GitHub
+
+**Nota :** Le `develop` branch (embranchement développer) est une ébauche de travail. Les normes officielles se trouvent dans le `master` branc (’embranchement maître) et sur Ontario.ca.
+
+* Utilisez Markdown pour formater vos modifications
+* N’utilisez pas HTML sauf si les modifications que vous voulez faire ne peuvent pas être faites avec Markdown (par exemple, les rubriques dans un tableau)
+* Sortez de notre embranchement développer et lorsque vous avez terminé, faites une demande de retour (pull request) pour retourner à l’embranchement développer
+* Baptisez votre embranchement en lui donnant votre prénom ou votre nom d’utilisateur, le type de modification (correction d’une faute de frappe ou de grammaire ou élément à ajouter ou à effacer), le tout suivi de la description de vos modifications nom/correction/mes-modifications OU nom/élément/mes-modifications
+* Prenez un engagement (commit) par modification et expliquez la raison de votre modification dans votre message d’engagement (n’indiquez pas ce que vous avez modifié, mais pourquoi)
+
+[Licence du gouvernement ouvert – Ontario](https://www.ontario.ca/fr/page/licence-du-gouvernement-ouvert-ontario)
 
 ### Footnotes
 

@@ -2,62 +2,9 @@
 
 The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-All new or redesigned information and services will eventually be required to follow the standard, before work begins. First, we want to test the standard, gather user feedback and improve it.
-
-You can share your thoughts and ideas about the standard by: 
-
-* emailing us at [digital.standard@ontario.ca](mailto:digital.standard@ontario.ca)
-* forking our [GitHub repository](https://github.com/ONgov/Digital-Service-Standard)
+[Guides and resources, case studies, and related rules](https://www.ontario.ca/page/build-ontario-government-services)
 
 ---
-## Resources
-* [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
-* [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
-* [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
-* [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
-  * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
-  * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
-  * [OSAP: A new financial aid calculator](https://medium.com/ontariodigital/osap-a-new-financial-aid-calculator-4abe61118f8e)
-  * [Making health care information easier to access](https://medium.com/ontariodigital/making-healthcare-information-easier-to-access-8e21ca0f3f3c)
-  * [User-centric advice to Cabinet](https://medium.com/ontariodigital/user-centric-advice-to-cabinet-1ba92b5e2a3)
-
----
-
-## Contributing to the standard
-
-### By email
-
-* Send plain text formats like text files, Word documents and Google docs
-* Do not send HTML, PDF, printed paper or handwritten notes
-* Tell us what section your suggestions apply to or if they apply to the overall document
-* Include the original text for reference and your proposed changes if you are sending text file or email
-* Use Track Changes or suggest mode if you are sending Word or Google documents
-* Tell us the reason for your suggestion and the benefit it will have
-
-### On GitHub
-
-**NOTE:** The `develop` branch is a working draft. The official standard is in the `master` branch and on [Ontario.ca](https://www.ontario.ca/page/digital-service-standard).
-* Use markdown to format your changes
-* Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
-* Fork off of our develop branch and when you are done make a pull request back to develop
-* Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
-* Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
-
-### How we will evaluate contributions to the standard
-
- The policy team will review all of the changes submitted by email and GitHub and decide which changes to make based on the following criteria:  
-
-1. Will the change support the core goal of helping government build and deliver excellent online services?
-2. Who has used the practice? Is it documented? Where?  For example, agile software development processes are currently a best practice in many digital organizations including Spotify, Google and Amazon.
-3. Is it specific, measurable and realistic?
-4. Does it duplicate anything elsewhere in the standard?
-5. Does it contradict Ontario's laws, policies or other standards?
-6. If a team does not follow this practice, is the service likely to be unusable for some users or unlikely to be built in a timely, affordable manner?
-7. Does it apply to all types of services?
-8. Is it written clearly and understandable for all audiences (including non-technical ones)?
-9. Does the Git commit message describe the reason for the change?
-
-[Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario)
 
 ## Release Stages
 
@@ -74,25 +21,17 @@ feedback with us.
 
 ## 1. Understand users and their needs
 
-Start with users to define the problem. Do research to develop a deep
-understanding of who the users are, how they behave and what that means
-for the design of the service.
+Start with users to define the problem. Do research to develop a deep understanding of who the users are, how they behave and what that means for the design of the service.
 
 ### Why it matters
 
-Understanding the people who use a service and what they want is
-critical to building a service that works for them. For example, users
-of a driver's license renewal service include any Ontarian with a
-driver’s license.
+Understanding the people who use a service and what they want is critical to building a service that works for them. For example, users of a driver’s license renewal service include any Ontarian with a driver’s license.
 
-It’s easy to make assumptions about users or be influenced by personal
-experiences. When thinking about users, it’s important to find people
-with different experiences and perspectives.
+It’s easy to make assumptions about users or be influenced by personal experiences. When thinking about users, it’s important to find people with different experiences and perspectives.
 
 It's especially important to include people with disabilities early.
 
-Get to know your users and their needs from their point of view — beyond
-the lens of the project.
+Get to know your users and their needs from their point of view – beyond the lens of the project.
 
 Taking the time to understand the people who use your service will help:
 
@@ -100,16 +39,9 @@ Taking the time to understand the people who use your service will help:
 * discover additional opportunities and insights
 * prevent wasted effort implementing the right idea in the wrong way
 
-It’s helpful to define average users and the not-so-average users (also
-known as atypical users). Atypical users include those who may be
-extremely satisfied or extremely dissatisfied with the service. Atypical
-users are a great source of insight because their needs are generally
-amplified versions of the more average users.
+It’s helpful to define average users and the not-so-average users (also known as atypical users). Atypical users include those who may be extremely satisfied or extremely dissatisfied with the service. Atypical users are a great source of insight because their needs are generally amplified versions of the more average users.
 
-Use the needs of atypical users as a compass to help articulate the
-challenges that more digitally savvy users will struggle to voice. This
-is critical to building tools that work for everyone and avoiding
-inequalities through digital services.
+Use the needs of atypical users as a compass to help articulate the challenges that more digitally savvy users will struggle to voice. This is critical to building tools that work for everyone and avoiding inequalities through digital services.
 
 To inform service features, interview users and gather data to develop:
 
@@ -156,15 +88,13 @@ In the live stage:
 
 Put a sustained multidisciplinary team in place that can design, build
 and continuously improve the digital service, led by a skilled product
-manager who is empowered to make decisions. [The Service Design Playbook has a quick guide on various common team roles.](https://www.ontario.ca/page/service-design-playbook#section-6)
+manager who is empowered to make decisions. 
+
+Product managers set the strategy for and define features of a service. They are responsible for the service on an ongoing basis, until it is decommissioned. It’s not the same role as a project manager.
 
 A product is anything created for a defined group of users. In this
 standard, product refers to any online information or transactional
 service used by the people of Ontario.
-
-Product managers set the strategy for and define features of a service.
-They are responsible for the service on an ongoing basis, until it is
-decommissioned. It’s not the same role as a project manager.
 
 ### Why it matters
 
@@ -391,7 +321,7 @@ At a minimum:
 
 Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
 
-The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria. 
+The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria.
 
 ### Why it matters
 
@@ -458,7 +388,7 @@ Agile methods build services that:
 
 At a minimum:
 
-* work in an agile way, using agile tools and techniques, and continue
+* [work in an agile way, using agile tools and techniques](https://www.ontario.ca/page/being-agile-ontario-public-service), and continue
   to do so when the service is live
 * ensure the team reviews and iterates the ways problems are fixed
 * give an example of how the team has responded to user research and
@@ -579,17 +509,11 @@ When the service is live, describe:
 
 ### Laws and rules to follow
 
-* [*Freedom of Information and Protection of Privacy Act*][l1]
-* [*Archives and Recordkeeping Act*​][l2]
-* [*Personal Health Information Protection Act*​][l3]
-* [*Personal Information Protection and Electronic Documents Act*][l4]
-* [*Canada's Anti-Spam Legislation*][l5]
-
-[l1]: https://www.ontario.ca/laws/statute/90f31
-[l2]: https://www.ontario.ca/laws/statute/06a34
-[l3]: https://www.ontario.ca/laws/statute/04p03
-[l4]: https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/
-[l5]: http://fightspam.gc.ca/eic/site/030.nsf/eng/home
+* [*Freedom of Information and Protection of Privacy Act*](https://www.ontario.ca/laws/statute/90f31)
+* [*Archives and Recordkeeping Act*​](https://www.ontario.ca/laws/statute/06a34)
+* [*Personal Health Information Protection Act*​](https://www.ontario.ca/laws/statute/04p03)
+* [*Personal Information Protection and Electronic Documents Act*](https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/)
+* [*Canada's Anti-Spam Legislation*](http://fightspam.gc.ca/eic/site/030.nsf/eng/home)
 
 ## 11. Encourage people to use digital services
 
@@ -610,7 +534,7 @@ Encouraging people to use digital service will:
 
 In the early stages of development:
 
-* set high targets for how many people use the digital service
+* plan to increase how many people use the digital service
 * understand other channels that the service is delivered through
 * describe the data collected on other channels and how usage data is
   collected for each
@@ -644,7 +568,7 @@ digital services on their own.
 Assisted digital support means providing support to those
 who can’t use digital services on their own. This may include options to
 help people navigate an online service, such as offering assistance by
-phone, chat and/or in person.
+phone, chat and in person.
 
 ## Why it matters
 
@@ -667,6 +591,7 @@ In later stages of development, make sure assisted digital support is:
 * sustainable and free to use
 * well understood and documented
 * supported by appropriate recruitment and research methods
+* selected and explained through stories, personas and profiles of people who need it
 
 Conduct research and testing with users who:
 
@@ -677,11 +602,9 @@ Conduct research and testing with users who:
 
 Respond to user research by:
 
-* learning from it and supporting testing to improve assisted digital
-  support
+* learning from it and supporting testing to improve assisted digital support
 * designing an assisted digital support model to meet user needs
-* committing to participating in ongoing user research to discover 
-  digital support needs
+* committing to participating in ongoing user research to discover digital support needs
 
 ### Laws and rules to follow
 
@@ -733,7 +656,8 @@ before it goes live. When the ministers can understand and are experienced with 
 
 ### How to meet this standard
 
-At a minimum: 
+At a minimum:
+
 * share your user research with the minister and demonstrate a prototype of the service
 * show the service to the minister(s) responsible for it
 * if it’s a transactional service, have the minister(s) test the end-to-end
@@ -744,22 +668,46 @@ would have to (during usability testing phase early on in the project)
 
 ## Why it matters
 
-This Digital Service Standard was developed for the Ontario government
-to use as we design online information and transactional services for
-the people of Ontario.
+TThis Digital Service Standard was developed for the Ontario government to use as we design online information and transactional services for the people of Ontario.
 
-We believe that the best digital service is convenient, intuitive and
-easy to use. The purpose of the Digital Service Standard is to help the
-Ontario government deliver consistently good services online.
+We believe that the best digital service is convenient, intuitive and easy to use. The purpose of the Digital Service Standard is to help the Ontario government deliver consistently good services online.
 
 The standard will help us:
-
 * define what good digital service looks like in Ontario
 * identify the steps we need to take to get there
 
-We looked near and far to develop this standard. It’s built on the
-aspirations and experiences of teams across the Ontario Public Service,
-as well as other jurisdictions, especially Gov.UK, USDS and 18F.
+We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the Ontario Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
+
+
+##Contributing to the standard
+
+All new or redesigned information and services will eventually be required to follow the standard,before work begins. First, we want to test the standard, gather user feedback and improve it.
+
+You can share your thoughts and ideas by:
+
+* emailing us at digital.standard@ontario.ca
+* forking our GitHub repository
+
+### By email
+
+* Send plain text formats like text files, Word documents and Google docs
+* Do not send HTML, PDF, printed paper or handwritten notes
+* Tell us what section your suggestions apply to or if they apply to the overall document
+* Include the original text for reference and your proposed changes if you are sending text file or email
+* Use track changes or suggest mode if you are sending Word or Google documents
+* Tell us the reason for your suggestion and the benefit it will have
+
+### On GitHub
+
+*NOTE*: The develop branch is a working draft. The official standard is in the master branch and on Ontario.ca.
+
+* Use markdown to format your changes
+* Don't use HTML unless the changes you want to make are not supported in markdown (for example, headings inside a table)
+* Fork off of our develop branch and when you are done make a pull request back to develop
+* Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
+* Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
+
+(Open Government Licence – Ontario)[https://www.ontario.ca/page/open-government-licence-ontario]
 
 ### Footnotes
 
