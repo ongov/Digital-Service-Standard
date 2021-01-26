@@ -2,7 +2,7 @@
 
 The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
 
-[Guides and resources, case studies, and related rules](https://www.ontario.ca/page/build-ontario-government-services)
+[Read guides and resources, case studies, and related rules](https://www.ontario.ca/page/build-ontario-government-services)
 
 ---
 
