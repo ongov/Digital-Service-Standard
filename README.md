@@ -20,18 +20,16 @@ The standard is built on the aspirations and experiences of teams across the Ont
 * Australia’s Digital Transformation Agency
 * United States Digital Service and 18F
 
-## Release in Phases
+## Release in phases
 
-We’re in the early days of bringing this standard to life. We encourage
-you to adopt as much of the standard as possible, and to share your
-feedback with us.
+Ontario’s service design journey follows design and release phases. Each phase is driven by user needs and prioritizes several points from the standard. Learn more about how to work in design and release phases in the [Service Design Playbook] (https://www.ontario.ca/page/service-design-playbook).
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Developing a minimum viable service |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery </h3>Conducting user research to understand user needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha </h3>Testing our hypotheses with users using prototypes, models, examples or mock-ups |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta </h3>Developing a minimum viable product or service that adds immediate value for users while the team develops and improves features |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve the service or product based on user feedback and data |
 
 ## 1. Understand users and their needs
 
