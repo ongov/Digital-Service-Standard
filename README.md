@@ -98,50 +98,40 @@ In the live stage:
   
 ## 2. Establish the right team
 
-Put a sustained multidisciplinary team in place that can design, build
-and continuously improve the digital service, led by a skilled product
-manager who is empowered to make decisions. 
+Put in place a sustainable multidisciplinary team who can design, build and continuously improve the digital service or product led by a skilled product manager who is empowered to make decisions.
 
-Product managers set the strategy for and define features of a service. They are responsible for the service on an ongoing basis, until it is decommissioned. It’s not the same role as a project manager.
+**Product managers** set the strategy for and define features of a digital product. They are responsible on an ongoing basis and until a service or product is decommissioned.
 
-A product is anything created for a defined group of users. In this
-standard, product refers to any online information or transactional
-service used by the people of Ontario.
+**It’s not the same role as a project manager** who is focused on the delivery of a temporary, less iterative process and project.
+
+A digital service or product is anything created for a defined group of users. In this standard, product refers to any online information or transactional part of a service used by people in Ontario.
 
 ### Why it matters
 
-It’s important to have a strong multidisciplinary team in place, led by
-one person who is accountable and has the authority to make decisions
-based on the outcomes of research, testing and prototypes<sup id="a1">[1](#f1)</sup>.
+It’s important to have a strong multidisciplinary team in place led by one person who is accountable and has the authority to make decisions based on the outcomes of research and testing.
 
-The team’s skills and focus need to evolve as the service is designed
-and developed. The team also needs to adapt its structure based on the
-needs of the service and the phase of work.
+The team’s skills and focus need to evolve as the service or product is designed and developed. The team also needs to adapt its structure based on service or product needs and the phases of work.
 
 To be successful, build a team with:
 
 * a broad mix of skills and roles from the start
-* quick decision-making processes and the ability to change and adapt as
-  the service evolves
-* the resources and ability to deliver the product
+* quick decision-making processes and the ability to change and adapt
+* the ability to deliver and the resources needed, including senior or executive support
 
 ### How to meet this standard
 
 At a minimum:
 
-* build a multidisciplinary team with expertise in agile digital service
-  delivery<sup id="a2">[2](#f2)</sup>,
-  technical, user experience and policy skills
 * work collaboratively
-* embed expertise from other business areas and ministries (e.g.
-  finance, legal, policy, correspondence) to achieve desired outcomes
-* have a manager with the ability to make day-to-day decisions on behalf of users
-* dedicate one user researcher on the project for at least 3 days each
-  week
 * identify gaps in the team and fill them
 * transfer knowledge and skills to others
-* continue to improve the service after it’s gone live
-* involve the maintenance team for the service early on in the project
+* dedicate one user researcher to the service/product
+* build a team with expertise in agile, lean and digital service delivery, technical, user experience and policy skills
+* embed expertise from other business areas and ministries, for example, finance, legal, policy, correspondence, to achieve desired outcomes
+* have a product manager with the ability to make day-to-day decisions to improve the service
+* continue to improve the service or product after it’s gone live
+* involve the maintenance team for the service or product in the early design phases
+* make sure the team has senior and executive sponsorship to support their decisions, goals and vision for the service or product
 
 ## 3. Be consistent
 
