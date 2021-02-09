@@ -215,41 +215,26 @@ their very first attempt without the need for any assistance.
 
 ### Why it matters
 
-It's important to make sure service is as simple and straightforward as
-possible. All users, even those who have accessibility needs or lack
-digital experience, should be able to complete a service easily.
+It’s important to make sure a service, product or task is as simple and straightforward as possible. All users, even those who have accessibility needs or lack digital experience, should be able to complete each step easily.
 
-If a service is complex or unclear, users will be forced to contact that
-organization for help, use the phone or visit an office to complete
-their task. Or they may avoid using it altogether.
+If a service or product is complex or unclear, users will be forced to contact that organization for help or visit an office in person to complete their task. They may even avoid using the service or product altogether.
 
-Not only does this lead to higher operational costs, but it also can
-lead to user frustration and a loss of confidence in government.
+Not only does this lead to higher operational costs, but it can also lead to user frustration and a loss of confidence or trust in government.
 
 ### How to meet this standard
 
 At a minimum:
 
-* explain the service including who it is for, how it works and how to use it
-* include contact information where users can learn more about the service and get help using it
-* show that the majority of users are succeeding the first time they try
-  to use it
-* explain the frequency you will use research, testing and analytics to make regular improvements to
-  the service
-* demonstrate that all end-to-end user experiences work and test them,
-  including for people who need help accessing digital tools
-* make the service accessible, including for users with lower levels of
-  digital skills
-* do usability testing at least once before and after the service goes live and make improvements accordingly
-* scale your testing to match the importance of the service and volume of users
-* make design and content decisions based on research, testing and
-  analytics
-* make sure people can get through the service from start to finish
-  without assistance
-* test the name of the service and see if it makes sense to users
-* use analytics and user research to reduce the number of people who
-  didn’t complete the task they set out to do online (e.g. renew a
-  driver’s licence)
+* explain the service or product and include who it is for, why it exists and how to use it
+* include contact information so users can get help if they need it
+* make sure most users will succeed the first time they try to use it
+* demonstrate how often you will use research, testing and analytics to improve to the service or product regularly or continuously
+* demonstrate that the end-to-end user experience on all channels work and test each of them, including for people who need support accessing digital tools
+* do usability testing at least once before and after the service or product goes live and make improvements accordingly
+* scale your testing to match the importance of the service or product and the volume of users
+* make design and content decisions based on research, testing, analytics and user needs
+* make sure people can find the service or product, including by testing its name to know if it makes sense to users
+* use analytics and user research to reduce the number of people who didn’t complete the task they set out to do online, for example, to renew their driver’s licence or licence plate sticker
 
 ## 6. Test the end-to-end service
 
