@@ -476,12 +476,11 @@ At a minimum:
 
 ## 12. Measure performance
 
-Continuously capture and monitor performance data to inform ongoing
-service improvements.
+Understand the metrics you will need to capture. Monitor performance data continuously to inform ongoing service or product improvements.
 
 ### Why it matters
 
-Measuring performance means continuously improving a service by:
+Measuring performance helps a team continuously improve a service by:
 
 * learning its strengths and weaknesses
 * using data to support changes
@@ -490,21 +489,18 @@ Measuring performance means continuously improving a service by:
 
 At a minimum:
 
+* understand how each channel meets different users’ needs
+* describe the data collected on other channels and how usage data is collected for each
 * use web analytics to capture information about user behaviour online
 * determine data needs, sources and collection
-* monitor and evaluate user feedback and complaints from the digital
-  service and other service touch-points such as phone and in person
-* analyze performance and identify actionable data insights as early as
-  possible
-* use qualitative and quantitative data to understand user needs and
-  identify areas for change
-* define performance metrics for the service up-front, early on in the
-  design process
-* regularly review the technology used to provide the service and the processes that support the service
-* base your service review frequency on the volume of users (e.g. 10,000 or less unique users per year = 2 year review cycle; 10,000-100,000 = annual; 100,000-1 million = every 6 months)
-* use data to determine the cost per use for each channel, accounting for the cost to build and ongoing maintenance as well
-* demonstrate how service performance compares to other similar
-  government and private sector services
+* monitor and evaluate user feedback and complaints, including from other service touch-points such as in person or by phone, surveys or social media
+* analyze performance and identify actionable data insights as early as possible
+* use qualitative and quantitative data to understand user needs and identify areas for change
+* define performance metrics for the service or product early in the design process
+* regularly review the technology used and the processes that support the service or product
+* base your service or product review frequency on the volume of users
+* use data to determine the cost per use for each channel and account for the cost to build and sustain ongoing maintenance and supports
+* demonstrate how the service or product performance compares to other similar government and private sector ones
 * share your review findings with leadership
 
 ## 13. Be a good data steward
