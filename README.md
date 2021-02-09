@@ -238,48 +238,29 @@ At a minimum:
 
 ## 6. Test the end-to-end service
 
-Continuously test the end-to-end service to ensure that it remains
-available to users and free of errors.
+Continuously test the end-to-end service to make sure that it remains available to users and free of errors.
 
-Be sure to test with the browsers and devices that people will use to
-access the service, including assistive devices. An assistive device is
-a piece of equipment a person with a disability uses to help them with
-daily living (e.g., a screen reader or hearing aid).
+Be sure to test with the browsers and devices people will use to access the service, including assistive devices. An assistive device is a piece of equipment a person with a disability may use to help them with daily living, for example a screen reader or a hearing aid.
 
 ### Why it matters
 
-Don’t wait until users discover an error in the online service. Monitor
-the service and avoid any downtime in the service. Users expect modern
-digital services to be online 24/7.
-
-This means more satisfied users that have trust in government services.
+Users expect digital services to be simpler, faster and always available. Don’t wait until users discover an error. Monitor the online service and make sure it doesn’t go down at the times when users may be using it. More satisfied users will maintain their trust and confidence in government services.
 
 ### How to meet this standard
 
 At a minimum:
 
-* design and test the service to work with users’ browsers and devices,
-  including assistive devices
-* test the service in an environment that is as similar to the live
-  environment as possible
-* focus on business requirements and user goals (e.g. when redesigning a
-  program like OSAP, test the steps students are taking when completing
-  an OSAP application)
-* provide developers with tools and supports to test the service during
-  the build and after launch
-* design a service that can accommodate the expected number of users and
-  can support more users if the demand increases
-* separate content, design and functionality so updates can be made
-  independently of each other
-* have a process for testing changes made to the service
-* have a process for monitoring and testing the service frequently even
-  when changes are not being made
-* have a plan for handling failures (bugs, outages) and notifying users
-* follow recommended best practices for coding in your chosen technology
-  and tools
-* document how the service was built and how to maintain it and keep the
-  documentation up-to-date
-* have a plan for data storage and recovery in case of data loss
+* design and test the service or product to work with users’ browsers and devices, including assistive devices
+* use a testing environment and context as close as possible to those that users will experience
+* provide developers with tools and supports to test the service or product during the build and after its launch
+* design a service or product that can accommodate an expected number of users and can scale and support more users if demand increases
+* separate content, design and functionality so updates can be made independently
+* follow the recommended best practices for coding in your chosen technology and tools
+* document how the service or product was built and how it will be maintained, including how this documentation will be kept up-to-date
+* have a process for:
+   * testing updates or changes made to the service or product regularly
+   * monitoring the service or product even when changes are not being made
+   * handling failures, for example bugs and outages, and one for notifying users
 
 ## 7. Make it accessible
 
