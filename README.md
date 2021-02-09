@@ -6,7 +6,21 @@ The Digital Service Standard sets out 13 points to help Ontario ministries and a
 
 ---
 
-## Release Stages
+## Why it matters
+
+The standard helps:
+
+* define what good digital practice looks like in Ontario
+* identify the steps teams need to take to get there
+
+The standard is built on the aspirations and experiences of teams across the Ontario Public Service and other jurisdictions, for example:
+
+* Canadian Digital Service and other provinces and territories
+* UK’s Government Digital Service
+* Australia’s Digital Transformation Agency
+* United States Digital Service and 18F
+
+## Release in Phases
 
 We’re in the early days of bringing this standard to life. We encourage
 you to adopt as much of the standard as possible, and to share your
