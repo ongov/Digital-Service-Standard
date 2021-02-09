@@ -173,49 +173,39 @@ At a minimum:
 
 ## 4. Design the service from start to finish
 
-Understand what users are trying to achieve and the steps required to
-complete that task. Every encounter should move the user closer towards
-their goal. Where possible, each step of the journey should be completed
-online.
+Understand what users are trying to do and design the simplest, fastest way for them to complete their task and achieve their goal. Where possible, each step of the journey should be completed online.
 
 ### Why it matters
 
-It's important to understand what users are trying to do when they
-access a service and how that service fits within the broader context of
-their life.
+It’s important to understand what users are trying to do when they access a service and how that service fits within the broader context of their life.
 
-The service experience is much more than what people interact with on
-screen. It begins when they first hear about the service and it doesn't
-end until they've received the final product or confirmation.
+The service design experience is much more than what people interact with on screen. It begins when they first hear about a service or product and it doesn't end until they achieve their goal or complete their task.
 
-Understand the complete end-to-end journey that users take to complete
-their objective, including the actions they take online, on a phone, or
-in person. Every encounter — whether it's online or offline — needs to
-be carefully considered and should help the user get closer to their end
-goal.
+Understand, streamline and refine the complete end-to-end journey users take to complete their objective, including the actions they take in every channel, for example:
+
+* online
+* by phone
+* by mail
+* in person
+
+Every encounter — whether it’s online or offline — needs to be carefully considered to help the user get closer to their end goal.
 
 ### How to meet this standard
 
 At a minimum:
 
-* examine other channels to understand the steps users take to complete their goal and how your
-  service fits
-* show a journey map of all the touch points in a user's experience of the service, from awareness of the service to completion and receipt of product (if applicable)
-* demonstrate that there is a plan for error recovery at all steps in the service (i.e. if they get stuck during a digital service, what's the plan for a user when they phone for help?)
-* ensure prototypes incorporate the end-to-end user experience
-* show the results of research and usability testing and how these will
-  be used to improve the design of the service
-* have a user research plan that spans every stage of service design up
-  to launch of the live service, and includes next stages of service
-  development
-* explain the frequency of research and testing, and how results will be
-  applied
-* do user research from the start with people who have accessibility
-  needs
-* use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design
+* ensure prototypes (models or mock-ups) incorporate the end-to-end user experience
+* examine all channels to understand the steps users take to complete their goal and where your service fits into their journey
+* show a journey map of all the touch points in a user’s experience from awareness of the service or product to completion of their goal
+* have a user research plan that spans every stage of service design up to the 8 launch of a live service or product, including next phases for improvements
+* apply lean service design skills to reduce the number of steps a user must take in their end-to-end journey before you begin prototyping
+* have a plan for error recovery at each step, for example, if a user gets stuck, how will they ask for and get help?
+* demonstrate the results of user research, for example problems found through usability testing, and explain how this informs solutions and improvements to design
+* explain the frequency of research and testing, and how results will be applied
+do user research from the start with people who have accessibility needs
+* use the inclusive design cards to help you sketch, plan, prototype and design
 * test with users who need help to access digital tools
-* use analytics data in the user research plan
-* show any problems found through testing and proposed solutions
+* use analytics data in user research and service or product improvements planning
 
 ## 5. Ensure users succeed the first time
 
