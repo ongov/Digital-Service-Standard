@@ -1,8 +1,8 @@
-# Digital Service Standard
+# Digital Service Standard, 2021
 
-The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
+The Digital Service Standard sets out 13 points to help Ontario ministries and agencies build and deliver simpler, faster, better government services and products for the people who live and do business in Ontario.
 
-[Read guides and resources, case studies, and related rules](https://www.ontario.ca/page/build-ontario-government-services)
+[Read case studies, resources and related rules](https://www.ontario.ca/page/build-ontario-government-services)
 
 ---
 
