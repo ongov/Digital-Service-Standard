@@ -298,105 +298,86 @@ At a minimum:
     * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
-* [Ontario’s Inclusive Design Toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
-* [Ontario’s Anti-Racism Act](https://www.ontario.ca/laws/statute/17a15)
-* [Ontario’s Simpler, Faster, Better Services Act](https://www.ontario.ca/laws/statute/19s07)
+* [*Ontario’s Inclusive Design Toolkit*](https://www.ontario.ca/page/inclusive-design-toolkit)
+* [*Ontario’s Anti-Racism Act*](https://www.ontario.ca/laws/statute/17a15)
+* [*Ontario’s Simpler, Faster, Better Services Act*](https://www.ontario.ca/laws/statute/19s07)
 
 ## 8. Be agile and user-centred
 
-Design and build the service using an agile and user-centred approach.
-Agile is an approach to building services that breaks the work into
-smaller chunks known as iterations. Build one feature of the service at
-a time until the entire service is complete.
+Design and build the service or product using an agile and user-centred approach. Agile is an approach to building services that breaks the work into smaller chunks known as iterations. Build and test one feature of the service or product at a time and work towards continuous improvement.
 
-It is a much lower risk approach than traditional build-it-all-at-once
-approach (known as waterfall) because frequent iterations expose any flaws
-in the original plan much faster (e.g. not getting approvals, not enough
-resources, not the right people on the team, etc.)
+Working in agile is a much lower-risk approach than build-and-approve-it-all-at-once, also known as waterfall. Frequent and incremental iterations expose any flaws in the original plan faster, for example that:
 
-User-centred methods such as user research and usability testing put the
-focus on making services that are easy-to-use. Traditional government
-services focus on meeting business needs and aligning with policy goals.
-A user-centred approach ensures business needs are also balanced against
-user needs. This helps to increase digital service uptake.
+* approvals delayed action
+* resources didn’t meet the needs of the service or product
+* the team experienced barriers that prevented them from addressing user needs
+
+User research methods such as usability testing put the focus on making services and products that are easy to use. A user-centred approach makes sure that user needs and business needs are considered together. This helps to increase digital service or product uptake and success.
 
 ### Why it matters
 
 Agile methods build services that:
 
-* can be prototyped quickly (and shown to users for regular feedback)
-* meet the needs of users
-* can change easily if, for example, government policy or technology
-  changes
-* can keep improving based on user feedback
-* can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
+* meet user needs
+* can be prototyped quickly and tested with users regularly for feedback
+* can change easily if, for example, government policy or technology changes
+* can keep improving based on user feedback and scale if or when demand increases
+* can be built quickly with a minimum set of features and enhanced with more features after the service or product goes live
 
 ### How to meet this standard
 
 At a minimum:
 
 * [work in an agile way, using agile tools and techniques](https://www.ontario.ca/page/being-agile-ontario-public-service), and continue
-  to do so when the service is live
-* ensure the team reviews and iterates the ways problems are fixed
-* give an example of how the team has responded to user research and
-  usability testing
-* show that your service governance is agile, based on clear and
-  measurable goals
-* explore design options for your prototype and explain why some are
-  discarded
-* show how the design of the service has changed over time because of
-  user research findings
-* identify any problems found in research and solutions to improve the
-  service
-* have a quality assurance testing and rollback plan that supports frequent iterations to the service
-* use a phased approach to test changes to part of service, when feature-based changes are not feasible
+  to do so when the service or product is live
+* make sure the team reviews and iterates on the way problems are fixed
+* be able to give an example of how the team has responded to user research findings
+* demonstrate that the service or product is agile and based on clear and measurable goals
+* explore design options for your prototype and explain why some are discarded
+* demonstrate how the design of the service or product has changed over time because of user research findings or in response to user needs
+* identify any problems found in research and solutions to improve the service or product
+* have a quality assurance testing and rollback plan that supports frequent iterations
+*use a phased approach to test changes to parts of the service or product when feature-based changes are not feasible
 
 ## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms where available. 
+Use open standards, open source software and common government platforms where available.
 
-Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
+Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. The community aims for data operability between various products and services. These practices also consider security, reliability and removing blockers to data sharing within an organization.
 
-Open source software is published publicly, freely available for use by anyone, and are developed and maintained using a collaborative approach between users, organizations, and large companies. There are many well-established open source tools and products that are considered industry standards.
+Open source software is published publicly and is freely available for anyone to use. It is developed and maintained using a collaborative approach between users, organizations and large companies.
+
+There are many well-established open source tools and products that are considered industry standard.
 
 ### Why it matters
 
-Using open standards and common government platforms will help the
-government:
+Using open standards and common government platforms will help the government:
 
 * save time and money by reusing things that are already available
 * move between different technologies when needed
-* quickly and easily change a service when needed
-* give people a more consistent experience of using government services
-  online
-* access a wider range of both open source and proprietary software
-  vendors
-* eliminate potentially restrictive long-term contracts
+* quickly and easily change a service or product when needed
+* give people a more consistent experience using government services or products online
+* access a wider range of both open source and proprietary software vendors
+* eliminate restrictive long-term contracts
 
 ### How to meet this standard
 
 At a minimum:
 
-* use open standards and common platforms
-* favour open tools that are accessible and have a strong developer community supporting them
-* identify common platforms to use
-* understand common user needs with other services and meet those needs
-  consistently with the rest of government
-* show what the service provides to users and in what format (for
-  example, a driver’s licence)
-* explain what data is used and/or collected and when it will be
-  published as part of the Open Data Directive
-* use common government platforms (e.g. Ontario.ca, Ontario Newsroom)
-* integrate with any legacy systems
+* identify and use open standards and common platforms
+* favour open tools that are accessible and have strong developer community support
+* understand common user needs with other services and meet those needs consistently with the rest of government
+* demonstrate what the service or product provides to users and in what format or formats
+* use common government platforms, for example Ontario.ca for web content
+* use APIs and integrate them with any legacy systems where possible or necessary
 
 ### Laws and rules to follow
 
-* [Ontario’s Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Standard platforms
-  * Web publishing - [Ontario.ca](http://www.ontario.ca/)
-  * News - [Ontario Newsroom](https://www.ontario.ca/news)
-  * Open data -
-    [Data catalogue](https://www.ontario.ca/search/data-catalogue)
+* [Ontario’s Digital and Data Directive](https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021)
+* Open standards and common platforms, for example
+  * Web publishing on Ontario.ca (internal)
+  * News in the Ontario Newsroom (internal)
+  * [Ontario's Data Catalogue](https://www.ontario.ca/search/data-catalogue)
 
 ## 10. Embed privacy and security by design
 
