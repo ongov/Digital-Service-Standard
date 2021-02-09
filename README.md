@@ -432,52 +432,7 @@ When the service is live, describe:
 * [*Personal Information Protection and Electronic Documents Act*](https://www.pwriv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/)
 * [*Canada's Anti-Spam Legislation*](http://fightspam.gc.ca/eic/site/030.nsf/eng/home)
 
-## 11. Encourage people to use digital services
-
-Encourage people to choose the digital service through every interaction
-they have with government.
-
-### Why it matters
-
-Encouraging people to use digital service will:
-
-* save money by reducing the number of people using non-digital
-  channels, such as call centres
-* help users to develop their digital skills
-* allow non-digital resources to give more attention to those who can’t use digital services on their
-  own
-
-### How to meet this standard
-
-In the early stages of development:
-
-* plan to increase how many people use the digital service
-* understand other channels that the service is delivered through
-* describe the data collected on other channels and how usage data is
-  collected for each
-* identify organizations and groups that help users with existing
-  digital or non-digital services
-* gather insights from research with users, including demographics,
-  attitudes, behaviours and channel preferences, and user journey
-  maps<sup id="a3">[3](#f3)</sup>
-* understand how each channel meets different users’ needs
-* design the digital service in a way that gives it clear advantages
-  over other channels
-
-In the later stage:
-
-* plan to increase how many people use the digital service and show the
-  evidence
-* improve communications with users based on user insights
-* discuss analytics data about how communication is performing
-
-When the service is live:
-
-* plan to move and increase users to the digital service and include
-  yearly targets for 5 years
-* measure the expected impact on other service points, such as phone and in person, and how that could impact funding and resource allocation
-
-## 12. Support those who need it
+## 11. Support those who need it
 
 Put tools in place across all channels to support people who cannot use
 digital services on their own.
@@ -527,7 +482,7 @@ Respond to user research by:
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
-## 13. Measure performance
+## 12. Measure performance
 
 Continuously capture and monitor performance data to inform ongoing
 service improvements.
@@ -560,41 +515,36 @@ At a minimum:
   government and private sector services
 * share your review findings with leadership
 
-## 14. Test with the minister
+## 13. Be a good data steward
 
-Test or demo the service from beginning to end with the responsible
-minister before the service goes live.
+Follow the [rules and best practices](https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021) when you organize and manage data, including making data open by default.
 
 ### Why it matters
 
-Ministers are responsible for delivering on the government’s priorities
-for the people of Ontario, so you need to show them the digital service
-before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
+In Ontario data is open by default. Delivery teams must be fully transparent about their data assets and the ways they are acquired and used. We also recognize that people own their personal data and have a stake in how it is used.
+
+This is important because it allows data to be available to everyone equally, creating opportunities for the development of better government services, including across government.
 
 ### How to meet this standard
 
 At a minimum:
 
-* share your user research with the minister and demonstrate a prototype of the service
-* show the service to the minister(s) responsible for it
-* if it’s a transactional service, have the minister(s) test the end-to-end
-service to ensure that they can get through it the way a constituent
-would have to (during usability testing phase early on in the project)
+* collect data once and reuse it where possible
+* make sure data is used in ways that respect privacy, security and cultural awareness
+* understand and follow the [Ontario Digital and Data Directive](https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021) and how it applies to the digital service or product your team is developing
+* use clear and plain language to tell users what data is being collected and used and let them know if or when it will be published
+* engage users and make sure they understand how and why data is collected and shared
+* make sure the data collected is stored properly, using proper record keeping principles and make sure your team has a plan for data recovery in case of data loss
+* strive to improve the quality of the data as a public asset in accordance with its value and user needs
+* find ways to collect and share data across ministries or areas of government to reduce the burden for users and improve their overall experience
+
+### Laws and rules to follow
+
+* [Ontario Digital and Data Directive](https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021)
+* [Ontario’s Data Catalogue](https://data.ontario.ca/)
+* Information, Privacy and Archives Directive (internal)
 
 ---
-
-## Why it matters
-
-TThis Digital Service Standard was developed for the Ontario government to use as we design online information and transactional services for the people of Ontario.
-
-We believe that the best digital service is convenient, intuitive and easy to use. The purpose of the Digital Service Standard is to help the Ontario government deliver consistently good services online.
-
-The standard will help us:
-* define what good digital service looks like in Ontario
-* identify the steps we need to take to get there
-
-We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the Ontario Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
-
 
 ## Contributing to the standard
 
