@@ -381,59 +381,48 @@ At a minimum:
 
 ## 10. Embed privacy and security by design
 
-Identify the data the service will use, store or create. Put appropriate
-legal, privacy and security measures in place so that users feel
-confident that their personal information will be kept secure and their
-privacy will be respected.
+Identify the data the service or product will use, store or create. Put appropriate legal, privacy and security measures in place so that users feel confident that their personal information will be kept secure and their privacy will be respected.
 
 ### Why it matters
 
-Users won’t use a service unless they have a guarantee:
+Users expect government services to:
 
-* it’s secure
-* it's confidential
-* they can access their information in the service when they need to
-* that their privacy is protected while they use the service, and afterwards
+* be secure
+* be confidential
+* allow users to access their information in the service when they need to
+* make sure the privacy and security of users protected while they use a service or product and afterwards
 
 ### How to meet this standard
 
 In the early stages of development, explain:
 
-* what data is being collected (name, address, postal code, etc.)
+* what data is being collected, for example name, address and postal code
 * how the data is being transmitted
 * where and how the data is being stored
 * how the data will be used
-* security threats, including potential pathways for hackers, and tested
-  ways of reducing them
-* how you plan to keep up-to-date about threats and how to deal with
-  them
-* any threats of fraud that exist and the controls being prototyped
+* security threats, including potential pathways for hackers, and tested ways of reducing them
+* how you plan to keep up-to-date on threats and how to deal with them
+any threats of fraud that exist and the controls being prototyped
 
 Also describe your:
 
 * approach to security and risk management
 * security and privacy threats
-* interactions with business and information risk teams (for example
-  Corporate Security and Information, Privacy and Archives)
-* privacy and security regulations and how those will be met without
-  putting delivery at risk
-* any outstanding legal concerns, such as data protection or data
-  sharing
-* privacy policy and rationale
-* process for security updates for servers/software
+* interactions with business and information risk teams, for example security and privacy reviews or Information, Privacy and Archives
+* privacy and security regulations and how those will be met without putting delivery at risk
+* any outstanding legal concerns, such as data protection or data sharing
+* privacy policy and terms of use and rationale
+* process for security updates for servers and software
 * plan and process for applying security updates
-* plan for checking suspicious activity
+* plan to monitor and address suspicious activity
 
 When the service is live, describe:
 
 * the approach to security and risk management
-* ongoing interactions with the business and information risk teams (for
-  example, Corporate Security and Information, Privacy and Archives)
-* any outstanding legal concerns, such as data protection or data
-  sharing
-* the process for understanding new or ongoing threats and how those
-  changed during beta
-* how the privacy policy will stay up-to-date
+* ongoing interactions with the business and information risk teams for example, Corporate Security and Information, Privacy and Archives
+* any outstanding legal concerns, such as data protection or data sharing
+* the process for understanding new or ongoing threats and how those changed during beta
+* how the privacy policy and terms of use will stay up-to-date
 
 ### Laws and rules to follow
 
