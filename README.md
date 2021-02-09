@@ -434,53 +434,45 @@ When the service is live, describe:
 
 ## 11. Support those who need it
 
-Put tools in place across all channels to support people who cannot use
-digital services on their own.
+Put tools in place across all channels to support people who cannot use digital services or products on their own.
 
-Assisted digital support means providing support to those
-who can’t use digital services on their own. This may include options to
-help people navigate an online service, such as offering assistance by
-phone, chat and in person.
+Assisted digital support means providing support to those who can’t use digital services or products on their own. This may include options to help people navigate an online experience, such as offering support for those who need it through another channel, for example by phone or in person..
 
 ## Why it matters
 
-Not everyone will have the same access, comfort and skill level to use
-digital services. Understand how and where users require
-support, make that support available, and raise awareness of that
-support.
+Not everyone will have the same access, comfort and skill level to use digital services or products. Understand how and where users require support and make that support available and easy to find.
 
 ### How to meet this standard
 
 Do user research as early as possible to:
 
-* understand users’ digital skill, confidence and access
-* find out why some users can’t use the digital service independently,
-  for example language or internet barriers
-* find out user needs for support
+* understand users’ digital skill, confidence and access levels
+* find out why some users can’t use the digital service or product independently, for example due to language, literacy, or access to internet barriers
+* find out more about specific user needs for support
 
-In later stages of development, make sure assisted digital support is:
+At a minimum:
 
-* sustainable and free to use
-* well understood and documented
-* supported by appropriate recruitment and research methods
-* selected and explained through stories, personas and profiles of people who need it
-
-Conduct research and testing with users who:
-
-* already use the service or would use it
-* have the lowest level of digital skills, confidence and access
-* currently seek assisted digital support from others (for example, friends and
-  family, colleagues, companies or charities)
-
-Respond to user research by:
-
-* learning from it and supporting testing to improve assisted digital support
-* designing an assisted digital support model to meet user needs
-* committing to participating in ongoing user research to discover digital support needs
+* make it easy to get assistance either by phone or alternate technology
+* make sure assisted digital support is:
+   * sustainable and free to use
+   * well understood and documented
+   * supported by appropriate recruitment and research methods
+   * selected and explained through user needs and personas of the people who need it
+* conduct research and testing with users who:
+   * already use or would use the service or product
+   * have the lowest level of digital skills, confidence and access
+   * currently seek assisted digital support from others, for example, friends and family, colleagues, companies or charities
+* respond to user research by:
+   * learning from it and supporting continued testing to improve assisted digital support
+   * designing an assisted digital support model to meet user needs
+   * committing to participate in ongoing user research to discover digital support needs
 
 ### Laws and rules to follow
 
-* [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
+* [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
+  * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
+    * [Customer Service Standards](https://www.ontario.ca/laws/regulation/110191#BK148)
+    * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
 
 ## 12. Measure performance
 
