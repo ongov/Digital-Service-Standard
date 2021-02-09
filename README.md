@@ -691,14 +691,12 @@ The standard will help us:
 We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the Ontario Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
 
 
-##Contributing to the standard
+## Contributing to the standard
 
-All new or redesigned information and services will eventually be required to follow the standard,before work begins. First, we want to test the standard, gather user feedback and improve it.
+We test the Digital Service Standard to gather user feedback and improve it.
 
-You can share your thoughts and ideas by:
+Share your feedback, thoughts and ideas or volunteer for future testing by email at digital.standard@ontario.ca or by forking our GitHub repository
 
-* emailing us at digital.standard@ontario.ca
-* forking our GitHub repository
 
 ### By email
 
@@ -720,13 +718,3 @@ You can share your thoughts and ideas by:
 * Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
 
 (Open Government Licence – Ontario)[https://www.ontario.ca/page/open-government-licence-ontario]
-
-### Footnotes
-
-* <a id="f1">1</a> Early versions of a service built for testing [↩](#a1)
-* <a id="f2">2</a> [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
-   started out as an alternative approach to software development, but
-   is now applied more widely to running other types of projects and
-   products. The principles behind agile are set out in the
-   [Agile Manifesto](http://www.agilemanifesto.org/) [↩](#a2)
-* <a id="f3">3</a> Process maps written from the perspective of your users [↩](#a3)
