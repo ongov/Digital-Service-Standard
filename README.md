@@ -135,54 +135,41 @@ At a minimum:
 
 ## 3. Be consistent
 
-When the public interacts with the Ontario government, their experience
-should feel cohesive, positive and consistent.
+When the public interacts with the Ontario government, their experience should feel cohesive, positive and consistent.
 
 ### Why it matters
 
-Users should know when they are on an official government website.
+Using standard platforms and design is a cost-effective and consistent way of providing public services and makes the most of public resources. Additionally, users need to know and trust when they are:
 
-Using standard platforms and designs is a cost-effective way of
-providing public services and makes the most of public resources.
+* on an official government website
+* using an official government service or product
 
-Services delivered online, over the phone or in person should provide a 
-consistent experience for the public. From branding to tone of voice and 
-error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
+From branding to tone of voice and error handling, users should feel confident in their ability to complete their tasks properly and in our ability to guide them to the completion of those tasks.
+
+Use [Ontario’s Design System](https://designsystem.ontario.ca/). It establishes styles and components that follow usability and accessibility best practices and are aligned with Ontario’s visual identity standards.
 
 ### How to meet this standard
 
-Ontario.ca is the government's flagship website. At a minimum:
+At a minimum:
 
-* add new content to Ontario.ca, rather than create any new websites or
-  mobile applications
-* use an Ontario.ca/keyword for websites and marketing, rather than
-  register any new public-facing domain names (e.g.
-  Ontario.ca/digitalservice instead of digitalservice.on.ca)
-* migrate high-demand, priority web content to Ontario.ca
-* use Ontario.ca as the front door for all transactional applications on
-  other platforms (such as OSAP)
-* demonstrate how the service has used the Ontario.ca design standards
-* apply [Ontario.ca content standards](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the tone and voice of
-  government content
-* show core content on Ontario.ca that’s easy to find, understand and
-  use
-* work with the Ontario Digital Service team
-* demonstrate that the service is responsive, with the same content and
-  functionality on all devices, and works on mobile devices
+* put web content on the government’s flagship website Ontario.ca rather than create any new websites or mobile applications
+* use an Ontario.ca/keyword, for example Ontario.ca/ontario-digital-service, for websites and marketing, rather than register new public-facing domain names
+* use Ontario.ca as the front door for all applications on other platforms, for example [how the Ontario Student Assistance Program uses Ontario.ca](https://www.ontario.ca/page/osap-ontario-student-assistance-program)
+* apply [Ontario.ca content standards](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the consistent tone, voice and style of government content that’s easy to find, understand and use
+* use the [Ontario’s Design System](https://designsystem.ontario.ca/) to develop your digital service or product
+* demonstrate that the service or product is responsive and has the same content and functionality on all devices, including mobile phones
 * register the domain name through
   [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca),
   if needed
 
 ### Laws and rules to follow
 
-* Accessibility -
-  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
-* French language -
-  [*French Language Services Act*](https://www.ontario.ca/laws/statute/90f32),
-  [Government services in French](https://www.ontario.ca/page/government-services-french)
-* Open data -
-  [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
+* [Accessibility for Ontarians with Disabilities Act](https://www.ontario.ca/laws/regulation/r11191#BK9)
+   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
+      * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
+* [French Language Services Act](https://www.ontario.ca/laws/statute/90f32), and the [Government services in French](https://www.ontario.ca/page/government-services-french)
+* [Ontario Digital and Data Directive](https://www.ontario.ca/page/ontarios-digital-and-data-directive-2021)
+* [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
 ## 4. Design the service from start to finish
 
