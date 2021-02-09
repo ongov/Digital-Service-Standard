@@ -264,32 +264,31 @@ At a minimum:
 
 ## 7. Make it accessible
 
-Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
+Accessible and inclusive digital design is good for everyone. Make sure the service or product is accessible to all users regardless of their abilities, device, environment or quality of access.
 
 The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria.
 
 ### Why it matters
 
-All users should be able to complete the service the first time they
-try, as quickly and easily as possible.
+All users, including users with disabilities or people who need help accessing digital tools, should be able to complete their task quickly and easily the first time.
 
-This includes users with disabilities or those who need help accessing
-digital tools.
+It is also important to look at how factors such as race, gender, cognitive or physical abilities or socio-economic circumstances impact a user’s experience. Use an anti-discriminatory approach and inclusive design best practices to help ensure that users can access the service or product.
 
-If users find it difficult to complete the task the first time, they may
-avoid using the service or contact your organization to get help.
+When users find it difficult to complete their task the first time, they struggle unnecessarily and may contact the organization for help, impacting the success and satisfaction rates and increasing costs needed to support users trying to access the service or product.
 
 ### How to meet this standard
 
 At a minimum:
 
-* have a plan to ensure that the service meets the WCAG success criteria at launch and on an ongoing basis
-* integrate automated testing tools into the process of developing and maintaining the service
-* ensure that the service is usable by people with disabilities by testing it manually, with an automated checker, using a screen reader and by zooming in to 400% or using a screen magnifier
-* make it easy for people with disabilities to get alternate formats if they need them and contact the service team to share any problems they encounter using the service
-* include people with different abilities using different devices in your user research and testing
-* demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
-* ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
+* have a plan to ensure the service or product meets the WCAG success criteria
+* make the service or product accessible, including for users with lower levels of digital skills and limited internet access or connectivity
+* integrate automated testing tools into the processes for development and maintenance
+* make sure the service or product is usable by people with disabilities by testing it with them, including by testing it manually, with an automated checker, a screen reader and by zooming in to 400% or using a screen magnifier
+* make it easy for people with disabilities to get alternate formats if they need them, or to contact the service or product team with any problem they encounter in their journey
+* include people with different abilities, including people with different and diverse needs, experiences and backgrounds, using different devices in your user research and testing
+* demonstrate how your team will be equipped with a knowledge of barriers to accessibility and be trained to assist users with disabilities in completing tasks and accessing information
+* make sure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
+* use plain language so services are easier for people to read, understand and use, for example avoid or define legal or technical language and don’t use acronyms
 
 ### Laws and rules to follow
 
@@ -299,6 +298,9 @@ At a minimum:
     * [Information and Communications Standards](https://www.ontario.ca/laws/regulation/110191#BK8)
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
+* [Ontario’s Inclusive Design Toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
+* [Ontario’s Anti-Racism Act](https://www.ontario.ca/laws/statute/17a15)
+* [Ontario’s Simpler, Faster, Better Services Act](https://www.ontario.ca/laws/statute/19s07)
 
 ## 8. Be agile and user-centred
 
