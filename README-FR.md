@@ -1,79 +1,83 @@
-# Normes des services numériques
+# Normes des services numériques, 2021
 
-Les normes en matière de services numériques comportent 14 points qui aideront tout le monde à développer et offrir d’excellents services gouvernementaux.
+Les normes des services numériques contiennent 13 points et visent à aider les ministères et organismes de l’Ontario à mettre en place et à fournir des services et produits gouvernementaux plus simples, plus rapides et de meilleure qualité aux personnes qui vivent et font des affaires en Ontario.
 
-[Guides et ressources, études de cas, et règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario)
+[Accédez à des guides, des études de cas, des ressources et des règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario) qui vous aideront à créer votre service ou produit.
 
 ---
 
-## Phases de déploiement
-Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter cette norme autant que possible et à nous faire part de vos retours.
+## Déploiement échelonné
+Le parcours de l’Ontario en matière de conception de services consiste en des phases de conception et de déploiement. Chaque phase est dictée par les besoins des utilisateurs et donne la priorité à plusieurs éléments des normes. Pour en savoir plus sur la façon de travailler dans les phases de conception et de déploiement, consultez le [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services).
 
 | Besoins des utilisateurs |            |
 | ---------- | ---------- |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet 2017)</h3>Mener des recherches sur les utilisateurs pour bien comprendre leurs besoins |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet 2017-février 2018)</h3>Vérifier nos hypothèses auprès des utilisateurs |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (à partir de mars 2018)</h3>Créer un service viable minimum |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne</h3>Continuer à améliorer selon les rétroactions des utilisateurs |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte</h3>Mener des recherches sur les utilisateurs pour bien comprendre leurs besoins |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha</h3>Vérifier nos hypothèses auprès des utilisateurs à l’aide de prototypes, de modèles, d’exemples ou de maquettes |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta</h3>Créer un produit ou un service viable minimum qui apporte une valeur ajoutée immédiate aux utilisateurs pendant que l’équipe développe et améliore les fonctionnalités. |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne</h3>Continuer à améliorer le service ou le produit selon la rétroaction des utilisateurs et les données les concernant |
 
 ## 1. Comprendre les utilisateurs et leurs besoins
 
-Définissez le problème en commençant par les utilisateurs. Effectuez des recherches de façon à comprendre réellement qui ils sont, comment ils se comportent et ce que cela implique pour la conception du service.
+Définissez le problème en commençant par les utilisateurs. Effectuez des recherches de façon à comprendre réellement qui ils sont, comment ils se comportent et ce que cela implique pour la conception du service ou du produit.
 
 ### Importance de la question
 
-Comprendre les personnes qui utilisent un service et leurs attentes est essentiel si l'on veut que celui-ci réponde à leurs besoins. Par exemple, les utilisateurs d'un service de renouvellement de permis de conduire sont l'ensemble des habitants de l'Ontario qui possèdent un permis de conduire.
+Il est essentiel de comprendre les personnes qui utilisent un service ou un produit si l’on veut que celui-ci réponde à leurs besoins. Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
 
-Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
+Il est également important de faire des recherches sur les utilisateurs avec des personnes qui seront des utilisateurs finaux. Cela est différent de la recherche et des essais menés avec le personnel du gouvernement (à moins qu’il ne s’agisse d’utilisateurs) ou d’autres parties prenantes. Le personnel et les parties prenantes ont une connaissance précieuse des utilisateurs, mais ils disposent également d’information et d’expériences qui les rendent différents des utilisateurs finaux eux-mêmes.
 
-Il est particulièrement important de tenir compte des personnes handicapées dès le début.
+Il est particulièrement important de concevoir et de tester le service ou le produit en tenant compte dès le début des personnes handicapées, des personnes qui utilisent des technologies de rechange et des personnes ayant des besoins divers ou uniques.
 
-Apprenez à connaître vos utilisateurs et leurs besoins, adoptez leur propre point de vue, en laissant la perspective du projet de côté.
+Apprenez à connaître vos utilisateurs et leurs besoins en adoptant leur point de vue. En observant les utilisateurs accomplir une tâche ou ne pas réussir à l’accomplir, vous tirerez des enseignements que vous n’auriez peut-être pas pu obtenir en interrogeant les gens sur leur comportement et sur les éléments qu’ils aiment ou n’aiment pas.
 
-Prendre le temps de comprendre ceux qui utilisent votre service vous aidera à :
+Le fait de prendre le temps de comprendre ceux qui utilisent votre service vous aidera à :
 
-* fournir de meilleures solutions et expériences de service;
-* découvrir de nouvelles possibilités et idées;
-* éviter de perdre du temps à mettre en place une idée ingénieuse de façon inappropriée.
+* découvrir d’autres possibilités et perspectives
+* fournir de meilleures solutions et expériences en matière de service ou de produit
+* éviter de perdre du temps à mettre en place une idée ingénieuse de façon inappropriée
 
-Il est utile de définir le profil d'un utilisateur moyen, mais aussi celui des utilisateurs moins communs (ou «?utilisateurs atypiques?»). Ceux-ci comprennent les personnes qui peuvent être totalement satisfaites ou mécontentes du service. Ils constituent généralement une très bonne source d'idées : leurs besoins sont souvent des versions amplifiées de ceux des utilisateurs moyens.
+Il est utile de définir le profil de l’utilisateur moyen, mais aussi celui des utilisateurs moins communs (ou « utilisateurs atypiques »). Ceux-ci comprennent les personnes qui peuvent :
 
-Servez-vous de leurs besoins comme d'un guide qui vous aidera à faire ressortir les problèmes que les utilisateurs plus à l'aise avec la technologie auront du mal à formuler. C'est une étape essentielle pour concevoir des outils qui fonctionnent pour tous, et ainsi éviter d'engendrer des inégalités dans les services numériques.
+* être totalement satisfaites ou mécontentes du service ou du produit;
+* avoir une connaissance de l’informatique ou un accès au numérique beaucoup plus ou beaucoup moins important que vos utilisateurs habituels;
+* utiliser le service ou le produit beaucoup plus ou beaucoup moins fréquemment.
 
-Pour définir les caractéristiques du service, rencontrez les utilisateurs et rassemblez des données pour préparer :
+Ces utilisateurs sont une excellente source d’information. Leurs besoins sont généralement amplifiés d’une manière ou d’une autre.
 
-* les **objectifs des utilisateurs** - rédigés au format suivant : En tant que \[type d'utilisateur\], je veux
-  \[objectif\] afin de \[raison\]
-* des **personas** - des groupes d'utilisateurs constitués en fonction de leurs habitudes, de leur personnalité, de leurs possibilités et de leurs motivations.
-* des **profils utilisateurs** - des groupes d'utilisateurs constitués selon des données démographiques, comme l'âge, le genre, la localisation, le revenu et la taille de la famille
+Servez-vous de leurs besoins comme d’un guide qui vous aidera à comprendre les problèmes que les utilisateurs moyens pourraient avoir du mal à formuler. Le fait de répondre aux besoins des utilisateurs atypiques est essentiel pour concevoir des outils qui fonctionnent pour tous. Cela contribue également à éviter de créer des inégalités par le biais des services numériques ou d’autres canaux.
+
+Pour définir les caractéristiques à concevoir, interrogez les utilisateurs et rassemblez des données pour définir :
+
+* les **besoins des utilisateurs** en tant qu’objectifs, rédigés au format suivant : En tant que [type d’utilisateur], je veux/j’ai besoin de [objectif] afin de [raison]
+* **des personas** qui résument des groupes types d’utilisateurs constitués en fonction de leurs habitudes, leur personnalité, leurs attitudes, leurs capacités et leurs motivations, leur sexe, leur âge, leur lieu de résidence, leur revenu et la taille de leur famille
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* établissez une liste complète de vos utilisateurs et de leurs besoins;
-* montrez quels groupes ont participé et lesquels ne l'ont pas fait;
-* remédiez à tout problème ou manquement lors de la phase bêta;
-* donnez des exemples d'expériences utilisateurs, de personas et de types d'utilisateurs pour le service;
-* identifiez les parties du service qui ont posé des difficultés aux utilisateurs et tout problème qui doit être résolu lors de la conception du service.
+* dressez la liste de tous vos groupes d’utilisateurs et de leurs besoins et attentes
+* remédiez à tout problème ou manquement pendant les phases alpha et bêta
+* donnez des exemples de personas d’utilisateurs pour le service en ligne
+* déterminez les parties du service qui ont posé des difficultés aux utilisateurs et tout problème qui doit être résolu
+* observez le comportement des utilisateurs pendant les tests afin d’améliorer votre compréhension des utilisateurs et de leurs besoins
 
-À l'étape suivante :
+À l’étape suivante :
 
-* testez le service avec de vrais utilisateurs et soyez capable d’expliquer :
-  * le nombre de participants et de leurs caractéristiques démographiques générales;
-  * le nombre d'utilisateurs participants ayant des difficultés en termes d'accessibilité ou qui ont eu besoin d’aide numérique;
-  * la façon dont ils ont été recrutés;
-  * la façon dont les données analytiques ont été utilisées lors de vos recherches;
-  * toute nouvelle idée ou leçon apprise.
-* expliquez les changements émanant de ces recherches auprès des utilisateurs;
-* évoquez les besoins des utilisateurs les plus difficiles à satisfaire;
-* parlez des difficultés de conception que posent les besoins des utilisateurs.
+* testez le service et observez de vrais utilisateurs pendant qu’ils utilisent le service/produit et soyez capable d’expliquer :
+   * les nouvelles idées et leçons
+   * la façon dont les participants aux tests ont été recrutés
+   * la façon dont les données analytiques ont été utilisées dans la recherche
+   * le nombre de participants au test et leurs caractéristiques démographiques générales
+   * le nombre de participants au test qui ont du mal à accéder au service ou qui ont eu besoin d’une assistance numérique
+* expliquez les changements émanant de ces recherches auprès des utilisateurs
+* évoquez les besoins des utilisateurs les plus difficiles à satisfaire
+* parlez des difficultés de conception du service/produit qui résultent des besoins des utilisateurs
 
 Durant la phase de déploiement :
 
-* montrez les recherches qui identifient les étapes qui posent des difficultés aux utilisateurs;
-* montrez que des améliorations ont été apportées à ce niveau et comment elles ont été testées et conçues;
-* évoquez la façon dont les résultats de vos recherches seront utilisés pour améliorer constamment le service (par exemple, les participants, la fréquence, la localisation, l'heure).
+* montrez les recherches qui mettent au jour les étapes qui posent des difficultés aux utilisateurs
+* montrez que des améliorations ont été apportées à ce niveau et comment elles ont été testées et conçues
+* évoquez la façon dont les résultats de vos recherches seront utilisés pour améliorer constamment le service (par exemple, les participants, la fréquence, l’emplacement, l’heure)
 
 ## 2. Former une équipe adaptée
 
