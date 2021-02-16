@@ -81,75 +81,75 @@ Durant la phase de déploiement :
 
 ## 2. Former une équipe adaptée
 
-Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services numériques. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
+Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services ou le produit numérique. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
 
-Les chefs de produit établissent la stratégie applicable au service et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu'à sa désactivation. Ce poste est différent de celui de chef de projet.
+Les chefs de **produit** établissent la stratégie applicable au produit numérique et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu’à sa désactivation.
 
-Un produit désigne tout ce qui est créé pour un groupe spécifique d'utilisateurs. Dans la présente norme, le terme «?produit?» fait référence à toute information en ligne ou à tout service transactionnel utilisé par les habitants de l'Ontario.
+***Ce poste est différent de celui de chef de projet***, qui est axé sur l’exécution d’un processus et d’un projet temporaires, moins itératifs.
+
+Un service ou produit numérique désigne tout ce qui est créé pour un groupe spécifique d’utilisateurs. Dans les présentes normes, le terme « produit » fait référence à toute information en ligne ou à toute partie transactionnelle d’un service utilisé par les habitants de l’Ontario.
 
 ### Importance de la question
 
-Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 <sup id="a1">[1](#f1)</sup> .
+Il est important de mettre en place une équipe multidisciplinaire solide, dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches et des tests.
 
-Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service. Sa structure devra également s'adapter aux besoins du service et à la phase de travail en cours.
+Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service ou du produit. Sa structure devra également s’adapter aux besoins du service ou du produit et à la phase de travail en cours.
 
 Pour assurer une réussite optimale, constituez une équipe dotée :
 
-* d’un large éventail de compétences et de rôles, et ce, dès le départ;
-* de processus de prise de décision rapides et d’une bonne capacité à s'adapter à l'évolution du service;
-* des ressources et de la capacité à livrer le produit.
+* d’un large éventail de compétences et de rôles, et ce, dès le départ
+* de processus de prise de décision rapide et d’une bonne capacité à changer et à s’adapter
+* de la capacité à fournir les ressources nécessaires, y compris un soutien au niveau de la direction ou de la haute direction
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
-* travaillez en collaboration;
-* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
-* employez un responsable autorisé à prendre des décisions au quotidien pour le compte des utilisateurs;
-* chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
-* identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
-* procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
-* continuez à améliorer le service, même une fois celui-ci déployé;
-* faites participer l’équipe de maintenance du service aux premières étapes du projet.
+* travaillez en collaboration
+* déterminez les éventuelles faiblesses de votre équipe et remédiez-y
+* favorisez le transfert de connaissances et de compétences entre les membres de l’équipe
+* chargez un membre de l’équipe de se consacrer à la recherche utilisateur sur le service/produit
+* constituez une équipe ayant des compétences en matière de fourniture de services souples, allégés et numériques, ainsi que des compétences techniques et une connaissance de l’expérience utilisateur et des politiques
+* intégrez l’expertise d’autres secteurs d’activité et ministères (par exemple, les services financiers ou juridiques, l’élaboration de politiques ou la correspondance) pour atteindre les résultats souhaités
+* employez un chef de produit autorisé à prendre des décisions au quotidien pour améliorer le service
+* continuez à améliorer le service ou le produit après sa mise en service
+* faites participer l’équipe de maintenance du service ou du produit dès les premières étapes de la conception
+* assurez-vous que l’équipe est parrainée par des cadres supérieurs et des dirigeants qui appuient ses décisions, ses objectifs et sa vision du service ou du produit
 
 ## 3. Faire preuve de constance
 
-Le public doit retirer de toute interaction avec le gouvernement de l'Ontario une expérience cohérente, positive et constante.
+Le public doit retirer de toute interaction avec le gouvernement de l’Ontario une expérience cohérente, positive et constante.
 
 ### Importance de la question
-Les utilisateurs doivent être en mesure de déterminer lorsqu'ils sont sur un site officiel du gouvernement.
+L’utilisation de plateformes et de modèles standardisés permet à la fois de rentabiliser la prestation des services publics et d’utiliser au mieux les ressources publiques. En outre, les utilisateurs doivent être en mesure de reconnaître un site Web officiel du gouvernement et de savoir qu’ils utilisent un service ou un produit officiel du gouvernement, et se sentir en confiance. En outre, les utilisateurs doivent être en mesure de reconnaître et se sentir en confiance de savoir qu’ils utilisent :
 
-Utiliser des plateformes et modèles standardisés permet à la fois de rentabiliser la prestation des services publics et d'utiliser au mieux les ressources publiques.
+* un site Web officiel du gouvernement
+* un service ou un produit officiel du gouvernement
 
-Il faut fournir au public les services en ligne, au téléphone ou en personne de manière constante et cohérente. L’image de marque, le ton de voix et la manière de traiter les erreurs, tout cela doit toujours rassurer l’utilisateur qu’il sera capable de terminer la transaction désirée et qu’il peut se fier à notre capacité de l’aider à réussir sa transaction.
+L’image de marque, le ton de la voix et la manière de traiter les erreurs, tout cela doit rassurer l’utilisateur qu’il sera capable de terminer la transaction désirée et qu’il peut se fier à notre capacité de l’aider à réussir sa transaction.
+
+Utilisez le [Système de conception de l’Ontario](https://designsystem.ontario.ca/fr/). Il établit des styles et des composants qui respectent les meilleures pratiques en matière de convivialité et d’accessibilité, et sont conformes aux normes d’identité visuelle de l’Ontario.
 
 ### Respect de la présente norme
 
-Ontario.ca est le site Internet phare du gouvernement. Au minimum :
+Au minimum :
 
-* ajoutez le nouveau contenu sur Ontario.ca, au lieu de créer de nouveaux sites Web ou applications mobiles;
-* utilisez l'adresse Ontario.ca/mot-clé pour les sites et le marketing, au lieu d'enregistrer un nouveau nom de domaine public (par exemple, Ontario.ca/digitalservice, au lieu de digitalservice.on.ca);
-* transférez le contenu prioritaire et le plus demandé sur Ontario.ca;
-* utilisez Ontario.ca comme voie d'accès pour toutes les applications transactionnelles sur les autres plateformes (telles que le RAFEO
-* expliquez comment le service a utilisé les normes de conception du site Ontario.ca;
-* appliquez les [normes de contenu du site Ontario.ca](https://www.ontario.ca/fr/page/ontarioca-guide-redaction) afin de conserver le ton du contenu gouvernemental;
-* affichez votre contenu principal sur Ontario.ca, pour qu'il soit plus facile à trouver, à comprendre et à utiliser;
-* collaborez avec l'équipe des Services numériques de l'Ontario;
-* démontrez que le service est adaptatif et qu'il fournit le même contenu et les mêmes fonctionnalités sur tous les appareils, y compris sur les appareils mobiles;
-* enregistrez le nom de domaine sur [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca), le cas échéant.
+* ajoutez le nouveau contenu sur le site phare Ontario.ca, au lieu de créer de nouveaux sites Web ou applications mobiles
+* utilisez l’adresse Ontario.ca/mot-clé, par exemple [Ontario.ca/service-numerique-ontario](https://www.ontario.ca/fr/page/services-numeriques-ontario), pour les sites Web et le marketing, au lieu d’enregistrer un nouveau nom de domaine public
+* utilisez Ontario.ca comme voie d’accès pour toutes les applications sur d’autres plateformes, par exemple comment [le Régime d’aide financière aux étudiantes et étudiants de l’Ontario utilise Ontario.ca](https://www.ontario.ca/fr/page/rafeo-regime-daide-financiere-aux-etudiantes-et-etudiants-de-lontario)
+* appliquez [normes de contenu du site Ontario.ca](https://www.ontario.ca/fr/page/ontarioca-guide-redaction) a pour maintenir le ton, la voix et le style cohérents du contenu gouvernemental, qui est facile à trouver, à comprendre et à utiliser
+utilisez le [Système de conception de l’Ontario](https://designsystem.ontario.ca/fr/) pourcréer votre service ou produit numérique
+démontrez que le service ou le produit est adaptatif et qu’il fournit le même contenu et les mêmes fonctionnalités sur tous les appareils, y compris les téléphones mobiles
+enregistrez les noms de domaine sur [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca), s’il y a lieu
 
-### Lois et règlements à respecter
+### Lois, règlements et lignes directrices à respecter
 
-* Accessibilité -
-  [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*, Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
-* Français  -
-  [*Loi sur les services en français*](https://www.ontario.ca/fr/lois/loi/90f32),
-  [Services gouvernementaux en français](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
-* Données ouvertes -
-  [*irective sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
-* Médias sociaux -
-  [Lignes directrices relatives aux médias sociaux pour la fonction publique de l'Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
+* [Loi sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/fr/lois/reglement/r11191#https://www.ontario.ca/fr/lois/reglement/r11191)
+   * [Règlement sur les normes d’accessibilité intégrées](https://www.ontario.ca/fr/lois/reglement/110191)
+      * [Normes pour l’information et les communications](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+* [Loi sur les services en français) et [Services gouvernementaux en français](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
+* [Directive sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
+* [Lignes directrices relatives aux médias sociaux pour la fonction publique de l’Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
 
 ## 4. Conception du service du début à la fin
 
