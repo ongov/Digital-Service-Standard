@@ -1,524 +1,510 @@
-# Normes des services numériques
+# Normes des services numériques, 2021
 
-Les normes en matière de services numériques comportent 14 points qui aideront tout le monde à développer et offrir d’excellents services gouvernementaux.
+Les normes des services numériques contiennent 13 points et visent à aider les ministères et organismes de l’Ontario à mettre en place et à fournir des services et produits gouvernementaux plus simples, plus rapides et de meilleure qualité aux personnes qui vivent et font des affaires en Ontario.
 
-[Guides et ressources, études de cas, et règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario)
+[Accédez à des guides, des études de cas, des ressources et des règles connexes](https://www.ontario.ca/fr/page/creer-des-services-gouvernementaux-de-lontario) qui vous aideront à créer votre service ou produit.
 
 ---
 
-## Phases de déploiement
-Nous ne sommes qu'aux prémices de ce projet. Nous vous encourageons à adopter cette norme autant que possible et à nous faire part de vos retours.
+## Déploiement échelonné
+Le parcours de l’Ontario en matière de conception de services consiste en des phases de conception et de déploiement. Chaque phase est dictée par les besoins des utilisateurs et donne la priorité à plusieurs éléments des normes. Pour en savoir plus sur la façon de travailler dans les phases de conception et de déploiement, consultez le [Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services).
 
 | Besoins des utilisateurs |            |
 | ---------- | ---------- |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte (juin-juillet 2017)</h3>Mener des recherches sur les utilisateurs pour bien comprendre leurs besoins |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha (juillet 2017-février 2018)</h3>Vérifier nos hypothèses auprès des utilisateurs |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta (à partir de mars 2018)</h3>Créer un service viable minimum |
-| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne</h3>Continuer à améliorer selon les rétroactions des utilisateurs |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand1.png" width="100"> | <h3>Découverte</h3>Mener des recherches sur les utilisateurs pour bien comprendre leurs besoins |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand2.png" width="100"> | <h3>Alpha</h3>Vérifier nos hypothèses auprès des utilisateurs à l’aide de prototypes, de modèles, d’exemples ou de maquettes |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand3.png" width="100"> | <h3>Bêta</h3>Créer un produit ou un service viable minimum qui apporte une valeur ajoutée immédiate aux utilisateurs pendant que l’équipe développe et améliore les fonctionnalités. |
+| <img alt="Dans cette métaphore du brin d'ADN, les besoins des usagers se tissent dans l’hélice de l’ADN et s’y enroulent quatre fois, ce qui représente chaque phase de la conception des services." src="./images/dna-strand4.png" width="100"> | <h3>Mise en ligne</h3>Continuer à améliorer le service ou le produit selon la rétroaction des utilisateurs et les données les concernant |
 
 ## 1. Comprendre les utilisateurs et leurs besoins
 
-Définissez le problème en commençant par les utilisateurs. Effectuez des recherches de façon à comprendre réellement qui ils sont, comment ils se comportent et ce que cela implique pour la conception du service.
+Définissez le problème en commençant par les utilisateurs. Effectuez des recherches de façon à comprendre réellement qui ils sont, comment ils se comportent et ce que cela implique pour la conception du service ou du produit.
 
 ### Importance de la question
 
-Comprendre les personnes qui utilisent un service et leurs attentes est essentiel si l'on veut que celui-ci réponde à leurs besoins. Par exemple, les utilisateurs d'un service de renouvellement de permis de conduire sont l'ensemble des habitants de l'Ontario qui possèdent un permis de conduire.
+Il est essentiel de comprendre les personnes qui utilisent un service ou un produit si l’on veut que celui-ci réponde à leurs besoins. Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
 
-Il est facile de formuler des hypothèses sur les utilisateurs ou de se laisser influencer par nos expériences personnelles. Il est donc important de trouver des utilisateurs aux expériences et points de vue divers.
+Il est également important de faire des recherches sur les utilisateurs avec des personnes qui seront des utilisateurs finaux. Cela est différent de la recherche et des essais menés avec le personnel du gouvernement (à moins qu’il ne s’agisse d’utilisateurs) ou d’autres parties prenantes. Le personnel et les parties prenantes ont une connaissance précieuse des utilisateurs, mais ils disposent également d’information et d’expériences qui les rendent différents des utilisateurs finaux eux-mêmes.
 
-Il est particulièrement important de tenir compte des personnes handicapées dès le début.
+Il est particulièrement important de concevoir et de tester le service ou le produit en tenant compte dès le début des personnes handicapées, des personnes qui utilisent des technologies de rechange et des personnes ayant des besoins divers ou uniques.
 
-Apprenez à connaître vos utilisateurs et leurs besoins, adoptez leur propre point de vue, en laissant la perspective du projet de côté.
+Apprenez à connaître vos utilisateurs et leurs besoins en adoptant leur point de vue. En observant les utilisateurs accomplir une tâche ou ne pas réussir à l’accomplir, vous tirerez des enseignements que vous n’auriez peut-être pas pu obtenir en interrogeant les gens sur leur comportement et sur les éléments qu’ils aiment ou n’aiment pas.
 
-Prendre le temps de comprendre ceux qui utilisent votre service vous aidera à :
+Le fait de prendre le temps de comprendre ceux qui utilisent votre service vous aidera à :
 
-* fournir de meilleures solutions et expériences de service;
-* découvrir de nouvelles possibilités et idées;
-* éviter de perdre du temps à mettre en place une idée ingénieuse de façon inappropriée.
+* découvrir d’autres possibilités et perspectives
+* fournir de meilleures solutions et expériences en matière de service ou de produit
+* éviter de perdre du temps à mettre en place une idée ingénieuse de façon inappropriée
 
-Il est utile de définir le profil d'un utilisateur moyen, mais aussi celui des utilisateurs moins communs (ou «?utilisateurs atypiques?»). Ceux-ci comprennent les personnes qui peuvent être totalement satisfaites ou mécontentes du service. Ils constituent généralement une très bonne source d'idées : leurs besoins sont souvent des versions amplifiées de ceux des utilisateurs moyens.
+Il est utile de définir le profil de l’utilisateur moyen, mais aussi celui des utilisateurs moins communs (ou « utilisateurs atypiques »). Ceux-ci comprennent les personnes qui peuvent :
 
-Servez-vous de leurs besoins comme d'un guide qui vous aidera à faire ressortir les problèmes que les utilisateurs plus à l'aise avec la technologie auront du mal à formuler. C'est une étape essentielle pour concevoir des outils qui fonctionnent pour tous, et ainsi éviter d'engendrer des inégalités dans les services numériques.
+* être totalement satisfaites ou mécontentes du service ou du produit;
+* avoir une connaissance de l’informatique ou un accès au numérique beaucoup plus ou beaucoup moins important que vos utilisateurs habituels;
+* utiliser le service ou le produit beaucoup plus ou beaucoup moins fréquemment.
 
-Pour définir les caractéristiques du service, rencontrez les utilisateurs et rassemblez des données pour préparer :
+Ces utilisateurs sont une excellente source d’information. Leurs besoins sont généralement amplifiés d’une manière ou d’une autre.
 
-* les **objectifs des utilisateurs** - rédigés au format suivant : En tant que \[type d'utilisateur\], je veux
-  \[objectif\] afin de \[raison\]
-* des **personas** - des groupes d'utilisateurs constitués en fonction de leurs habitudes, de leur personnalité, de leurs possibilités et de leurs motivations.
-* des **profils utilisateurs** - des groupes d'utilisateurs constitués selon des données démographiques, comme l'âge, le genre, la localisation, le revenu et la taille de la famille
+Servez-vous de leurs besoins comme d’un guide qui vous aidera à comprendre les problèmes que les utilisateurs moyens pourraient avoir du mal à formuler. Le fait de répondre aux besoins des utilisateurs atypiques est essentiel pour concevoir des outils qui fonctionnent pour tous. Cela contribue également à éviter de créer des inégalités par le biais des services numériques ou d’autres canaux.
+
+Pour définir les caractéristiques à concevoir, interrogez les utilisateurs et rassemblez des données pour définir :
+
+* les **besoins des utilisateurs** en tant qu’objectifs, rédigés au format suivant : En tant que [type d’utilisateur], je veux/j’ai besoin de [objectif] afin de [raison]
+* **des personas** qui résument des groupes types d’utilisateurs constitués en fonction de leurs habitudes, leur personnalité, leurs attitudes, leurs capacités et leurs motivations, leur sexe, leur âge, leur lieu de résidence, leur revenu et la taille de leur famille
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* établissez une liste complète de vos utilisateurs et de leurs besoins;
-* montrez quels groupes ont participé et lesquels ne l'ont pas fait;
-* remédiez à tout problème ou manquement lors de la phase bêta;
-* donnez des exemples d'expériences utilisateurs, de personas et de types d'utilisateurs pour le service;
-* identifiez les parties du service qui ont posé des difficultés aux utilisateurs et tout problème qui doit être résolu lors de la conception du service.
+* dressez la liste de tous vos groupes d’utilisateurs et de leurs besoins et attentes
+* remédiez à tout problème ou manquement pendant les phases alpha et bêta
+* donnez des exemples de personas d’utilisateurs pour le service en ligne
+* déterminez les parties du service qui ont posé des difficultés aux utilisateurs et tout problème qui doit être résolu
+* observez le comportement des utilisateurs pendant les tests afin d’améliorer votre compréhension des utilisateurs et de leurs besoins
 
-À l'étape suivante :
+À l’étape suivante :
 
-* testez le service avec de vrais utilisateurs et soyez capable d’expliquer :
-  * le nombre de participants et de leurs caractéristiques démographiques générales;
-  * le nombre d'utilisateurs participants ayant des difficultés en termes d'accessibilité ou qui ont eu besoin d’aide numérique;
-  * la façon dont ils ont été recrutés;
-  * la façon dont les données analytiques ont été utilisées lors de vos recherches;
-  * toute nouvelle idée ou leçon apprise.
-* expliquez les changements émanant de ces recherches auprès des utilisateurs;
-* évoquez les besoins des utilisateurs les plus difficiles à satisfaire;
-* parlez des difficultés de conception que posent les besoins des utilisateurs.
+* testez le service et observez de vrais utilisateurs pendant qu’ils utilisent le service/produit et soyez capable d’expliquer :
+   * les nouvelles idées et leçons
+   * la façon dont les participants aux tests ont été recrutés
+   * la façon dont les données analytiques ont été utilisées dans la recherche
+   * le nombre de participants au test et leurs caractéristiques démographiques générales
+   * le nombre de participants au test qui ont du mal à accéder au service ou qui ont eu besoin d’une assistance numérique
+* expliquez les changements émanant de ces recherches auprès des utilisateurs
+* évoquez les besoins des utilisateurs les plus difficiles à satisfaire
+* parlez des difficultés de conception du service/produit qui résultent des besoins des utilisateurs
 
 Durant la phase de déploiement :
 
-* montrez les recherches qui identifient les étapes qui posent des difficultés aux utilisateurs;
-* montrez que des améliorations ont été apportées à ce niveau et comment elles ont été testées et conçues;
-* évoquez la façon dont les résultats de vos recherches seront utilisés pour améliorer constamment le service (par exemple, les participants, la fréquence, la localisation, l'heure).
+* montrez les recherches qui mettent au jour les étapes qui posent des difficultés aux utilisateurs
+* montrez que des améliorations ont été apportées à ce niveau et comment elles ont été testées et conçues
+* évoquez la façon dont les résultats de vos recherches seront utilisés pour améliorer constamment le service (par exemple, les participants, la fréquence, l’emplacement, l’heure)
 
 ## 2. Former une équipe adaptée
 
-Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services numériques. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
+Mettez en place une équipe pluridisciplinaire et durable capable de concevoir, de créer et d’améliorer de façon continue les services ou le produit numérique. Elle doit être dirigée par un chef de produit qualifié pour prendre des décisions.
 
-Les chefs de produit établissent la stratégie applicable au service et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu'à sa désactivation. Ce poste est différent de celui de chef de projet.
+Les chefs de **produit** établissent la stratégie applicable au produit numérique et définissent les caractéristiques propres à celui-ci. Le service est en permanence sous leur responsabilité, jusqu’à sa désactivation.
 
-Un produit désigne tout ce qui est créé pour un groupe spécifique d'utilisateurs. Dans la présente norme, le terme «?produit?» fait référence à toute information en ligne ou à tout service transactionnel utilisé par les habitants de l'Ontario.
+***Ce poste est différent de celui de chef de projet***, qui est axé sur l’exécution d’un processus et d’un projet temporaires, moins itératifs.
+
+Un service ou produit numérique désigne tout ce qui est créé pour un groupe spécifique d’utilisateurs. Dans les présentes normes, le terme « produit » fait référence à toute information en ligne ou à toute partie transactionnelle d’un service utilisé par les habitants de l’Ontario.
 
 ### Importance de la question
 
-Il est important de posséder une bonne équipe pluridisciplinaire dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches, des tests et des prototypes note de bas de page 1 <sup id="a1">[1](#f1)</sup> .
+Il est important de mettre en place une équipe multidisciplinaire solide, dirigée par une seule personne qui assume la responsabilité du projet et qui est autorisée à prendre des décisions en fonction des résultats des recherches et des tests.
 
-Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service. Sa structure devra également s'adapter aux besoins du service et à la phase de travail en cours.
+Les compétences de votre équipe et les éléments sur lesquels elle se concentre doivent évoluer tout au long de la conception et du développement du service ou du produit. Sa structure devra également s’adapter aux besoins du service ou du produit et à la phase de travail en cours.
 
 Pour assurer une réussite optimale, constituez une équipe dotée :
 
-* d’un large éventail de compétences et de rôles, et ce, dès le départ;
-* de processus de prise de décision rapides et d’une bonne capacité à s'adapter à l'évolution du service;
-* des ressources et de la capacité à livrer le produit.
+* d’un large éventail de compétences et de rôles, et ce, dès le départ
+* de processus de prise de décision rapide et d’une bonne capacité à changer et à s’adapter
+* de la capacité à fournir les ressources nécessaires, y compris un soutien au niveau de la direction ou de la haute direction
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* constituez une équipe pluridisciplinaire bénéficiant d'une expertise dans la prestation de services selon les méthodes Agile <sup id="a2">[2](#f2)</sup>, de compétences techniques, et de connaissances en matière d'expérience utilisateur et de politiques applicables;
-* travaillez en collaboration;
-* intégrez l'expertise d'autres secteurs d'activités et ministères (par exemple, services financiers ou juridiques, d’élaboration des politiques, de la correspondance) pour atteindre l'objectif souhaité;
-* employez un responsable autorisé à prendre des décisions au quotidien pour le compte des utilisateurs;
-* chargez un membre de l'équipe de se consacrer à la recherche utilisateur sur le projet pendant au moins 3 jours par semaine;
-* identifiez les éventuelles faiblesses de votre équipe et remédiez-y;
-* procédez à des transferts de connaissances et de compétences entre les membres de l'équipe;
-* continuez à améliorer le service, même une fois celui-ci déployé;
-* faites participer l’équipe de maintenance du service aux premières étapes du projet.
+* travaillez en collaboration
+* déterminez les éventuelles faiblesses de votre équipe et remédiez-y
+* favorisez le transfert de connaissances et de compétences entre les membres de l’équipe
+* chargez un membre de l’équipe de se consacrer à la recherche utilisateur sur le service/produit
+* constituez une équipe ayant des compétences en matière de fourniture de services souples, allégés et numériques, ainsi que des compétences techniques et une connaissance de l’expérience utilisateur et des politiques
+* intégrez l’expertise d’autres secteurs d’activité et ministères (par exemple, les services financiers ou juridiques, l’élaboration de politiques ou la correspondance) pour atteindre les résultats souhaités
+* employez un chef de produit autorisé à prendre des décisions au quotidien pour améliorer le service
+* continuez à améliorer le service ou le produit après sa mise en service
+* faites participer l’équipe de maintenance du service ou du produit dès les premières étapes de la conception
+* assurez-vous que l’équipe est parrainée par des cadres supérieurs et des dirigeants qui appuient ses décisions, ses objectifs et sa vision du service ou du produit
 
 ## 3. Faire preuve de constance
 
-Le public doit retirer de toute interaction avec le gouvernement de l'Ontario une expérience cohérente, positive et constante.
+Le public doit retirer de toute interaction avec le gouvernement de l’Ontario une expérience cohérente, positive et constante.
 
 ### Importance de la question
-Les utilisateurs doivent être en mesure de déterminer lorsqu'ils sont sur un site officiel du gouvernement.
+L’utilisation de plateformes et de modèles standardisés permet à la fois de rentabiliser la prestation des services publics et d’utiliser au mieux les ressources publiques. En outre, les utilisateurs doivent être en mesure de reconnaître un site Web officiel du gouvernement et de savoir qu’ils utilisent un service ou un produit officiel du gouvernement, et se sentir en confiance. En outre, les utilisateurs doivent être en mesure de reconnaître et se sentir en confiance de savoir qu’ils utilisent :
 
-Utiliser des plateformes et modèles standardisés permet à la fois de rentabiliser la prestation des services publics et d'utiliser au mieux les ressources publiques.
+* un site Web officiel du gouvernement
+* un service ou un produit officiel du gouvernement
 
-Il faut fournir au public les services en ligne, au téléphone ou en personne de manière constante et cohérente. L’image de marque, le ton de voix et la manière de traiter les erreurs, tout cela doit toujours rassurer l’utilisateur qu’il sera capable de terminer la transaction désirée et qu’il peut se fier à notre capacité de l’aider à réussir sa transaction.
+L’image de marque, le ton de la voix et la manière de traiter les erreurs, tout cela doit rassurer l’utilisateur qu’il sera capable de terminer la transaction désirée et qu’il peut se fier à notre capacité de l’aider à réussir sa transaction.
+
+Utilisez le [Système de conception de l’Ontario](https://designsystem.ontario.ca/fr/). Il établit des styles et des composants qui respectent les meilleures pratiques en matière de convivialité et d’accessibilité, et sont conformes aux normes d’identité visuelle de l’Ontario.
 
 ### Respect de la présente norme
 
-Ontario.ca est le site Internet phare du gouvernement. Au minimum :
+Au minimum :
 
-* ajoutez le nouveau contenu sur Ontario.ca, au lieu de créer de nouveaux sites Web ou applications mobiles;
-* utilisez l'adresse Ontario.ca/mot-clé pour les sites et le marketing, au lieu d'enregistrer un nouveau nom de domaine public (par exemple, Ontario.ca/digitalservice, au lieu de digitalservice.on.ca);
-* transférez le contenu prioritaire et le plus demandé sur Ontario.ca;
-* utilisez Ontario.ca comme voie d'accès pour toutes les applications transactionnelles sur les autres plateformes (telles que le RAFEO
-* expliquez comment le service a utilisé les normes de conception du site Ontario.ca;
-* appliquez les [normes de contenu du site Ontario.ca](https://www.ontario.ca/fr/page/ontarioca-guide-redaction) afin de conserver le ton du contenu gouvernemental;
-* affichez votre contenu principal sur Ontario.ca, pour qu'il soit plus facile à trouver, à comprendre et à utiliser;
-* collaborez avec l'équipe des Services numériques de l'Ontario;
-* démontrez que le service est adaptatif et qu'il fournit le même contenu et les mêmes fonctionnalités sur tous les appareils, y compris sur les appareils mobiles;
-* enregistrez le nom de domaine sur [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca), le cas échéant.
+* ajoutez le nouveau contenu sur le site phare Ontario.ca, au lieu de créer de nouveaux sites Web ou applications mobiles
+* utilisez l’adresse Ontario.ca/mot-clé, par exemple [Ontario.ca/service-numerique-ontario](https://www.ontario.ca/fr/page/services-numeriques-ontario), pour les sites Web et le marketing, au lieu d’enregistrer un nouveau nom de domaine public
+* utilisez Ontario.ca comme voie d’accès pour toutes les applications sur d’autres plateformes, par exemple comment [le Régime d’aide financière aux étudiantes et étudiants de l’Ontario utilise Ontario.ca](https://www.ontario.ca/fr/page/rafeo-regime-daide-financiere-aux-etudiantes-et-etudiants-de-lontario)
+* appliquez [normes de contenu du site Ontario.ca](https://www.ontario.ca/fr/page/ontarioca-guide-redaction) a pour maintenir le ton, la voix et le style cohérents du contenu gouvernemental, qui est facile à trouver, à comprendre et à utiliser
+utilisez le [Système de conception de l’Ontario](https://designsystem.ontario.ca/fr/) pourcréer votre service ou produit numérique
+démontrez que le service ou le produit est adaptatif et qu’il fournit le même contenu et les mêmes fonctionnalités sur tous les appareils, y compris les téléphones mobiles
+enregistrez les noms de domaine sur [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca), s’il y a lieu
 
-### Lois et règlements à respecter
+### Lois, règlements et lignes directrices à respecter
 
-* Accessibilité -
-  [*Loi sur l’accessibilité pour les personnes handicapées de l’Ontario*, Normes pour l'information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
-* Français  -
-  [*Loi sur les services en français*](https://www.ontario.ca/fr/lois/loi/90f32),
-  [Services gouvernementaux en français](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
-* Données ouvertes -
-  [*irective sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
-* Médias sociaux -
-  [Lignes directrices relatives aux médias sociaux pour la fonction publique de l'Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
+* [Loi sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/fr/lois/reglement/r11191#https://www.ontario.ca/fr/lois/reglement/r11191)
+   * [Règlement sur les normes d’accessibilité intégrées](https://www.ontario.ca/fr/lois/reglement/110191)
+      * [Normes pour l’information et les communications](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+* [Loi sur les services en français) et [Services gouvernementaux en français](https://www.ontario.ca/fr/page/services-gouvernementaux-en-francais)
+* [Directive sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
+* [Lignes directrices relatives aux médias sociaux pour la fonction publique de l’Ontario](https://www.ontario.ca/fr/page/lignes-directrices-relatives-aux-medias-sociaux-pour-la-fonction-publique-de-lontario)
 
 ## 4. Conception du service du début à la fin
 
-Comprenez le but des utilisateurs et les étapes qu'ils devront suivre pour accomplir cette tâche. Chaque contact avec le service devra les rapprocher de leur objectif. Si possible, chaque étape devra pouvoir être complétée en ligne.
+Comprenez ce que les utilisateurs essaient de faire et concevez le moyen le plus simple et le plus rapide pour eux d’accomplir leur tâche et d’atteindre leur but. Si possible, chaque étape devrait pouvoir être exécutée en ligne.
 
 ### Importance de la question
 
-Il est important de comprendre ce que les utilisateurs recherchent lorsqu'ils accèdent à un service, et quelle est la place de celui-ci dans leur vie quotidienne.
+Il est important de comprendre ce que les utilisateurs recherchent lorsqu’ils accèdent à un service, et quelle est la place de celui-ci dans leur vie quotidienne.
 
-Leur expérience du service ne se limite pas à ce qu'ils font sur leur écran. Elle commence dès qu'ils entendent parler du service pour la première fois, et ne se termine que lorsqu'ils ont reçu le produit ou la confirmation finale.
+Leur expérience du service ne se limite pas à ce qu’ils font sur leur écran. Elle commence dès qu’ils entendent parler du service ou du produit pour la première fois, et ne se termine que lorsqu’ils ont atteint leur but ou exécuté leur tâche.
 
-Comprenez le cheminement global des utilisateurs pour atteindre leur objectif, y compris leurs actions sur Internet, au téléphone ou en personne. Chaque contact, qu'il soit en ligne ou hors ligne, doit être soigneusement étudié afin d'aider l'utilisateur à se rapprocher de son but.
+Comprenez, simplifiez et raffinez l’ensemble du parcours que les utilisateurs suivent de bout en bout pour atteindre leur objectif, y compris les actions qu’ils accomplissent dans chaque canal de communication, par exemple :
+
+* en ligne
+* par téléphone
+* par la poste
+* en personne
+
+Chaque interaction, qu’elle soit en ligne ou hors ligne, doit être soigneusement étudiée pour aider l’utilisateur à se rapprocher de son objectif final.
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* examinez d’autres avenues afin de comprendre les étapes par lesquelles les utilisateurs doivent passer pour atteindre leur objectif et quelle est la place de votre service;
-* montrez le cheminement de tous les points dans l’expérience que retire l’utilisateur du service, à partir du moment où il en entend parler jusqu’à ce qu’il ait terminé sa transaction et reçu le produit (si cela s’applique);
-* démontrez qu’il y a un plan pour corriger les erreurs à toutes les étapes du service (i. e. si un utilisateur se trouve bloqué à une étape du service numérique, quel est le plan pour cet utilisateur lorsqu’il téléphone pour recevoir de l’aide?);
-* assurez-vous que les prototypes intègrent l'expérience utilisateur de bout en bout;
-* montrez les résultats de vos recherches et de vos tests utilisateurs, ainsi que la façon dont ils seront utilisés dans le but d'améliorer le service;
-* mettez en place un plan de recherche utilisateur qui couvre l'ensemble des étapes de la conception du service jusqu'à son déploiement, et qui inclut les prochaines étapes de développement;
-* expliquez la fréquence des recherches et des tests, et la façon dont les résultats seront exploités;
-* effectuez des recherches utilisateurs dès le début avec des personnes rencontrant des problèmes d'accessibilité;
-* utilisez des [fiches pour la conception inclusive](https://www.ontario.ca/fr/page/fiches-pour-la-conception-inclusive) vous aidera à esquisser, à planifier et à créer les prototypes;
-* réalisez des tests avec des utilisateurs ayant besoin d'aide pour accéder aux outils numériques;
-* utilisez des données analytiques dans le cadre de votre plan de recherche utilisateur;
-* montrez tout problème trouvé grâce à vos tests et les solutions que vous proposez.
+* assurez-vous que les prototypes (modèles ou maquettes) intègrent l’expérience utilisateur de bout en bout
+* examinez tous les canaux pour comprendre les étapes par lesquelles les utilisateurs doivent passer pour atteindre leur objectif et l’étape où votre service s’inscrit dans leur parcours
+* montrez un diagramme du cheminement de l’utilisateur comprenant tous les points de contact, à partir du moment où l’utilisateur entend parler du service ou du produit jusqu’à ce qu’il atteigne son objectif
+* disposez d’un plan de recherche utilisateur qui couvre l’ensemble des étapes de la conception du service ou du produit jusqu’à son déploiement, et qui inclut les prochaines phases d’amélioration
+* appliquez les principes de conception de services allégés afin de réduire le nombre d’étapes qu’un utilisateur doit franchir dans son parcours de bout en bout avant de commencer le prototypage
+* disposez d’un plan pour corriger les erreurs à chaque étape du service (par exemple, si un utilisateur se trouve bloqué, comment va-t-il demander et obtenir de l’aide?)
+* montrez les résultats de vos recherches utilisateurs, comme les problèmes découverts lors des tests de convivialité, et expliquez pourquoi cela permet de trouver des solutions et d’améliorer la conception
+* expliquez la fréquence des recherches et des tests, et la façon dont les résultats seront utilisés
+* effectuez des recherches utilisateurs dès le début avec des personnes rencontrant des problèmes d’accessibilité
+* utilisez les fiches pour la conception inclusive pour vous aider à préparer des croquis, des plans, des prototypes et des dessins
+* réalisez des tests avec des utilisateurs ayant besoin d’aide pour accéder aux outils numériques
+* utilisez des données analytiques pour planifier votre recherche utilisateur ainsi que toute amélioration du service ou du produit
 
 ## 5. Réussite assurée dès le premier essai des utilisateurs
 
-Utiliser un service gouvernemental devrait être intuitif et aisé. Un service bien conçu doit être tellement simple que les utilisateurs atteignent leur objectif du premier coup, sans avoir besoin d'aide.
+L’utilisation d’un service gouvernemental devrait être une expérience intuitive et exempte de stress. Un bon service doit être tellement simple que les utilisateurs peuvent atteindre leur objectif du premier coup, sans avoir besoin d’aide.
 
 ### Importance de la question
 
-Il est important de veiller à ce que votre service soit aussi simple et abordable que possible. Tous les utilisateurs devraient pouvoir aisément exploiter le service, même ceux dont l'accessibilité est limitée ou qui connaissent mal le numérique.
+Il est important de veiller à ce qu’un service, un produit ou une tâche soit aussi simple et direct que possible. Tous les utilisateurs, même ceux qui ont des besoins d’accessibilité ou qui manquent d’expérience numérique, devraient pouvoir franchir chaque étape facilement.
 
-Si un service est trop complexe ou confus, les utilisateurs seront obligés de contacter l'organisation par téléphone ou de se déplacer pour obtenir de l'aide et achever leur tâche. Pire encore, ils peuvent éviter d'y avoir recours.
+Si un service ou un produit est complexe ou confus, les utilisateurs seront obligés de communiquer avec l’organisation pour obtenir de l’aide ou de se rendre en personne à un bureau pour accomplir leur tâche. Pire encore, ils peuvent éviter d’y avoir recours.
 
-Cela entraîne non seulement des coûts supplémentaires, mais peut aussi occasionner une grande frustration pour l'utilisateur et une perte de confiance dans son gouvernement.
+Cela entraîne non seulement des coûts supplémentaires, mais peut aussi occasionner une grande frustration pour l’utilisateur et une perte de confiance dans son gouvernement.
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* expliquez ce qu’est le service, y compris à qui il est destiné, comment il fonctionne et comment l’utiliser;
-* indiquez où l’utilisateur peut s’adresser afin d’en savoir plus sur le service ou d’obtenir de l’aide pour s’en servir;
-* montrez que la majorité des utilisateurs parvient à l'utiliser du premier coup;
-* expliquez la fréquence à laquelle vous utiliserez les résultats des recherches et des tests ainsi que les données analytiques afin d’améliorer régulièrement le service;
-* démontrez que vous testez l'ensemble des expériences utilisateurs de bout en bout et qu'elles fonctionnent, y compris pour ceux ayant besoin d'aide pour accéder aux outils numériques;
-* rendez les services accessibles, y compris aux utilisateurs dont les compétences numériques sont peu développées;
-* faites des tests de convivialité au moins une fois avant et après la mise en ligne du service et procédez aux améliorations nécessaires;
-* établissez l’envergure de vos tests en fonction de l’importance du service et du nombre d’utilisateurs;
-* effectuez des tests utilisateurs et introduisez les améliorations nécessaires;
-* basez vos décisions en matière de conception et de contenu sur vos recherches, tests et données analytiques;
-* assurez-vous que les utilisateurs peuvent naviguer dans le service du début à la fin, sans aide;
-* testez le nom du service et vérifiez que les utilisateurs le comprennent;
-* utilisez des données analytiques et vos recherches utilisateurs pour réduire le nombre de personnes qui n'accomplissent pas la tâche qu'elles souhaitaient effectuer en ligne (par exemple, renouveler leur permis de conduire).
+* expliquez le service ou le produit et indiquez à qui il est destiné, pourquoi il existe et comment l’utiliser
+* incluez les coordonnées des personnes à contacter pour que les utilisateurs puissent obtenir de l’aide en cas de besoin
+* assurez-vous que la plupart des utilisateurs réussiront dès la première utilisation
+* démontrez à quelle fréquence vous utiliserez la recherche, les tests et les données analytiques pour améliorer le service ou le produit de manière régulière ou continue
+* démontrez que l’expérience utilisateur de bout en bout fonctionne sur tous les canaux et testez chacun de ces derniers, y compris pour les personnes qui ont besoin d’aide pour accéder aux outils numériques
+* effectuez des tests de convivialité au moins une fois avant et après la mise en ligne du service ou du produit et procédez aux améliorations nécessaires
+* établissez l’envergure de vos tests en fonction de l’importance du service ou du produit et du nombre d’utilisateurs
+* basez vos décisions en matière de conception et de contenu sur les recherches, tests, données analytiques et besoins des utilisateurs
+* assurez-vous que les gens peuvent trouver le service ou le produit, notamment en testant son nom pour savoir s’il a un sens pour les utilisateurs
+* utilisez des données analytiques et vos recherches utilisateurs pour réduire le nombre de personnes qui ne parviennent pas à accomplir la tâche qu’elles souhaitent exécuter en ligne, par exemple, renouveler leur permis de conduire ou leur vignette de plaque d’immatriculation
 
 ## 6. Tester le service de bout en bout
 
-Testez le service de bout en bout de façon continue, afin de vérifier qu'aucune erreur ne survient et qu'il reste disponible.
+Testez continuellement le service de bout en bout pour vous assurer qu’il reste disponible pour les utilisateurs et qu’aucune erreur ne survient.
 
-Assurez-vous de le tester avec les navigateurs et appareils utilisés par votre public pour accéder au service, y compris les appareils fonctionnels. Un appareil fonctionnel est un appareil utilisé par une personne atteinte d’une déficience, qui doit l'aider dans sa vie quotidienne (par exemple, un lecteur d'écran ou une prothèse auditive).
+Assurez-vous de le tester avec les navigateurs et les appareils que les gens utiliseront pour accéder au service, y compris les dispositifs d’assistance. Un dispositif d’assistance est un équipement qu’une personne handicapée peut utiliser pour l’aider dans sa vie quotidienne, par exemple, un lecteur d’écran ou une prothèse auditive.
 
 ### Importance de la question
 
-N'attendez pas que les utilisateurs découvrent une erreur dans les services en ligne. Mettez en place des contrôles et faites en sorte d'éviter les périodes d'inaccessibilité. Les utilisateurs s'attendent à ce que les services numériques modernes soient disponibles 24 heures sur 24 et sept jours sur sept.
-
-Les utilisateurs sont donc plus satisfaits et ont davantage confiance dans les services fournis par le gouvernement.
+Les utilisateurs s’attendent à ce que les services numériques soient plus simples, plus rapides et toujours disponibles. N’attendez pas que les utilisateurs découvrent une erreur. Surveillez le service en ligne et assurez-vous qu’il ne tombe pas en panne aux moments où des utilisateurs sont susceptibles de l’utiliser. Des utilisateurs plus satisfaits conserveront leur confiance dans les services fournis par le gouvernement.
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* concevez et testez le service de façon à ce qu'il fonctionne avec les navigateurs et appareils des utilisateurs, y compris les appareils fonctionnels;
-* testez le service dans un environnement aussi semblable que possible à l'environnement de déploiement;
-* concentrez-vous sur les besoins administratifs et sur les objectifs des utilisateurs (par exemple, lors de la refonte d'un programme tel que le RAFEO, cela consiste à tester les étapes que les étudiants doivent suivre pour remplir une demande en vertu du RAFEO. 
-* fournissez des outils et de l'aide aux développeurs pour qu'ils puissent mettre le service à l’essai lors de sa création et après son déploiement;
-* concevez un service qui peut prendre en charge un nombre d'utilisateurs plus important que celui prévu et qui peut aider un plus grand nombre d’utilisateurs si la demande augmente;
-* segmentez le contenu, la conception et les fonctionnalités pour que les mises à jour puissent être réalisées sur chaque élément indépendamment des autres;
-* adoptez un processus de test des modifications apportées au service;
-* mettez en place un processus périodique de contrôle et de test du service, même quand il n'a pas subi de modifications;
-* mettez en place un plan de gestion des erreurs (bogues, interruptions) et prévenez les utilisateurs;
-* respectez les meilleures pratiques de codage recommandées pour vos technologies et outils;
-* documentez les méthodes utilisées pour créer et maintenir le service, et tenez la documentation à jour;
-* mettez en place un plan pour le stockage et la récupération des données en cas de perte de données.
+* concevez et testez le service ou le produit de façon à ce qu’il fonctionne avec les navigateurs et les appareils des utilisateurs, y compris les dispositifs d’assistance
+* testez le service dans un environnement et un contexte aussi semblables que possible à ceux que les utilisateurs connaîtront
+* fournissez des outils et de l’aide aux développeurs pour qu’ils puissent mettre le service ou le produit à l’essai au moment de sa création et après son déploiement
+* concevez un service ou un produit qui peut prendre en charge le nombre prévu d’utilisateurs et qui peut être étendu et soutenir un plus grand nombre d’utilisateurs si la demande augmente
+* segmentez le contenu, la conception et les fonctionnalités pour que les mises à jour puissent être réalisées de manière indépendante
+* respectez les meilleures pratiques de codage recommandées pour vos technologies et outils
+* documentez les méthodes utilisées pour créer et maintenir le service ou le produit, y compris le processus de mise à jour de la documentation
+* prévoyez un processus pour :
+   * tester régulièrement les mises à jour ou les modifications apportées au service ou au produit
+   * faire le suivi du service ou du produit, même si aucune modification n’est apportée
+   * traiter les défaillances, comme les bogues et les pannes, et un autre processus pour aviser les utilisateurs
 
-## 7. Rendre le service accessible
+## 7. Rendre le service accessible et inclusif
 
-Une conception accessible, c’est une bonne conception et c’est bon pour les affaires. La création de produits et de services numériques entièrement accessibles améliore l’expérience de tous les utilisateurs. Assurez-vous que le service est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil, leur environnement ou leur qualité de l’accès.
+Une conception numérique accessible et inclusive est bonne pour tout le monde. Assurez-vous que le service ou le produit est accessible à tous les utilisateurs, quels que soient leurs capacités, leur appareil, leur environnement ou la qualité de l’accès.
 
-La *Loi sur l’accessibilité pour les personnes handicapées de l’Ontario* définit un site Web gouvernemental accessible comme un site qui remplit les critères de succès de toutes les [Règles pour l’accessibilité des contenus Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-fr/) (Niveau AA).
+La Loi sur l’accessibilité pour les personnes handicapées de l’Ontario définit un site Web gouvernemental accessible comme étant un site qui remplit tous les critères de succès énoncés dans les [Règles pour l’accessibilité des contenus Web (WCAG) 2.0]((https://www.w3.org/Translations/WCAG20-fr/) (niveau AA).
 
 ### Importance de la question
 
-Tous les utilisateurs doivent pouvoir atteindre leur objectif dès leur première utilisation du service, aussi rapidement et facilement que possible.
+Tous les utilisateurs, y compris les utilisateurs handicapés ou les personnes qui ont besoin d’aide pour accéder aux outils numériques, devraient pouvoir accomplir leur tâche rapidement et aisément dès la première tentative.
 
-Ceci est également valable pour les utilisateurs atteints d’une déficience ou ceux ayant besoin d'aide pour accéder aux outils numériques.
+Il est également important d’examiner comment des facteurs tels que la race, le sexe, les capacités cognitives ou physiques, ou la situation socioéconomique influent sur l’expérience d’un utilisateur. Utilisez une approche antidiscriminatoire et les meilleures pratiques de conception inclusive pour veiller à ce que les utilisateurs puissent accéder au service ou au produit.
 
-Si les utilisateurs ont des difficultés à atteindre leur objectif du premier coup, ils pourraient ensuite éviter d'utiliser le service ou contacter votre organisation pour obtenir de l'aide.
+Lorsque les utilisateurs éprouvent des difficultés à accomplir leur tâche dès la première tentative, ils se démènent inutilement et peuvent communiquer avec l’organisation pour obtenir de l’aide, ce qui a une incidence sur les taux de réussite et de satisfaction et augmente les coûts liés au soutien des utilisateurs qui tentent d’accéder au service ou au produit.
+
+### Respect des présentes normes
 
 Au minimum :
 
-* ayez un plan pour vous assurer que le service remplit les critères de succès des Règles WCAG au lancement et sur une base continue;
-* intégrez des outils d’essai automatisés dans le processus de développement et de maintenance du service;
-* assurez-vous que les personnes handicapées soient en mesure d’utiliser le service en faisant des essais manuels avec un vérificateur automatisé, un lecteur d’écran et un zoomant avant jusqu'à 400 % ou une loupe d’écran;
-* permettez aux personnes handicapées d’obtenir facilement des documents en média substitut si elles en ont besoin et communiquez avec l’équipe du service pour faire part de tout problème qu’elles rencontrent en utilisant le service;
-* incluez des personnes ayant des capacités diverses en utilisant des appareils différents dans vos recherches et essais d’utilisateur;
-*	démontrer de quelle manière votre personnel connaîtra les obstacles à l’accessibilité et sera formé pour aider les utilisateurs handicapés à faire ce qu’ils veulent faire et à accéder à l’information;
-* veillez à ce que, lorsque de nouvelles plateformes technologiques sont envisagées, vous vous informiez des problèmes de conformité aux Règles WCAG 2.0 AA et des efforts déployés pour mettre en œuvre les Règles pour l’accessibilité des outils de création 2.0 (ATAG), parties A et B.
+* ayez un plan pour vous assurer que le service ou le produit répond aux critères de réussite des règles WCAG
+* rendez le service ou le produit accessible, y compris pour les utilisateurs ayant un niveau de compétences numériques plus faible et un accès ou une * connectivité Internet limité
+* intégrez des outils de test automatisés dans les processus de développement et de maintenance
+* assurez-vous que le service ou le produit est utilisable par des personnes handicapées en le testant avec elles, notamment en le testant manuellement, avec un vérificateur automatique et un lecteur d’écran, et en effectuant un zoom de 400 % ou en utilisant une loupe d’écran
+* permettez aux personnes handicapées d’obtenir facilement des documents sur un média substitut si elles en ont besoin, ou de communiquer avec l’équipe du service ou du produit pour tout problème rencontré au cours de leur parcours
+* incluez des personnes ayant des capacités diverses, y compris des personnes ayant des besoins, des expériences et des antécédents différents et variés, en utilisant des dispositifs différents dans vos recherches et vos essais utilisateurs
+* démontrez de quelle manière votre personnel prendra connaissance des obstacles à l’accessibilité et sera formé pour aider les utilisateurs handicapés à accomplir des tâches et à accéder à l’information
+* assurez-vous que lorsque de nouvelles plateformes technologiques sont envisagées, vous vous informez de tout problème de conformité aux règles WCAG 2.0 (niveau AA) et des efforts déployés pour mettre en œuvre les Règles d’accessibilité pour les outils d’édition 2.0 (ATAG), parties A et B
+* Utilisez un langage clair pour que les personnes aient plus de facilité à lire, à comprendre et à utiliser les services; par exemple, définissez les termes juridiques ou techniques, ou évitez-les, et n’utilisez pas d’acronymes.
 
 ### Lois et règlements à respecter
 
-* [*Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario*](https://www.ontario.ca/fr/lois/loi/05a11)
-  * [*Normes d'accessibilité intégrées*](https://www.ontario.ca/fr/lois/reglement/110191)
-    * [*Normes pour l'information et les communications*](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
-    * [*Normes d'accessibilité pour les services à la clientèle*](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
-* [*Code des droits de la personne*](https://www.ontario.ca/fr/lois/loi/90h19)
-* [*Loi sur les personnes handicapées de l'Ontario*](https://www.ontario.ca/fr/lois/loi/01o32)
+* [Loi sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/fr/lois/reglement/r11191#https://www.ontario.ca/fr/lois/reglement/r11191)
+   * [Règlement sur les normes d’accessibilité intégrées](https://www.ontario.ca/fr/lois/reglement/110191)
+      * [Normes pour les services à la clientèle](https://www.ontario.ca/fr/lois/reglement/110191#BK148)
+      * [Normes pour l’information et les communications](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
+* [Code des droits de la personne de l’Ontario](https://www.ontario.ca/fr/lois/loi/90h19)
+* [Loi sur les personnes handicapées de l’Ontario](https://www.ontario.ca/fr/lois/loi/01o32)
+* [Trousse d’information sur la conception inclusive de l’Ontario](https://www.ontario.ca/fr/page/conception-inclusive)
+* [Loi contre le racisme de l’Ontario](https://www.ontario.ca/fr/lois/loi/17a15)
+* [Loi pour des services simplifiés, accélérés et améliorés de l’Ontario](https://www.ontario.ca/fr/lois/loi/19s07)
 
 ## 8. Souplesse et orientation sur l’utilisateur
 
-Concevez et créez le service en utilisant une approche agile et axée sur l’utilisateur. Agile est une façon de créer des services en divisant l’ensemble du travail en blocs de plus petite taille appelés des itérations. Créez une fonctionnalité du service à la fois jusqu’à ce que tout le service soit terminé.
+Concevez et créez le service en utilisant une approche agile et axée sur l’utilisateur. Agile est une façon de créer des services en divisant l’ensemble du travail en blocs de plus petite taille appelés des itérations. Créez et testez une seule fonctionnalité du service ou du produit à la fois et apportez des améliorations de façon continue.
 
-Cette méthode est beaucoup moins risquée que la méthode en cascade classique qui crée tout le service en une fois. En effet, le fait d’effectuer de nombreuses itérations met bien plus rapidement à jour les défauts du plan initial (impossibilité d’obtenir des autorisations, manque de ressources, mauvaises personnes dans l’équipe, etc.).
+La méthode agile est beaucoup moins risquée que la méthode en cascade classique, qui crée tout le service en une fois. En effet, le fait d’effectuer de nombreuses itérations met bien plus rapidement à jour les défauts du plan initial, par exemple que :
 
-Les méthodes axées sur l’utilisateur (étude des utilisateurs, essais d’ergonomie) mettent l’accent sur la création de services faciles à utiliser. Les services gouvernementaux traditionnels se concentrent sur la satisfaction des besoins opérationnels et le respect des objectifs fixés par les politiques. Une méthode axée sur l’utilisateur veille à ce que les besoins opérationnels tiennent compte des besoins des utilisateurs. De cette manière, l’utilisation du service numérique tend à croître.
+* les approbations ayant retardé les actions
+* les ressources ne répondant pas aux besoins du service ou du produit * des obstacles ayant empêché l’équipe de répondre aux besoins des utilisateurs
+
+Les méthodes de recherche axées sur l’utilisateur telles que les tests de convivialité mettent l’accent sur la création de services et de produits faciles à utiliser. Une méthode axée sur l’utilisateur permet de s’assurer que les besoins de l’utilisateur et les besoins opérationnels sont pris en compte ensemble. De cette manière, l’utilisation du service ou du produit numérique tend à croître.
 
 ### Importance de la question
 
 Les méthodes agiles créent des services qui peuvent :
 
-* aboutir rapidement à un prototype (présenté aux utilisateurs afin de mettre en place une rétroaction régulière);
-* satisfaire les besoins des utilisateurs;
-* évoluer facilement en cas, par exemple, de modifications dans les technologies ou dans les politiques gouvernementales;
-* s’améliorer en continu en fonction de la rétroaction des utilisateurs;
-* être rapidement créés avec un ensemble minimal de caractéristiques et enrichis de caractéristiques supplémentaires après leur mise en ligne.
+* satisfaire les besoins des utilisateurs
+* aboutir rapidement à un prototype qui sera testé régulièrement auprès des utilisateurs afin d’obtenir de la rétroaction
+* évoluer facilement en cas, par exemple, de modifications dans les technologies ou dans les politiques gouvernementales
+* s’améliorer en continu en fonction de la rétroaction des utilisateurs et être étendus lorsque la demande augmente
+* être rapidement créés avec un ensemble minimal de caractéristiques et enrichis de caractéristiques supplémentaires après leur mise en ligne
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* travaillez de façon agile, à l’aide d’outils et de techniques agiles, et continuez de la sorte une fois que le service est opérationnel;
-* assurez-vous que l’équipe examine et met à jour de façon incrémentielle les façons de résoudre les problèmes;
-* donnez un exemple de la façon dont l’équipe a réagi en fonction d’un essai d’ergonomie et de l’étude des utilisateurs;
-* montrez que votre service est géré de façon agile, en s’appuyant sur des objectifs clairs et mesurables;
-* examinez les options de conception pour votre prototype et expliquez pourquoi certaines sont écartées;
-* expliquez comment la conception du service a évolué au fil du temps à la lumière des résultats obtenus par l’étude des utilisateurs;
-* identifiez tous les problèmes rencontrés au cours des recherches et les solutions pour améliorer le service;
-* dotez-vous d’un plan de vérification de la qualité et de correction qui soutient des modifications fréquentes du service;
-* utilisez une approche par étapes pour tester les modifications apportées à une partie du service, lorsque des modifications basées sur les caractéristiques ne sont pas réalisables.
+* [travaillez de façon agile, à l’aide d’outils et de techniques agiles](https://www.ontario.ca/fr/page/etre-agile-dans-la-fonction-publique-de-lontario), et continuez de la sorte une fois que le service ou le produit est opérationnel
+* assurez-vous que l’équipe examine et met à jour de façon incrémentielle les façons de résoudre les problèmes
+* donnez un exemple de la façon dont l’équipe a réagi en fonction des résultats de la recherche sur les utilisateurs
+* montrez que votre service ou produit est géré de façon agile, en fonction d’objectifs clairs et mesurables
+* examinez les options de conception pour votre prototype et expliquez pourquoi certaines sont écartées
+* expliquez comment la conception du service ou du produit a évolué au fil du temps à la lumière des résultats de la recherche sur les utilisateurs ou de leurs besoins
+* déterminez tous les problèmes rencontrés dans le cadre des recherches et les solutions pour améliorer le service ou le produit
+* dotez-vous d’un plan de vérification de la qualité et de correction qui soutient des modifications fréquentes du service
+* utilisez une approche par étapes pour tester les modifications apportées à une partie du service ou du produit, lorsque des modifications basées sur les caractéristiques ne sont pas réalisables
 
 ## 9. Utiliser des normes ouvertes et des plateformes communes
 
-Utilisez des normes ouvertes, des logiciels ouverts et des plateformes gouvernementales communes, le cas échéant.
+Utilisez des normes ouvertes, des logiciels ouverts et des plateformes gouvernementales communes, dans la mesure du possible.
 
-Les normes ouvertes sont créées au moyen de la collaboration et de consensus par une communauté active d’experts, incluant un bon nombre de grandes entreprises du domaine de la technologie. Elles visent l’interopérabilité des données entre divers produits et services, ainsi que la sécurité et la fiabilité.
+Les normes ouvertes sont créées au moyen de la collaboration et de consensus par une communauté active d’experts, y compris un bon nombre de grandes entreprises du domaine de la technologie. Elles visent l’interopérabilité des données entre divers produits et services. Ces pratiques tiennent compte également de la sécurité, de la fiabilité et de la nécessité d’éliminer les obstacles au partage de données au sein d’une organisation.
 
-Les logiciels libres sont du domaine public et gratuits pour tous les utilisateurs. Ils sont développés et entretenus en collaboration par les utilisateurs, les organisations et les grandes entreprises. De nombreux outils et produits à accès libre bien établis sont considérés comme des normes de l’industrie.
+Les logiciels libres sont du domaine public et sont gratuits pour tous les utilisateurs. Ils sont développés et entretenus en collaboration par les utilisateurs, les organisations et les grandes entreprises.
+
+De nombreux outils et produits à accès libre bien établis sont considérés comme des normes de l’industrie.
 
 ### Importance de la question
 
 L’utilisation de normes ouvertes et de plateformes gouvernementales communes permettra au gouvernement :
 
-* d’économiser du temps et de l’argent en réutilisant ce qui est déjà disponible;
-* de passer d’une technologie à une autre, le cas échéant;
-* de faire évoluer rapidement et facilement un service, le cas échéant;
-* d’offrir aux utilisateurs une expérience plus cohérente des services gouvernementaux en ligne;
-* d’accéder à un éventail plus large de vendeurs de logiciels propriétaires et ouverts;
-* d’éviter les contrats à long terme qui peuvent s’avérer restrictifs.
+* d’économiser du temps et de l’argent en réutilisant ce qui est déjà disponible
+* de passer d’une technologie à une autre, au besoin
+* de faire évoluer rapidement et facilement un service ou un produit, au besoin
+* d’offrir aux utilisateurs une expérience plus cohérente des services ou des produits gouvernementaux en ligne
+* d’accéder à un éventail plus large de vendeurs de logiciels propriétaires et ouverts
+* d’éviter les contrats à long terme qui peuvent s’avérer restrictifs
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* utilisez des normes ouvertes et des plateformes communes;
-* accordez la préférence à des outils ouverts qui sont accessibles et sont soutenus par une forte communauté de développeurs; 
-* déterminez les plateformes communes à utiliser;
-* comprenez les besoins que les utilisateurs ont couramment avec les autres services et satisfaites ces besoins de façon cohérente par rapport aux autres entités du gouvernement;
-* montrez ce que le service offre aux utilisateurs et sous quel format (par exemple, un permis de conduire);
-* expliquez quelles données sont utilisées et/ou recueillies et à quel moment elles seront publiées dans le cadre de la Directive sur les données ouvertes;
-* utilisez des plateformes gouvernementales communes (Ontario.ca, Salle de presse de l’Ontario);
-* intégrez les systèmes déjà en place.
+* déterminez et utilisez des normes ouvertes et des plateformes communes
+* accordez la préférence à des outils ouverts qui sont accessibles et soutenus par une forte communauté de développeurs
+* comprenez les besoins courants des utilisateurs d’autres services et satisfaites ces besoins de façon cohérente par rapport aux autres entités du gouvernement
+* montrez ce que le service ou le produit offre aux utilisateurs et sous quel format
+* utilisez des plateformes gouvernementales communes (Ontario.ca pour le contenu Web)
+* Utilisez des interfaces de protocole d’application et intégrez-les à tout système existant, si possible et au besoin
 
-### Lois et règlements à respecter
+### Lois, règlements et lignes directrices à respecter
 
 * [Directive sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
-* Plateformes standard
-  * Publication en ligne - [Ontario.ca](https://www.ontario.ca/fr/page/gouvernement-de-lontario)
-  * Nouvelles - [Salle de presse de l’Ontario](https://news.ontario.ca/newsroom/fr)
-  * Données ouvertes -
-    [Catalogue de données](https://www.ontario.ca/fr/recherche/donnees-publiques)
+* Normes ouvertes et plateformes communes, par exemple :
+   * Publication Web sur Ontario.ca (interne)
+   * Nouvelles dans la Salle de presse de l’Ontario (interne)
+   * [Catalogue de données de l’Ontario](https://data.ontario.ca/fr/)
 
 ## 10. Intégrer la sécurité et la protection de la vie privée au niveau de la conception
 
-Identifiez les données que le service utilisera, stockera ou créera. Adoptez des mesures appropriées en matière juridique, de sécurité et de protection de la vie privée de façon à ce que les utilisateurs soient certains que leurs renseignements personnels seront conservés en toute sécurité et que la protection de leur vie privée sera assurée.
+Définissez les données que le service ou le produit utilisera, stockera ou créera. Adoptez des mesures appropriées en matière juridique, de sécurité et de protection de la vie privée de façon à ce que les utilisateurs soient certains que leurs renseignements personnels seront conservés en toute sécurité et que la protection de leur vie privée sera assurée.
 
 ### Importance de la question
 
 Pour que les utilisateurs utilisent un service, il est nécessaire de garantir les points suivants :
 
-* sécurité du service;
-* confidentialité du service;
-* possibilité d’accéder à ses renseignements au sein du service lorsqu'on en a besoin;
-* que leur vie privée sera respectée pendant et après l’usage de ce service. 
+* sécurité du service
+* confidentialité du service
+* possibilité d’accéder à ses renseignements au sein du service lorsqu’on en a besoin
+* assurance que la vie privée sera respectée pendant et après l’utilisation du service ou du produit
 
 ### Respect de la présente norme
 
-Dans les premières étapes d’élaboration, expliquez :
+Dès les premières étapes du développement, expliquez :
 
-* les types de données recueillies (nom, adresse, code postal, etc.);
-* le mode de transmission des données;
-* le lieu et le mode de stockage des données;
-* de quelle façon les données seront utilisées;
-* les menaces pour la sécurité, notamment les éventuelles voies d’accès que les pirates informatiques peuvent emprunter, ainsi que les méthodes éprouvées de réduction de ces menaces;
-* la façon dont vous prévoyez de rester à jour concernant les menaces et la façon de les traiter;
-* toutes les menaces de fraude existantes et les systèmes de contrôle en cours de prototypage.
+* les types de données recueillies (nom, adresse, code postal, etc.)
+* le mode de transmission des données
+* le lieu et le mode de stockage des données
+* la façon dont les données seront utilisées
+* les menaces pour la sécurité, notamment les éventuelles voies d’accès que les pirates informatiques peuvent emprunter, ainsi que les méthodes éprouvées de réduction de ces menaces
+* la façon dont vous prévoyez vous tenir au courant des menaces et de la manière de les atténuer
+* toutes les menaces de fraude existantes et les systèmes de contrôle en cours de prototypage
 
 Décrivez également :
 
-* la méthode de gestion des risques et de la sécurité;
-* les menaces pour la sécurité et la protection de la vie privée;
-* vos interactions avec les équipes administratives et les équipes chargées des risques en matière d’information (par exemple, Services de sécurité et Information, protection de la vie privée et Archives publiques);
-* les règlements relatifs à la sécurité et à la protection de la vie privée qui vous concernent et la façon dont ils seront respectés sans que la prestation soit exposée à un risque;
-* toutes les questions déjà en cours qui vous concernent, notamment la protection ou le partage des données;
-* les politiques qui vous concernent en matière de protection de la vie privée, et leur justification;
-* les processus de mises à jour des serveurs/logiciels;
-* le plan et le processus de demande des mises à jour de sécurité;
-* le plan de vérification des activités suspectes;
+* la méthode de gestion des risques et de la sécurité
+* les menaces pour la sécurité et la protection de la vie privée
+* vos interactions avec les équipes administratives et les équipes chargées des risques en matière d’information (par exemple, Services de sécurité et Information, protection de la vie privée et Archives publiques)
+* les règlements relatifs à la sécurité et à la protection de la vie privée qui vous concernent et la façon dont ils seront respectés sans que la prestation soit exposée à un risque
+* toutes les questions juridiques non résolues, notamment concernant la protection ou le partage des données
+* les politiques en matière de protection de la vie privée, les conditions d’utilisation et leur justification
+* les processus de mises à jour de sécurité des serveurs/logiciels
+* le plan et le processus de demande de mise à jour de sécurité
+* le plan de vérification des activités suspectes
 
-Une fois que le service est opérationnel, décrivez :
+Une fois que le service ou produit est opérationnel, décrivez :
 
-* la méthode de gestion des risques et de la sécurité;
-* les interactions continues avec les équipes administratives et les équipes chargées des risques en matière d’information (par exemple, Services de sécurité et Information, protection de la vie privée et Archives publiques);
-* toutes les questions déjà en cours qui vous concernent, notamment la protection ou le partage des données;
-* le processus de compréhension des nouvelles menaces et des menaces en cours, ainsi que de leur mode d’évolution au cours de la version bêta;
-* la façon dont vous maintiendrez à jour les politiques en matière de protection de la vie privée.
+* la méthode de gestion des risques et de la sécurité
+* les interactions continues avec les équipes administratives et les équipes chargées des risques en matière d’information (par exemple, Services de sécurité et Information, protection de la vie privée et Archives publiques)
+* toutes les questions juridiques non résolues, notamment concernant la protection ou le partage des données
+* le processus de compréhension des nouvelles menaces et des menaces en cours, ainsi que de leur mode d’évolution au cours de la phase bêta
+* la façon dont vous maintiendrez à jour les politiques en matière de protection de la vie privée
 
 ### Lois et règlements à respecter
 
-* [*Loi sur l’accès à l'information et la protection de la vie privée*][l1]
-* [*Loi sur la protection des renseignements personnels sur la santé*?][l2]
-* [*Loi sur les archives publiques et la conservation des documents*?][l3]
-* [*Loi sur la protection des renseignements personnels et les documents électroniques*][l4]
-* [*La Loi canadienne anti-pourriel*][l5]
+* [Loi sur l’accès à l’information et la protection de la vie privée]
+* [Loi sur les archives publiques et la conservation des documents](https://www.ontario.ca/fr/lois/loi/06a34)
+* [Loi sur la protection des renseignements personnels sur la santé](https://www.ontario.ca/fr/lois/loi/04p03)
+* [Loi sur la protection des renseignements personnels et les documents électroniques](https://www.priv.gc.ca/fr/sujets-lies-a-la-protection-de-la-vie-privee/lois-sur-la-protection-des-renseignements-personnels-au-canada/la-loi-sur-la-protection-des-renseignements-personnels-et-les-documents-electroniques-lprpde/r_o_p/)
+* [Loi canadienne anti-pourriel](https://www.fightspam.gc.ca/eic/site/030.nsf/fra/accueil)
 
-[l1]: https://www.ontario.ca/fr/lois/loi/90f31
-[l2]: https://www.ontario.ca/fr/lois/loi/04p03
-[l3]: https://www.ontario.ca/fr/lois/loi/06a34
-[l4]: https://www.priv.gc.ca/fr/sujets-lies-a-la-protection-de-la-vie-privee/lois-sur-la-protection-des-renseignements-personnels-au-canada/la-loi-sur-la-protection-des-renseignements-personnels-et-les-documents-electroniques-lprpde/r_o_p/
-[l5]: http://fightspam.gc.ca/eic/site/030.nsf/fra/accueil
+## 11. Soutien aux personnes qui en ont besoin
 
-## 11. Utilisation des services numériques encouragée
+Mettez en place dans tous les canaux des outils visant à soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services ou produits numériques.
 
-Encouragez les personnes à choisir le service numérique à chacune de leurs interactions avec le gouvernement.
-
-### Importance de la question
-
-Le fait d’encourager les personnes à utiliser le service numérique permettra :
-
-* d’économiser de l’argent en réduisant le nombre de personnes qui empruntent des canaux non numériques, notamment les centres d’appels;
-* d’aider les utilisateurs à acquérir des compétences numériques;
-* permettez aux ressources non numériques d’accorder plus d’attention aux utilisateurs qui ne peuvent utiliser par eux-mêmes les services numériques.
-
-### Respect de la présente norme
-
-Dans les premières étapes de l’élaboration :
-
-* fixez des objectifs élevés concernant le nombre d’utilisateurs du service numérique;
-* comprenez les autres canaux par lesquels le service est assuré;
-* décrivez les données recueillies sur les autres canaux et leur mode de collecte sur chacun d’eux;
-* identifiez les organismes et les groupes qui aident les utilisateurs à se servir des services numériques et non numériques déjà en place;
-* constituez une base de connaissances à partir de l’étude des utilisateurs, notamment le profil démographique, les attitudes, les comportements, les canaux de préférence et la cartographie des parcours des utilisateurs<sup id="a3">[3](#f3)</sup>
-* comprenez comment chaque canal satisfait les besoins des différents utilisateurs;
-* concevez le service numérique de telle sorte qu’il présente des avantages indéniables par rapport aux autres canaux.
-
-À l’étape ultérieure :
-
-* planifiez l’accroissement du nombre d’utilisateurs du service numérique et illustrez-le à l’aide de données probantes;
-* améliorez les communications avec les utilisateurs en vous appuyant sur la base de connaissances issue de leur étude;
-* examinez les données analytiques concernant la façon dont la communication s’établit.
-
-Une fois que le service est opérationnel :
-
-* planifiez le transfert et l’accroissement du nombre des utilisateurs vers le service numérique et fixez des objectifs annuels sur 5 ans;
-* mesurez l’incidence prévue sur les autres points de service (par téléphone, en personne) et la façon dont elle pourrait influencer l’attribution des financements et des ressources.
-
-## 12. Soutien aux personnes qui en ont besoin
-
-Mettez en place dans tous les canaux des outils visant à soutenir les personnes qui ne peuvent pas utiliser elles-mêmes des services numériques.
-
-L'aide à l'utilisation des services numériques consiste à fournir une assistance aux personnes qui ne peuvent pas utiliser les services numériques par elles-mêmes. Cela peut comprendre des solutions pour aider les gens à naviguer dans un service en ligne, comme offrir de l’aide par téléphone, par clavardage ou en personne.
+L’aide à l’utilisation des services numériques consiste à fournir une assistance aux personnes qui ne peuvent pas utiliser les services ou produits numériques par elles-mêmes. Cela peut inclure des options pour aider les gens à naviguer dans une expérience en ligne, comme offrir une aide à ceux qui en ont besoin par un autre canal, notamment par téléphone ou en personne.
 
 ## Importance de la question
 
-Tout le monde n’aura pas le même accès, la même aisance et le même niveau de compétence pour utiliser les services numériques. Comprenez à quels niveaux les utilisateurs ont besoin de soutien, mettez ce soutien à disposition et sensibilisez à l’existence de ce soutien.
+Tout le monde n’aura pas le même accès, la même aisance et le même niveau de compétence dans l’utilisation des services ou produits numériques. Comprenez à quels niveaux les utilisateurs ont besoin de soutien, et rendez ce soutien facilement accessible.
 
 ### Respect de la présente norme
 
 Effectuez le plus tôt possible une étude des utilisateurs afin de :
 
-* comprendre l’accès, la confiance et les compétences numériques dont disposent les utilisateurs;
-* savoir pourquoi certains utilisateurs ne peuvent pas utiliser le service numérique de façon autonome, par exemple à cause d’obstacles dus à la maîtrise linguistique ou à la maîtrise d’Internet;
-* découvrir les besoins des utilisateurs en matière de soutien;
+* comprendre l’accès, la confiance et les compétences numériques dont disposent les utilisateurs
+* savoir pourquoi certains utilisateurs ne peuvent pas utiliser le service ou produit numérique de façon autonome, par exemple à cause d’obstacles dus à la maîtrise linguistique ou à la maîtrise d’Internet
+* découvrir les besoins des utilisateurs en matière de soutien
 
-Dans les étapes ultérieures d’élaboration, assurez-vous que l’aide numérique :
+Au minimum :
 
-* soit offerte de façon durable et reste gratuite;
-* est compréhensible et bien documentée;
-* repose sur des méthodes de recrutement et de recherche appropriées;
-* est constituée et expliquée à travers le prisme d’histoires, de personnages et de profils qui correspondent aux personnes qui en ont besoin.
-
-Effectuez des recherches et des essais avec les utilisateurs qui :
-
-* utilisent déjà ou utiliseront le service;
-* disposent du niveau le plus bas d’accès, de confiance et de compétences numériques;
-* recherchent actuellement un soutien numérique assisté auprès d’autres personnes (par exemple, des amis et des membres de leur famille, des collègues, des entreprises ou des organismes de bienfaisance).
-
-Réagissez en fonction de l’étude des utilisateurs en :
-
-* tirant les enseignements issus de l’étude et en soutenant les essais visant à améliorer l’aide numérique;
-* concevant un modèle d’aide numérique pour répondre aux besoins des utilisateurs;
-* vous engageant à participer à des recherches continues sur les utilisateurs afin de découvrir leurs besoins en matière d’aide numérique.
+* facilitez l’obtention d’une aide par téléphone ou par une autre technologie
+* Assurez-vous que l’aide numérique :
+   * est offerte de façon durable et reste gratuite
+   * est compréhensible et bien documentée
+   * repose sur des méthodes de recrutement et de recherche appropriées
+   * est constituée et expliquée en fonction des besoins des utilisateurs et des    personas représentant les groupes de personnes qui en ont besoin
+* Effectuez des recherches et des essais avec des utilisateurs qui :
+* utilisent déjà ou utiliseront le service ou le produit
+* disposent du niveau le plus bas d’accès, de confiance et de compétences numériques
+* recherchent actuellement une assistance numérique auprès d’autres personnes (par exemple, des amis et des membres de leur famille, des collègues, des entreprises ou des organismes de bienfaisance)
+* Réagissez en fonction de la recherche sur les utilisateurs en :
+   * tirant des enseignements de la recherche et en soutenant les essais visant à améliorer l’assistance numérique
+* concevant un modèle d’assistance numérique qui réponde aux besoins des utilisateurs
+* vous engageant à participer à des recherches continues sur les utilisateurs afin de découvrir leurs besoins en matière d’assistance numérique
 
 ### Lois et règlements à respecter
 
-* [*Loi sur l’accessibilité pour les personnes handicapées de l'Ontario*, normes pour l’information et les communications](https://www.ontario.ca/fr/lois/reglement/r11191#BK9)
+* [Loi sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/fr/lois/reglement/r11191#https://www.ontario.ca/fr/lois/reglement/r11191)
+   * [Règlement sur les normes d’accessibilité intégrées](https://www.ontario.ca/fr/lois/reglement/110191)
+      * [Normes pour l’information et les communications](https://www.ontario.ca/fr/lois/reglement/110191#BK8)
 
-## 13 — Mesurer le rendement
+## 12 — Mesurer le rendement
 
-Enregistrez et surveillez en permanence les données de rendement afin d’éclairer les améliorations du service en cours.
+Comprenez les mesures que vous devrez saisir. Surveillez en permanence les données sur le rendement afin de définir les améliorations continues à apporter au service ou au produit.
 
 ### Importance de la question
 
 La mesure du rendement permet d’améliorer en continu un service en :
 
-* montrant ses forces et ses faiblesses ;
-* fournissant des données sur lesquelles s’appuyer pour effectuer des modifications.
+* montrant ses forces et ses faiblesses
+* fournissant des données sur lesquelles s’appuyer pour effectuer des modifications
 
 ### Respect de la présente norme
 
 Au minimum :
 
-* utilisez une analytique Web afin d’enregistrer des données concernant le comportement des utilisateurs en ligne;
-* définissez les besoins, les sources et la collecte en matière de données;
-* surveillez et évaluez les commentaires et les plaintes des utilisateurs concernant le service numérique et les autres points de contact du service (par téléphone, en personne);
-* analysez le rendement et identifiez le plus tôt possible les données exploitables;
-* utilisez des données qualitatives et quantitatives en vue de comprendre les besoins des utilisateurs et de repérer des domaines où des modifications pourraient être apportées;
-* définissez des mesures du rendement dès le début du service, en amont dans le processus de conception;
-* réexaminez régulièrement la technologie servant à fournir le service et les processus le soutenant;
-* établissez la fréquence de vos réexamens du service selon le nombre d’utilisateurs (p. ex. 10 000 utilisateurs uniques ou moins par an = cycle de réexamen de 2 ans; 10 000-100 000 = annuel; 100 000-1 million = aux 6 mois);
-* utilisez les données pour déterminer le coût par utilisation de chaque avenue, en tenant compte aussi du coût de création et de maintenance continue;
-* montrez à quel niveau le service se situe par rapport aux autres services similaires du gouvernement et du secteur privé;
-* communiquez les conclusions de vos réexamens à vos supérieurs.
+* comprenez la façon dont chaque canal répond aux besoins des différents utilisateurs
+* décrivez les données collectées sur les autres canaux et la manière dont les données d’utilisation sont collectées pour chacun
+* utilisez l’analyse Web pour enregistrer des données sur le comportement des utilisateurs en ligne
+* définissez les besoins, les sources et la collecte en matière de données
+* surveillez et évaluez les commentaires et les plaintes des utilisateurs concernant le service numérique et les autres points de contact du service (par téléphone, en personne, sondages ou médias sociaux)
+* analysez le rendement et déterminez le plus tôt possible les données exploitables
+* utilisez des données qualitatives et quantitatives en vue de comprendre les besoins des utilisateurs et de repérer les domaines où des modifications pourraient être apportées
+* définissez les mesures du rendement du service ou du produit en amont, dès la phase de conception
+* réexaminez régulièrement la technologie servant à fournir le service ou le produit et les processus le soutenant
+* établissez la fréquence de vos réexamens du service ou du produit selon le nombre d’utilisateurs
+* utilisez les données pour déterminer le coût par utilisation de chaque canal, en tenant compte aussi du coût de création et de maintenance continue
+* montrez à quel niveau le service se situe par rapport aux autres services similaires du gouvernement et du secteur privé
+* communiquez les conclusions de vos réexamens à vos supérieurs
 
-## 14 — Mettre à l’essai en présence du ministre/de la ministre
+## 13 — Être un bon gestionnaire de données
 
-Testez le service ou effectuez-en une démonstration du début à la fin en présence du ministre responsable/de la ministre responsable avant que le service ne soit rendu opérationnel. Lorsque les ministres comprennent ce qu’est le produit, qu’ils en ont l’expérience et le sentent axé sur l’utilisateur, ils peuvent avoir confiance qu’il servira bien le public.
+Suivez les [règles et les meilleures pratiques](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario) lorsque vous organisez et gérez des données, y compris en créant des données ouvertes par défaut.
 
 ### Importance de la question
 
-Les ministres sont responsables du respect des priorités du gouvernement à l’égard des Ontariens et des Ontariennes. Vous devez donc leur montrer le service numérique avant de le rendre opérationnel.
+En Ontario, les données sont ouvertes par défaut. Les équipes de livraison doivent faire preuve d’une transparence totale en ce qui concerne leurs ressources de données et la manière dont elles sont acquises et utilisées. Nous reconnaissons également que les personnes sont propriétaires de leurs données personnelles et qu’elles ont un intérêt dans la manière dont elles sont utilisées.
+
+Cela est important, car cela permet de mettre les données à la disposition de tous de manière égale, créant ainsi des possibilités de créer de meilleurs services gouvernementaux, y compris dans l’ensemble du gouvernement.
 
 ### Respect de la présente norme
 
-Au minimum :
+Au minimum :
 
-* communiquez au ministre les résultats de votre recherche sur les utilisateurs et faites une démonstration d’un prototype du service;
-* montrez le service au ou aux ministres qui en sont responsables;
-* s’il s’agit d’un service transactionnel, faites tester le service de bout en bout par le ou les ministres responsables afin de s’assurer qu’ils peuvent l’utiliser comme le ferait un électeur (pendant la phase de vérification de la convivialité au début du projet).
+* recueillez les données une seule fois et réutilisez-les si possible
+* assurez-vous que les données sont utilisées de manière à respecter la vie privée, la sécurité et la sensibilité culturelle
+* comprenez et suivez la [directive de l’Ontario sur les données et les services numériques](https://www.ontario.ca/fr/page/directive-de-lontario-sur-les-donnees-et-les-services-numeriques-2021) et la façon dont elle s’applique au service ou produit numérique que votre équipe est en train de créer
+* utilisez un langage clair et simple pour indiquer aux utilisateurs quelles données sont collectées et utilisées et leur faire savoir si ou quand elles seront publiées
+* faites participer les utilisateurs et assurez-vous qu’ils comprennent comment et pourquoi les données sont collectées et communiquées
+* assurez-vous que les données collectées sont correctement stockées, dans le respect des principes de conservation, et assurez-vous que votre équipe dispose d’un plan de récupération des données en cas de perte de données
+* efforcez-vous d’améliorer la qualité des données en tant que bien public en fonction de leur valeur et des besoins des utilisateurs
+* trouvez des moyens d’assurer le partage des données recueillies entre ministères ou secteurs du gouvernement afin de réduire le fardeau pour les utilisateurs et d’améliorer leur expérience globale
 
+### Lois et règlements à respecter 
+* [Directive sur les données ouvertes de l’Ontario](https://www.ontario.ca/fr/page/directive-sur-les-donnees-ouvertes-de-lontario)
+* [Catalogue de données de l’Ontario](https://data.ontario.ca/fr/)
+* Espace réservé : Directive sur l’information, la vie privée et les archives (interne)
 
 ---
 
@@ -562,11 +548,3 @@ Vous pouvez nous faire part de vos observations et idées :
 * Prenez un engagement (commit) par modification et expliquez la raison de votre modification dans votre message d’engagement (n’indiquez pas ce que vous avez modifié, mais pourquoi)
 
 [Licence du gouvernement ouvert – Ontario](https://www.ontario.ca/fr/page/licence-du-gouvernement-ouvert-ontario)
-
-### Footnotes
-
-* <a id="f1">1</a> anciennes versions d'un service, créées à des fins de test [↩](#a1)
-* <a id="f2">2</a> [Agile](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
-   était au départ une approche alternative au développement de logiciels. Ces méthodes sont désormais appliquées à d'autres types de projets et de produits. Leurs principes sont définis dans le
-   [Manifeste pour le développement Agile de logiciels](http://agilemanifesto.org/iso/fr/manifesto.html) [↩](#a2)
-* <a id="f3">3</a> diagrammes de processus enregistrés à partir du point de vue de vos utilisateurs [↩](#a3)
