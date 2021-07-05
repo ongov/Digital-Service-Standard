@@ -24,7 +24,7 @@ The standard is built on the aspirations and experiences of teams across the Ont
 
 Ontario’s service design journey follows design and release phases. Each phase is driven by user needs and prioritizes several points from the standard. Learn more about how to work in design and release phases in the [Service Design Playbook] (https://www.ontario.ca/page/service-design-playbook).
 
-| User needs |            |
+| User needs |Release stages           |
 | ---------- | ---------- |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery </h3>Conducting user research to understand user needs |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha </h3>Testing our hypotheses with users using prototypes, models, examples or mock-ups |
