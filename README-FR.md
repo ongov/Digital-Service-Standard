@@ -539,7 +539,7 @@ Vous pouvez nous faire part de vos observations et idées :
 
 ### Sur GitHub
 
-**Nota :** Le `develop` branch (embranchement développer) est une ébauche de travail. Les normes officielles se trouvent dans le `master` branc (’embranchement maître) et sur Ontario.ca.
+**Nota :** La branche `develop` (embranchement développeur) est une ébauche de travail. Les normes officielles se trouvent dans la branche `master` (’embranchement maître) et sur Ontario.ca.
 
 * Utilisez Markdown pour formater vos modifications
 * N’utilisez pas HTML sauf si les modifications que vous voulez faire ne peuvent pas être faites avec Markdown (par exemple, les rubriques dans un tableau)
